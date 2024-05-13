@@ -60,14 +60,14 @@
     "href": "index.html",
     "title": "Data Science for Public Good 2024",
     "section": "",
-    "text": "This Quarto website is an experimental page hosting project documentation through blogs for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
+    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
   },
   {
     "objectID": "index.html#introduction",
     "href": "index.html#introduction",
     "title": "Data Science for Public Good 2024",
     "section": "",
-    "text": "This Quarto website is an experimental page hosting project documentation through blogs for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
+    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
   },
   {
     "objectID": "index.html#projects",
@@ -82,6 +82,41 @@
     "title": "Program Participants",
     "section": "",
     "text": "Program Leader\n\nChristopher J. Seeger, Professor, Landscape Architecture; Extension Specialist in Geospatial Technologies\n\nProgram Coordinator\n\nHarun Çelik, History and Graduate GIS Certificate\n\nProject Advisers\n\nLisa Bates, Assistant Director, Community and Economic Development\nLiesl Eathington, Research Scientist III\nMatthew Voss, Rural Policy Data Analyst at Public Science Collaborative\nJay Maxwell, Data Analyst in Community and Economic Development Extension\n\nProgram Advisers\n\nAdisak Sukul, Ph.D. Associate Teaching Professor\nHeike Hoffman, Professor\nTodd Abraham, Research Scientist\n\nGraduate Fellows\n\nKarthik Hanumanthaiah, Computer Science\nTabassum Zaman, Community and Regional Planning\nSolomon Eshun, Applied Mathematics\n\nUndergraduate Interns\n\nAlister Gan, Data Science\nBlake Underwood, Data Science and Economics\nCael Leistikow, Landscape Architecture\nLily Christenson, Business and Statistics\nNaomi Mauss, Data Science\nNhat Le, Data Science, Math, and Computer Science\nManjul Balayar, Computer Science"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Weekly Schedule",
+    "section": "",
+    "text": "Location\n\nCoover 1011\n\nDaily Goals\n\nDSPG Introductions, Data Camp Assessments, and Data Team Activity\n\n\n\n8:00 – 8:30:\n\nIntroduction to the DSPG Program (Slide Deck of Past Projects and General Goals)\nIntroductions between DSPG Scholars, Fellows, and Project Advisers\n\n8:30 – 9:30:\n\nShare information about student expectations\nShare scheduling information\nShare calendar information of the program\n\n9:30 - 12:00:\n\nDataCamp Assessments\n\nAnalytic Fundamentals\nR Programming\nPython Programming\nAI Fundamentals\n\n\n12:00 - 1:00: Lunch Break\n1:00 - 1:15: Data Team Activity Introduction\n1:15 - 3:15: Data Team Activity Work Time\n3:15 - 4:00: Data Team Activity Presentations\n\n\n\n\n\nLocation\n\nCoover 1011\n\nDaily Goals\n\nGit, GitHub, Teams, Outlook Calendar, CyBox, and Blogs Setup\n\n\n\n8:00 – 9:00:\n\nGitHub Training through Interactive Lesson\n\n9:00 – 10:00:\n\nGo over the Teams Channels\nGo over CyBox setups\nGo over Outlook Calendar\n\n10:00 – 12:00:\n\nPresent the Blogging System\nAdd Students to GitHub Classrooms\nSet up Individual Blogs\n\n12:00 – 1:00: Lunch Break\n1:00 – 4:00: Students Receive First Blog Assignment on Their Introductions\n\n\n\n\n\nLocation\n\nCarver 0268 (EVERY FRIDAY)\n\nDaily Goals\n\nBlog Student Introduction Presentations and DataCamp\n\n\n\n8:00 – 12:00:\n\nStudent Introduction Presentations\nCollect Pre-DSPG Skill Set Survey (Google Survey)\n\nLunch Break\n1:00 – 4:00: Data Camp Training"
+  },
+  {
+    "objectID": "schedule.html#may-15th-wednesday",
+    "href": "schedule.html#may-15th-wednesday",
+    "title": "Weekly Schedule",
+    "section": "",
+    "text": "Location\n\nCoover 1011\n\nDaily Goals\n\nDSPG Introductions, Data Camp Assessments, and Data Team Activity\n\n\n\n8:00 – 8:30:\n\nIntroduction to the DSPG Program (Slide Deck of Past Projects and General Goals)\nIntroductions between DSPG Scholars, Fellows, and Project Advisers\n\n8:30 – 9:30:\n\nShare information about student expectations\nShare scheduling information\nShare calendar information of the program\n\n9:30 - 12:00:\n\nDataCamp Assessments\n\nAnalytic Fundamentals\nR Programming\nPython Programming\nAI Fundamentals\n\n\n12:00 - 1:00: Lunch Break\n1:00 - 1:15: Data Team Activity Introduction\n1:15 - 3:15: Data Team Activity Work Time\n3:15 - 4:00: Data Team Activity Presentations"
+  },
+  {
+    "objectID": "schedule.html#may-16th-thursday",
+    "href": "schedule.html#may-16th-thursday",
+    "title": "Weekly Schedule",
+    "section": "",
+    "text": "Location\n\nCoover 1011\n\nDaily Goals\n\nGit, GitHub, Teams, Outlook Calendar, CyBox, and Blogs Setup\n\n\n\n8:00 – 9:00:\n\nGitHub Training through Interactive Lesson\n\n9:00 – 10:00:\n\nGo over the Teams Channels\nGo over CyBox setups\nGo over Outlook Calendar\n\n10:00 – 12:00:\n\nPresent the Blogging System\nAdd Students to GitHub Classrooms\nSet up Individual Blogs\n\n12:00 – 1:00: Lunch Break\n1:00 – 4:00: Students Receive First Blog Assignment on Their Introductions"
+  },
+  {
+    "objectID": "schedule.html#may-17th-friday",
+    "href": "schedule.html#may-17th-friday",
+    "title": "Weekly Schedule",
+    "section": "",
+    "text": "Location\n\nCarver 0268 (EVERY FRIDAY)\n\nDaily Goals\n\nBlog Student Introduction Presentations and DataCamp\n\n\n\n8:00 – 12:00:\n\nStudent Introduction Presentations\nCollect Pre-DSPG Skill Set Survey (Google Survey)\n\nLunch Break\n1:00 – 4:00: Data Camp Training"
+  },
+  {
+    "objectID": "schedule.html#may-20th-monday",
+    "href": "schedule.html#may-20th-monday",
+    "title": "Weekly Schedule",
+    "section": "May 20th – Monday",
+    "text": "May 20th – Monday\n\nLocation\n\nEast Hall 311 (EVERY MON-THUR)\n\nDaily Goals\n\nStudents Assigned to Projects and Tidycensus Training\n\n\n\n8:00 – 9:00: Graphics Monday Exercise\n9:00 - 12:00: Project Team Assignments and Project Introductions\n12:00 - 12:30: Lunch Break\n1:00 - 2:30: Sandy Census Training\n2:30 - 3:30: Tidycensus Training\n3:30 - 4:00: Students Receive their Tidycensus Assignment"
   },
   {
     "objectID": "studentBlogs/alister.html",
@@ -144,7 +179,7 @@
     "href": "studentBlogs/harun.html",
     "title": "Harun Celik",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 12, 2024\n\n\nHarun’s Introduction\n\n\nHarun Celik\n\n\n\n\n\n\nNo matching items"
+    "text": "Harun’s Introduction\n\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\nHarun Celik\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "studentBlogs/joseph.html",

@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -184,6 +184,10 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../schedule.html" rel="" target="">
+ <span class="menu-text">Schedule</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -229,62 +233,44 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Introduction" data-listing-date-sort="1715490000000" data-listing-file-modified-sort="1715556918719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="../studentBlogs/harun/student-introductions/harun_Introduction.html"> <p class="card-img-top"><img src="harun\student-introductions\imgs\Hist_DS_Venn.png"  class="thumbnail-image card-img"/></p> </a></p>
 </div>
+<div class="body">
+<a href="../studentBlogs/harun/student-introductions/harun_Introduction.html">
+<h3 class="no-anchor listing-title">
+Harun’s Introduction
+</h3>
+<div class="listing-subtitle">
 
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Introduction" data-listing-date-sort="1715490000000" data-listing-file-modified-sort="1715556918719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Harun's Introduction" data-listing-filename-sort="harun_Introduction.qmd">
-<td>
-<span class="listing-date">May 12, 2024</span>
-</td>
-<td>
-<a href="../studentBlogs/harun/student-introductions/harun_Introduction.html" class="title listing-title">Harun’s Introduction</a>
-</td>
-<td>
-<span class="listing-author">Harun Celik</span>
-</td>
-</tr>
-</tbody>
-
-</table>
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Introduction'); return false;">
+Introduction
+</div>
+</div>
+<a href="../studentBlogs/harun/student-introductions/harun_Introduction.html">
+<div class="listing-description">
+My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../studentBlogs/harun/student-introductions/harun_Introduction.html">
+<div class="listing-date">
+May 12, 2024
+</div>
+<div class="listing-author">
+Harun Celik
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

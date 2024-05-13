@@ -1,0 +1,62 @@
+[
+  {
+    "listing": "/allBlogs.html",
+    "items": [
+      "/blogs2024/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/alister.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/blake.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/cael.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/harun.html",
+    "items": [
+      "/studentBlogs/harun/student-introductions/harun_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/joseph.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/karthik.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/lily.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/manjul.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/naomi.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/neha.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/nhat.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/solomon.html",
+    "items": []
+  },
+  {
+    "listing": "/studentBlogs/tabassum.html",
+    "items": []
+  }
+]

@@ -1,0 +1,21 @@
+/* css styles */
+
+body {
+  font-family: "Reddit Mono", monospace !important;
+  font-optical-sizing: auto !important;
+  font-size: 0.9em;
+  font-style: normal !important;
+  background-color: #F0F8E6;
+}
+
+#profile {
+  width: 500px;
+}
+
+.award {
+  height: 250px;
+}
+
+h1, h3, h4 {
+  text-align: center;
+}

@@ -749,11 +749,53 @@
     "text": "Personal Introduction\n\nOrigin: I am from Andhra Pradesh, India.\nAcademic Year: I will be junior in the coming fall semester.\nDegree Pursuits: I am majoring in Computer Science and minoring in Data Science. My interest in these fields was sparked by an inspiring Computer Science professor during my high school years.\nCareer Aspirations: I aim to become a software developer at a FANG company, leveraging my degrees to build a solid foundation in technology.\nInterest in Data Science: Data science fascinates me because of its power to solve complex problems and its potential to drive innovation across various industries.\nData Science Experience: I have basic knowledge in data science, familiar with tools like R and Pandas, though I am still in the early stages of my data science education.\nHobbies and Extracurricular Activities: My free time is often spent playing badminton and cricket with friends. I am also an active participant in dance programs organized by the Indian Student Association (ISA).\n\n \n\n\nPersonal Learning Objectives for DSPG\n\nValued Skills: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.\nSkills to Develop:\n\nReal-world problem-solving: Learning to navigate and address complex real-world challenges.\nClient requirement fulfillment: Understanding and meeting client expectations effectively.\nIndustry readiness: Preparing myself to seamlessly transition into a professional environment.\n\nMotivation for These Skills: These skills are essential for me to have a successful career in software development, especially in a competitive and dynamic field like tech industry.\nImprovement Strategy: To enhance these skills, I plan to engage deeply with in my project at DSPG, ensuring I have a clear understanding of the underlying principles and actively seeking feedback to refine my approach."
   },
   {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html",
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
     "title": "Nhat’s Introduction",
-    "section": "",
-    "text": "Data Science for the Public Good\n\n\nMay 17, 2024\n\n\n\nIntroduction\nHello, it’s me! My name is Nhat, but I know it’s hard to pronounce! So just call me Chris!\n\nKeywords: Logic, Mathematics & Random Science Facts\n\n\nMajors\nA first-year student in the Iowa State honors program, struggling with a triple major in computer science, data science and applied mathematics. :(\n\n\nData Science with Me\nWhy data science? Imagine a world where every second brings new data and endless opportunities to uncover hidden patterns. Sounds like a interesting version of a treasure hunt, right? That means, becoming a data scientist guarantees that I’ll never run out of puzzles to solve, and let’s face it, puzzles are way more fun than Sudoku.\n\n\nPrior Experience?\nMy passion for mathematics and logical challenges naturally drew me to the fascinating world of AI and data science. I don’t have much coding experience regarding these two areas, but I strongly believe my statistical and mathematical foundation is a great plus during my journey.\n\n\nHobbies\nOutside of my academic endeavors, I enjoy participating in mathematics competitions (because who doesn’t love a good brain workout?), developing software projects, and staying up-to-date with the latest tech trends. I also have a passion for leadership and community involvement, which has seen me take on various extracurricular activities.\n\n\n\n\nGertrude Herr Adamson Award ($1,000)\n\n\n\n\n\n\n\n\nIowa Collegiate Math Competition (1st Place)\n\n\n\n\nObjectives\n\n\n\nAcademic and Professional Goals\nI’m on a quest to climb the academic ladder, aiming for a Ph.D. degree after graduating. My current mission is to absorb as many advanced courses as possible and utilize online platforms like Coursera to build a robust foundation in machine learning. Also, I want to join a research, where I can leverage my skills to prepare for an intensive study in machine learning.\n\n\nSkills and Development\n\nValued Skills\n\nAnalytical thinking and problem-solving (a.k.a. being a data detective)\nProficiency in programming languages like Python\nStrong foundation in mathematical concepts and their applications (because math is the language of the universe, and who doesn’t want to speak universe?)\n\n\n\nSkills to Develop\n\nData exploration and visualization (turning data into beautiful, insightful art)\nData cleaning (because even data needs a good scrub sometimes)\nData processing (preparing data for the ultimate transformation)\nBasics of AI and machine learning knowledge (unlocking the secrets of smart machines) \n\n\n\nPursuing These Skills\nThese skills are essential to be well-prepared for future internships and professional jobs. Mastering them will allow me to tackle complex problems, effectively communicate insights, and stay competitive in the rapidly evolving field of data science.\n\n\n\nInteresting Fact\nAn interesting fact about me is that I thrive on challenges and enjoy stepping out of my comfort zone. My background and experiences have shaped my academic journey and fueled my passion for machine learning and data science. I look forward to sharing my knowledge and learning from my peers at Iowa State.\nP.S. If you ever need a teammate for any development projects, I’m your person. Just bring some coffee."
+    "section": "Majors",
+    "text": "Majors\nA first-year student in the Iowa State honors program, struggling with a triple major in computer science, data science and applied mathematics. :("
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
+    "title": "Nhat’s Introduction",
+    "section": "Data Science with Me",
+    "text": "Data Science with Me\nWhy data science? Imagine a world where every second brings new data and endless opportunities to uncover hidden patterns. Sounds like a interesting version of a treasure hunt, right? That means, becoming a data scientist guarantees that I’ll never run out of puzzles to solve, and let’s face it, puzzles are way more fun than Sudoku."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
+    "title": "Nhat’s Introduction",
+    "section": "Prior Experience?",
+    "text": "Prior Experience?\nMy passion for mathematics and logical challenges naturally drew me to the fascinating world of AI and data science. I don’t have much coding experience regarding these two areas, but I strongly believe my statistical and mathematical foundation is a great plus during my journey."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
+    "title": "Nhat’s Introduction",
+    "section": "Hobbies",
+    "text": "Hobbies\nOutside of my academic endeavors, I enjoy participating in mathematics competitions (because who doesn’t love a good brain workout?), developing software projects, and staying up-to-date with the latest tech trends. I also have a passion for leadership and community involvement, which has seen me take on various extracurricular activities.\n\n\n\n\nGertrude Herr Adamson Award ($1,000)\n\n\n\n\n\n\n\n\nIowa Collegiate Math Competition (1st Place)"
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
+    "title": "Nhat’s Introduction",
+    "section": "Academic and Professional Goals",
+    "text": "Academic and Professional Goals\nI’m on a quest to climb the academic ladder, aiming for a Ph.D. degree after graduating. My current mission is to absorb as many advanced courses as possible and utilize online platforms like Coursera to build a robust foundation in machine learning. Also, I want to join a research, where I can leverage my skills to prepare for an intensive study in machine learning."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
+    "title": "Nhat’s Introduction",
+    "section": "Skills and Development",
+    "text": "Skills and Development\n\nValued Skills\n\nAnalytical thinking and problem-solving (a.k.a. being a data detective)\nProficiency in programming languages like Python\nStrong foundation in mathematical concepts and their applications (because math is the language of the universe, and who doesn’t want to speak universe?)\n\n\n\nSkills to Develop\n\nData exploration and visualization (turning data into beautiful, insightful art)\nData cleaning (because even data needs a good scrub sometimes)\nData processing (preparing data for the ultimate transformation)\nBasics of AI and machine learning knowledge (unlocking the secrets of smart machines) \n\n\n\nPursuing These Skills\nThese skills are essential to be well-prepared for future internships and professional jobs. Mastering them will allow me to tackle complex problems, effectively communicate insights, and stay competitive in the rapidly evolving field of data science."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
+    "title": "Nhat’s Introduction",
+    "section": "Interesting Fact",
+    "text": "Interesting Fact\nAn interesting fact about me is that I thrive on challenges and enjoy stepping out of my comfort zone. My background and experiences have shaped my academic journey and fueled my passion for machine learning and data science. I look forward to sharing my knowledge and learning from my peers at Iowa State.\nP.S. If you ever need a teammate for any development projects, I’m your person. Just bring some coffee."
   },
   {
     "objectID": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",

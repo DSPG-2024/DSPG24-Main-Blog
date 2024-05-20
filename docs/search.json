@@ -123,35 +123,35 @@
     "href": "schedule.html#may-20th-monday",
     "title": "Weekly Schedule",
     "section": "May 20th – Monday",
-    "text": "May 20th – Monday\n\nLocation\n\nEast Hall 311 (EVERY MON-THUR)\n\nDaily Goals\n\nStudents Assigned to Projects and Tidycensus Training\n\n\n\n8:00 – 9:00: Graphics Monday Exercise\n9:00 - 12:00: Project Team Assignments and Project Introductions\n12:00 - 12:30: Lunch Break\n2:30 - 3:30: Tidycensus Training\n3:30 - 4:00: Students Receive their Tidycensus Assignment"
+    "text": "May 20th – Monday\n\nLocation\n\nEast Hall 311 (EVERY MON-THUR)\n\nDaily Goals\n\nTidycensus Training\n\n\n\n8:00 – 9:00: Graphics Monday Exercise\n9:00 - 12:00: Tidycensus Training Starts\n\nIntroduction: Read through the Topics below on Census Reporter\n\nGetting Started\nAbout the Census\nGeography\nLook through the Table Codes to get an idea of what’s available\nThe Census Subjects headings detail how each variable is collected and what tables are associated with those variables\n\nPractice in R: Read through the Designated Sections of the Analyzing US Census Data Book\n\nReview the material from the Preface up to Chapter 5: Census Geographic Data and Applications in R\n\n\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Tidycensus Training Continues\n\nRecent Materials: Review the Working with the 2022 ACS and Analyzing 2020 Decennial US Census Data in R presentations. There is a lot of overlap with the book, but you can click the hamburger icon on the bottom left to navigate the menu when its information you’ve already learned.\nCensus Mapping: Go through the Doing ‘GIS’ and making maps with US Census data in R presentation. This will be new information so practice the code on the presentation with areas of interest to you. You can use these materials for your upcoming blog post.\n\n3:00 - 4:00: Students Start Working on Tidycensus Assignment"
   },
   {
     "objectID": "schedule.html#may-21st-tuesday",
     "href": "schedule.html#may-21st-tuesday",
     "title": "Weekly Schedule",
     "section": "May 21st – Tuesday",
-    "text": "May 21st – Tuesday\n\nLocation\n\nEast Hall 311"
+    "text": "May 21st – Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nMatthew Voss on Quarto Documents, TidyCensus, and DataCamp\n\n\n\n8:00 – 9:00: Presentation on Quarto Document Generation\n9:00 - 12:00: TidyCensus Assignment Completion\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Training on DataCamp"
   },
   {
     "objectID": "schedule.html#may-22nd-wednesday",
     "href": "schedule.html#may-22nd-wednesday",
     "title": "Weekly Schedule",
     "section": "May 22nd – Wednesday",
-    "text": "May 22nd – Wednesday\n\nLocation\n\nEast Hall 311 (Morning Only)\n\nDaily Goals\n\nStudents Hold Their First Client Meeting\n\n\n\n1:00 - 4:00: Client Meetings for All Teams\n\nZoning Guide Meets at 2321 N Loop Dr. Suite 121\nHousing and AI Meets at 2321 N Loop Dr. Suite Second Floor West Conference Room\nCapitals TBD"
+    "text": "May 22nd – Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStudents Hold Their First Client Meeting\n\n\n\n8:00 - 9:00: Coding Group Activity\n9:00 - 10:00: Continue Project Specific Training\n1:00 - 4:00: Client Meetings for All Teams\n\nZoning Guide Meets at 2321 N Loop Dr. Suite 121 (link to Google Maps)\nHousing and AI Meets at 2321 N Loop Dr. Second Floor West Conference Room\nCapitals at East Hall 311"
   },
   {
     "objectID": "schedule.html#may-23rd-thursday",
     "href": "schedule.html#may-23rd-thursday",
     "title": "Weekly Schedule",
     "section": "May 23rd – Thursday",
-    "text": "May 23rd – Thursday\n\nLocation\n\nEast Hall 311\n\n\n*Zoning Guide Team Completes Their Assignments from Client Meeting"
+    "text": "May 23rd – Thursday\n\nLocation\n\nEast Hall 311\n\n\n*Zoning Guide Team Completes Their Assignments from Client Meeting\n\n8:00 - 9:00: Solomon Eshun Presentation\n9:00 - 12:00: Project Specific Training Continues\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Training Continues"
   },
   {
     "objectID": "schedule.html#may-24th---friday",
     "href": "schedule.html#may-24th---friday",
     "title": "Weekly Schedule",
     "section": "May 24th - Friday",
-    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n*Zoning Guide Team Completes Their Assignments from Client Meeting"
+    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n*Zoning Guide Team Completes Their Assignments from Client Meeting\n\n8:00 - 8:30: DS Trivia\n8:30 - 1:00: Complete Necessary Training for Projects\nRest of the Day is Off"
   },
   {
     "objectID": "schedule.html#may-27th---monday",
@@ -165,7 +165,7 @@
     "href": "schedule.html#may-28th---tuesday",
     "title": "Weekly Schedule",
     "section": "May 28th - Tuesday",
-    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work & Census Training with Sandy\n\n\n\n10:00 - 12:00: Sandy Census Presentation"
+    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work & Census Training with Sandy\n\n\n\n8:00 - 9:00:\n10:00 - 12:00: Sandy Census Presentation"
   },
   {
     "objectID": "schedule.html#may-29th---wednesday",

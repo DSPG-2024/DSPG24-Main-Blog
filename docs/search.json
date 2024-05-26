@@ -137,21 +137,21 @@
     "href": "schedule.html#may-22nd-wednesday",
     "title": "Weekly Schedule",
     "section": "May 22nd – Wednesday",
-    "text": "May 22nd – Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStudents Hold Their First Client Meeting\n\n\n\n8:00 - 9:00: Coding Group Activity\n9:00 - 10:00: Start Project Specific DataCamp Training\n1:00 - 4:00: Client Meetings for All Teams\n\nZoning Guide Meets at 2321 N Loop Dr. Suite 121 (link to Google Maps)\nHousing and AI Meets at 2321 N Loop Dr. Second Floor West Conference Room\nCapitals at East Hall 311"
+    "text": "May 22nd – Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStudents Hold Their First Client Meeting\n\n\n\n8:00 - 9:00: Complete\n9:00 - 10:00: Start Project Specific DataCamp Training\n1:00 - 4:00: Client Meetings for All Teams\n\nZoning Guide Meets at 2321 N Loop Dr. Suite 121 (link to Google Maps)\nHousing and AI Meets at 2321 N Loop Dr. Second Floor West Conference Room\nCapitals at East Hall 311"
   },
   {
     "objectID": "schedule.html#may-23rd-thursday",
     "href": "schedule.html#may-23rd-thursday",
     "title": "Weekly Schedule",
     "section": "May 23rd – Thursday",
-    "text": "May 23rd – Thursday\n\nLocation\n\nEast Hall 311\n\n\n*Zoning Guide Team Completes Their Assignments from Client Meeting\n\n8:00 - 9:00: Solomon Eshun Presentation\n9:00 - 12:00: Project Specific Training Continues\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Training Continues"
+    "text": "May 23rd – Thursday\n\nLocation\n\nEast Hall 311\n\n\n*Zoning Guide Team Completes Their Assignments from Client Meeting\n\n8:00 - 9:00: Solomon Eshun Presentation\n9:00 - 12:00: Project Specific Training Continues\n12:00 - 1:00: Lunch Break\n1:00 - 2:00: Guest Speaker - Félix A. Báez-Santiago\n2:00 - 4:00: Project Specific Training Continues"
   },
   {
     "objectID": "schedule.html#may-24th---friday",
     "href": "schedule.html#may-24th---friday",
     "title": "Weekly Schedule",
     "section": "May 24th - Friday",
-    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n*Zoning Guide Team Completes Their Assignments from Client Meeting\n\n8:00 - 8:30: DS Trivia\n8:30 - 1:00: Complete Necessary Training for Projects\nRest of the Day is Off"
+    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n\n8:00 - 10:00: Complete Tidycensus-Retail Trade Presentations\n10:00 - 12:00: Tidycensus-Retail Trade Presentations\n12:00 - 1:00: DataCamp Training\nRest of the Day is Off"
   },
   {
     "objectID": "schedule.html#may-27th---monday",
@@ -165,14 +165,14 @@
     "href": "schedule.html#may-28th---tuesday",
     "title": "Weekly Schedule",
     "section": "May 28th - Tuesday",
-    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work & Census Training with Sandy\n\n\n\n8:00 - 9:00:\n10:00 - 12:00: Sandy Census Presentation"
+    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Project Members Meet with their Teams\n12:00 - 1:00: Lunch Break"
   },
   {
     "objectID": "schedule.html#may-29th---wednesday",
     "href": "schedule.html#may-29th---wednesday",
     "title": "Weekly Schedule",
     "section": "May 29th - Wednesday",
-    "text": "May 29th - Wednesday\n\nLocation\n\nEast Hall 311"
+    "text": "May 29th - Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Census Training with Sandy\n\n\n\n10:00 - 12:00: Sandra Burke Census Presentation"
   },
   {
     "objectID": "schedule.html#may-30th---thursday",
@@ -200,7 +200,7 @@
     "href": "schedule.html#june-4th---tuesday",
     "title": "Weekly Schedule",
     "section": "June 4th - Tuesday",
-    "text": "June 4th - Tuesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 4th - Tuesday\n\nLocation\n\nEast Hall 311\n\n\n\n11:30 - 12:30: Guest Speaker - Dr. Cass Dorius"
   },
   {
     "objectID": "schedule.html#june-5th---wednesday",
@@ -242,7 +242,7 @@
     "href": "schedule.html#june-12th---wednesday",
     "title": "Weekly Schedule",
     "section": "June 12th - Wednesday",
-    "text": "June 12th - Wednesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 12th - Wednesday\n\nLocation\n\nEast Hall 311\n\n\n\n1:00 - 2:00: Guest Speaker - Dr. Scott Samuelson"
   },
   {
     "objectID": "schedule.html#june-13th---thursday",
@@ -469,32 +469,11 @@
     "text": "July 26th - Friday\n\nLocation\n\nCarver 0268"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Science for Public Good 2024",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Program Participants",
     "section": "",
-    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
-  },
-  {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
-    "title": "Data Science for Public Good 2024",
-    "section": "",
-    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Data Science for Public Good 2024",
-    "section": "Projects",
-    "text": "Projects\n\nIowa Zoning Guide\nDescription to be placed here\nProject Sponsor: IEDA\nProject Advisers: Jay Maxwell, Chris Seeger\nGraduate Fellows and Interns: Tabassum Zaman\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nCommunity Capitals\nDescription to be placed here\nProject Sponsor: Sponsor\nProject Advisers: Matthew Voss\nGraduate Fellows and Interns: Solomon Eshun\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nHousing and AI\nDescription to be placed here\nProject Sponsor: AI Institute for Resilient Agriculture (AIIRA)\nProject Advisers: Liesl Eathington, Rakesh Shah\nGraduate Fellows and Interns: Karthik Hanumanthaiah\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube"
-  },
-  {
-    "objectID": "allBlogs.html",
-    "href": "allBlogs.html",
-    "title": "Project Blogs",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+    "text": "Program Leader\n\nChristopher J. Seeger, Professor, Landscape Architecture; Extension Specialist in Geospatial Technologies\n\nProgram Coordinator\n\nHarun Çelik, History and Graduate GIS Certificate\n\nProject Advisers\n\nLisa Bates, Assistant Director, Community and Economic Development\nLiesl Eathington, Research Scientist III\nMatthew Voss, Rural Policy Data Analyst at Public Science Collaborative\nJay Maxwell, Data Analyst in Community and Economic Development Extension\n\nProgram Advisers\n\nAdisak Sukul, Ph.D. Associate Teaching Professor\nHeike Hoffman, Professor\nTodd Abraham, Research Scientist\n\nGraduate Fellows\n\nKarthik Hanumanthaiah, Computer Science\nTabassum Zaman, Community and Regional Planning\nSolomon Eshun, Applied Mathematics\n\nUndergraduate Interns\n\nAlister Gan, Data Science\nBlake Underwood, Data Science and Economics\nCael Leistikow, Landscape Architecture\nLily Christenson, Business and Statistics\nNaomi Mauss, Data Science\nNhat Le, Data Science, Math, and Computer Science\nManjul Balayar, Computer Science"
   },
   {
     "objectID": "blogs2024/welcome/index.html",
@@ -546,11 +525,74 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Program Participants",
+    "objectID": "allBlogs.html",
+    "href": "allBlogs.html",
+    "title": "Project Blogs",
     "section": "",
-    "text": "Program Leader\n\nChristopher J. Seeger, Professor, Landscape Architecture; Extension Specialist in Geospatial Technologies\n\nProgram Coordinator\n\nHarun Çelik, History and Graduate GIS Certificate\n\nProject Advisers\n\nLisa Bates, Assistant Director, Community and Economic Development\nLiesl Eathington, Research Scientist III\nMatthew Voss, Rural Policy Data Analyst at Public Science Collaborative\nJay Maxwell, Data Analyst in Community and Economic Development Extension\n\nProgram Advisers\n\nAdisak Sukul, Ph.D. Associate Teaching Professor\nHeike Hoffman, Professor\nTodd Abraham, Research Scientist\n\nGraduate Fellows\n\nKarthik Hanumanthaiah, Computer Science\nTabassum Zaman, Community and Regional Planning\nSolomon Eshun, Applied Mathematics\n\nUndergraduate Interns\n\nAlister Gan, Data Science\nBlake Underwood, Data Science and Economics\nCael Leistikow, Landscape Architecture\nLily Christenson, Business and Statistics\nNaomi Mauss, Data Science\nNhat Le, Data Science, Math, and Computer Science\nManjul Balayar, Computer Science"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science for Public Good 2024",
+    "section": "",
+    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Data Science for Public Good 2024",
+    "section": "",
+    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Data Science for Public Good 2024",
+    "section": "Projects",
+    "text": "Projects\n\nIowa Zoning Guide\nDescription to be placed here\nProject Sponsor: IEDA\nProject Advisers: Jay Maxwell, Chris Seeger\nGraduate Fellows and Interns: Tabassum Zaman\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nCommunity Capitals\nDescription to be placed here\nProject Sponsor: Sponsor\nProject Advisers: Matthew Voss\nGraduate Fellows and Interns: Solomon Eshun\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nHousing and AI\nDescription to be placed here\nProject Sponsor: AI Institute for Resilient Agriculture (AIIRA)\nProject Advisers: Liesl Eathington, Rakesh Shah\nGraduate Fellows and Interns: Karthik Hanumanthaiah\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny\n\n\n\n\nPackage Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+  },
+  {
+    "objectID": "resources.html#books",
+    "href": "resources.html#books",
+    "title": "Resources",
+    "section": "",
+    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny"
+  },
+  {
+    "objectID": "resources.html#packages",
+    "href": "resources.html#packages",
+    "title": "Resources",
+    "section": "",
+    "text": "Package Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+  },
+  {
+    "objectID": "resources.html#tidycensus",
+    "href": "resources.html#tidycensus",
+    "title": "Resources",
+    "section": "tidycensus",
+    "text": "tidycensus\nAnalyzing US Census Data\nWorking with the 2022 ACS\nAnalyzing 2020 Decennial US Census Data in R\nDoing ‘GIS’ and making maps with US Census data in R"
+  },
+  {
+    "objectID": "resources.html#census-information",
+    "href": "resources.html#census-information",
+    "title": "Resources",
+    "section": "Census Information",
+    "text": "Census Information\nCensus Reporter"
+  },
+  {
+    "objectID": "resources.html#books-1",
+    "href": "resources.html#books-1",
+    "title": "Resources",
+    "section": "Books",
+    "text": "Books\nCausality for Machine Learning"
   },
   {
     "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html",
@@ -704,14 +746,14 @@
     "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
     "title": "Lily’s Introduction",
     "section": "",
-    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\nWarning: package 'ggplot2' was built under R version 4.3.3\n\n\nWarning: package 'dplyr' was built under R version 4.3.3\n\n\nWarning: package 'stringr' was built under R version 4.3.3\n\n\nWarning: package 'knitr' was built under R version 4.3.2\n\n\nWarning: package 'ggResidpanel' was built under R version 4.3.3\n\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
   },
   {
     "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
     "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
     "title": "Lily’s Introduction",
     "section": "",
-    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\nWarning: package 'ggplot2' was built under R version 4.3.3\n\n\nWarning: package 'dplyr' was built under R version 4.3.3\n\n\nWarning: package 'stringr' was built under R version 4.3.3\n\n\nWarning: package 'knitr' was built under R version 4.3.2\n\n\nWarning: package 'ggResidpanel' was built under R version 4.3.3\n\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
   },
   {
     "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html",

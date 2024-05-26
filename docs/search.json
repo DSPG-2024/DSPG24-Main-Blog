@@ -151,7 +151,7 @@
     "href": "schedule.html#may-24th---friday",
     "title": "Weekly Schedule",
     "section": "May 24th - Friday",
-    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n\n8:00 - 10:00: Complete Tidycensus-Retail Trade Presentations\n10:00 - 12:00: Tidycensus-Retail Trade Presentations\n12:00 - 1:00: DataCamp Training\nRest of the Day is Off"
+    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n\n8:00 - 10:00: Complete Tidycensus-Retail Trade Presentations\n10:00 - 12:00: Tidycensus-Retail Trade Presentations\n12:00 - 1:00: DataCamp Training\n\nRest of the Day is Off"
   },
   {
     "objectID": "schedule.html#may-27th---monday",
@@ -165,28 +165,28 @@
     "href": "schedule.html#may-28th---tuesday",
     "title": "Weekly Schedule",
     "section": "May 28th - Tuesday",
-    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Project Members Meet with their Teams\n12:00 - 1:00: Lunch Break"
+    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Project Members Meet with their Teams\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-29th---wednesday",
     "href": "schedule.html#may-29th---wednesday",
     "title": "Weekly Schedule",
     "section": "May 29th - Wednesday",
-    "text": "May 29th - Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Census Training with Sandy\n\n\n\n10:00 - 12:00: Sandra Burke Census Presentation"
+    "text": "May 29th - Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Census Training with Sandy\n\n\n\n8:00 - 9:00: Group Coding Activity\n9:00 - 10:00: Project Specific Work Continues\n10:00 - 12:00: Sandra Burke Census Presentation\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-30th---thursday",
     "href": "schedule.html#may-30th---thursday",
     "title": "Weekly Schedule",
     "section": "May 30th - Thursday",
-    "text": "May 30th - Thursday\n\nLocation\n\nEast Hall 311"
+    "text": "May 30th - Thursday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Learn about Coding Functions with Karthik Hanumanthaiah\n\n\n\n8:00 - 9:00: Karthik Hanumanthaiah Functions Presentation\n10:00 - 4:00: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-31st---friday",
     "href": "schedule.html#may-31st---friday",
     "title": "Weekly Schedule",
     "section": "May 31st - Friday",
-    "text": "May 31st - Friday\n\nLocation\n\nCarver 0268"
+    "text": "May 31st - Friday\n\nLocation\n\nCarver 0268\n\nDaily Goals\n\nCreate First Weekly Team Blog\n\n\n\n8:00 - 10:00: Complete this Week’s Project Goals\n10:00 - 12:00: Student’s Create Weekly Team Blog\n12:00 - 1:00: Lunch Break\n1:00 - 3:00: Student’s Present Team Weekly Blog\n3:00 - 4:00: Review Feedback and Submit Final weekly Blog"
   },
   {
     "objectID": "schedule.html#june-3rd---monday",
@@ -525,11 +525,25 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
+    "objectID": "Assignments/Actions-Test/Tidycensus_Assignment.html",
+    "href": "Assignments/Actions-Test/Tidycensus_Assignment.html",
+    "title": "Tidycensus and Retail Trade Exercise",
+    "section": "",
+    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
+  },
+  {
     "objectID": "allBlogs.html",
     "href": "allBlogs.html",
     "title": "Project Blogs",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Assignments/Tidycensus_Assignment.html",
+    "href": "Assignments/Tidycensus_Assignment.html",
+    "title": "Tidycensus and Retail Trade Exercise",
+    "section": "",
+    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
   },
   {
     "objectID": "index.html",

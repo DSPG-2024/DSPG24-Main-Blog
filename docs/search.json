@@ -525,25 +525,11 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
-    "objectID": "Assignments/Actions-Test/Tidycensus_Assignment.html",
-    "href": "Assignments/Actions-Test/Tidycensus_Assignment.html",
-    "title": "Tidycensus and Retail Trade Exercise",
-    "section": "",
-    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
-  },
-  {
     "objectID": "allBlogs.html",
     "href": "allBlogs.html",
     "title": "Project Blogs",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Assignments/Tidycensus_Assignment.html",
-    "href": "Assignments/Tidycensus_Assignment.html",
-    "title": "Tidycensus and Retail Trade Exercise",
-    "section": "",
-    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
   },
   {
     "objectID": "index.html",

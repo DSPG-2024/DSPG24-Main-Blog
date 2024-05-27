@@ -571,28 +571,28 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
+    "text": "Programming Designs & Refactoring\n\n\n\n\n\n\nR for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny\n\n\n\n\nPackage Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+  },
+  {
+    "objectID": "resources.html#general",
+    "href": "resources.html#general",
+    "title": "Resources",
+    "section": "",
+    "text": "Programming Designs & Refactoring"
+  },
+  {
+    "objectID": "resources.html#r",
+    "href": "resources.html#r",
+    "title": "Resources",
+    "section": "",
     "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny\n\n\n\n\nPackage Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
-  },
-  {
-    "objectID": "resources.html#books",
-    "href": "resources.html#books",
-    "title": "Resources",
-    "section": "",
-    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny"
-  },
-  {
-    "objectID": "resources.html#packages",
-    "href": "resources.html#packages",
-    "title": "Resources",
-    "section": "",
-    "text": "Package Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
   },
   {
     "objectID": "resources.html#tidycensus",
     "href": "resources.html#tidycensus",
     "title": "Resources",
-    "section": "tidycensus",
-    "text": "tidycensus\nAnalyzing US Census Data\nWorking with the 2022 ACS\nAnalyzing 2020 Decennial US Census Data in R\nDoing ‘GIS’ and making maps with US Census data in R"
+    "section": "Tidycensus",
+    "text": "Tidycensus\nAnalyzing US Census Data\nWorking with the 2022 ACS\nAnalyzing 2020 Decennial US Census Data in R\nDoing ‘GIS’ and making maps with US Census data in R"
   },
   {
     "objectID": "resources.html#census-information",

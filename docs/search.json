@@ -123,35 +123,35 @@
     "href": "schedule.html#may-20th-monday",
     "title": "Weekly Schedule",
     "section": "May 20th – Monday",
-    "text": "May 20th – Monday\n\nLocation\n\nEast Hall 311 (EVERY MON-THUR)\n\nDaily Goals\n\nStudents Assigned to Projects and Tidycensus Training\n\n\n\n8:00 – 9:00: Graphics Monday Exercise\n9:00 - 12:00: Project Team Assignments and Project Introductions\n12:00 - 12:30: Lunch Break\n2:30 - 3:30: Tidycensus Training\n3:30 - 4:00: Students Receive their Tidycensus Assignment"
+    "text": "May 20th – Monday\n\nLocation\n\nEast Hall 311 (EVERY MON-THUR)\n\nDaily Goals\n\nTidycensus Training\n\n\n\n8:00 – 9:00: Graphics Monday Exercise\n9:00 - 12:00: Tidycensus Training Starts\n\nIntroduction: Read through the Topics below on Census Reporter\n\nGetting Started\nAbout the Census\nGeography\nLook through the Table Codes to get an idea of what’s available\nThe Census Subjects headings detail how each variable is collected and what tables are associated with those variables\n\nPractice in R: Read through the Designated Sections of the Analyzing US Census Data Book\n\nReview the material from the Preface up to Chapter 5: Census Geographic Data and Applications in R\n\n\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Tidycensus Training Continues\n\nRecent Materials: Review the Working with the 2022 ACS and Analyzing 2020 Decennial US Census Data in R presentations. There is a lot of overlap with the book, but you can click the hamburger icon on the bottom left to navigate the menu when its information you’ve already learned.\nCensus Mapping: Go through the Doing ‘GIS’ and making maps with US Census data in R presentation. This will be new information so practice the code on the presentation with areas of interest to you. You can use these materials for your upcoming blog post."
   },
   {
     "objectID": "schedule.html#may-21st-tuesday",
     "href": "schedule.html#may-21st-tuesday",
     "title": "Weekly Schedule",
     "section": "May 21st – Tuesday",
-    "text": "May 21st – Tuesday\n\nLocation\n\nEast Hall 311"
+    "text": "May 21st – Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nProject Assignments, Matthew Voss on Quarto Documents, and Tidycensus assignment\n\n\n\n8:00 – 9:00: Team Assignments and Project Introductions\n9:00 - 12:00: TidyCensus Assignment Start\n12:00 - 1:00: Lunch Break\n1:00 - 2:00: Presentation on Quarto Document Generation\n2:00 - 4:00: Complete Tidycensus Assignment"
   },
   {
     "objectID": "schedule.html#may-22nd-wednesday",
     "href": "schedule.html#may-22nd-wednesday",
     "title": "Weekly Schedule",
     "section": "May 22nd – Wednesday",
-    "text": "May 22nd – Wednesday\n\nLocation\n\nEast Hall 311 (Morning Only)\n\nDaily Goals\n\nStudents Hold Their First Client Meeting\n\n\n\n1:00 - 4:00: Client Meetings for All Teams\n\nZoning Guide Meets at 2321 N Loop Dr. Suite 121\nHousing and AI Meets at 2321 N Loop Dr. Suite Second Floor West Conference Room\nCapitals TBD"
+    "text": "May 22nd – Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStudents Hold Their First Client Meeting\n\n\n\n8:00 - 9:00: Complete\n9:00 - 10:00: Start Project Specific DataCamp Training\n1:00 - 4:00: Client Meetings for All Teams\n\nZoning Guide Meets at 2321 N Loop Dr. Suite 121 (link to Google Maps)\nHousing and AI Meets at 2321 N Loop Dr. Second Floor West Conference Room\nCapitals at East Hall 311"
   },
   {
     "objectID": "schedule.html#may-23rd-thursday",
     "href": "schedule.html#may-23rd-thursday",
     "title": "Weekly Schedule",
     "section": "May 23rd – Thursday",
-    "text": "May 23rd – Thursday\n\nLocation\n\nEast Hall 311\n\n\n*Zoning Guide Team Completes Their Assignments from Client Meeting"
+    "text": "May 23rd – Thursday\n\nLocation\n\nEast Hall 311\n\n\n*Zoning Guide Team Completes Their Assignments from Client Meeting\n\n8:00 - 9:00: Solomon Eshun Presentation\n9:00 - 12:00: Project Specific Training Continues\n12:00 - 1:00: Lunch Break\n1:00 - 2:00: Guest Speaker - Félix A. Báez-Santiago\n2:00 - 4:00: Project Specific Training Continues"
   },
   {
     "objectID": "schedule.html#may-24th---friday",
     "href": "schedule.html#may-24th---friday",
     "title": "Weekly Schedule",
     "section": "May 24th - Friday",
-    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n*Zoning Guide Team Completes Their Assignments from Client Meeting"
+    "text": "May 24th - Friday\n\nLocation\n\nCarver 0268\n\n\nDSPG is Half-day - Work Until 1:00\n\n8:00 - 10:00: Complete Tidycensus-Retail Trade Presentations\n10:00 - 12:00: Tidycensus-Retail Trade Presentations\n12:00 - 1:00: DataCamp Training\n\nRest of the Day is Off"
   },
   {
     "objectID": "schedule.html#may-27th---monday",
@@ -165,28 +165,28 @@
     "href": "schedule.html#may-28th---tuesday",
     "title": "Weekly Schedule",
     "section": "May 28th - Tuesday",
-    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work & Census Training with Sandy\n\n\n\n10:00 - 12:00: Sandy Census Presentation"
+    "text": "May 28th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nStart Project Specific Work\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Project Members Meet with their Teams\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-29th---wednesday",
     "href": "schedule.html#may-29th---wednesday",
     "title": "Weekly Schedule",
     "section": "May 29th - Wednesday",
-    "text": "May 29th - Wednesday\n\nLocation\n\nEast Hall 311"
+    "text": "May 29th - Wednesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Census Training with Sandy\n\n\n\n8:00 - 9:00: Housing Data Sources Inventory\n9:00 - 10:00: Project Specific Work Continues\n10:00 - 12:00: Sandra Burke Census Presentation\n12:00 - 1:00: Lunch Break\n1:00 - 4:00: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-30th---thursday",
     "href": "schedule.html#may-30th---thursday",
     "title": "Weekly Schedule",
     "section": "May 30th - Thursday",
-    "text": "May 30th - Thursday\n\nLocation\n\nEast Hall 311"
+    "text": "May 30th - Thursday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Learn about Coding Functions with Karthik Hanumanthaiah\n\n\n\n8:00 - 9:00: Karthik Hanumanthaiah Functions Presentation\n10:00 - 4:00: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-31st---friday",
     "href": "schedule.html#may-31st---friday",
     "title": "Weekly Schedule",
     "section": "May 31st - Friday",
-    "text": "May 31st - Friday\n\nLocation\n\nCarver 0268"
+    "text": "May 31st - Friday\n\nLocation\n\nCarver 0268\n\nDaily Goals\n\nCreate First Weekly Team Blog\n\n\n\n8:00 - 10:00: Complete this Week’s Project Goals\n10:00 - 12:00: Student’s Create Weekly Team Blog\n12:00 - 1:00: Lunch Break\n1:00 - 3:00: Student’s Present Team Weekly Blog\n3:00 - 4:00: Review Feedback and Submit Final weekly Blog"
   },
   {
     "objectID": "schedule.html#june-3rd---monday",
@@ -200,7 +200,7 @@
     "href": "schedule.html#june-4th---tuesday",
     "title": "Weekly Schedule",
     "section": "June 4th - Tuesday",
-    "text": "June 4th - Tuesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 4th - Tuesday\n\nLocation\n\nEast Hall 311\n\n\n\n11:30 - 12:30: Guest Speaker - Dr. Cass Dorius"
   },
   {
     "objectID": "schedule.html#june-5th---wednesday",
@@ -242,7 +242,7 @@
     "href": "schedule.html#june-12th---wednesday",
     "title": "Weekly Schedule",
     "section": "June 12th - Wednesday",
-    "text": "June 12th - Wednesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 12th - Wednesday\n\nLocation\n\nEast Hall 311\n\n\n\n1:00 - 2:00: Guest Speaker - Dr. Scott Samuelson"
   },
   {
     "objectID": "schedule.html#june-13th---thursday",
@@ -469,32 +469,11 @@
     "text": "July 26th - Friday\n\nLocation\n\nCarver 0268"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Science for Public Good 2024",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Program Participants",
     "section": "",
-    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
-  },
-  {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
-    "title": "Data Science for Public Good 2024",
-    "section": "",
-    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Data Science for Public Good 2024",
-    "section": "Projects",
-    "text": "Projects\n\nIowa Zoning Guide\nDescription to be placed here\nProject Sponsor: IEDA\nProject Advisers: Jay Maxwell, Chris Seeger\nGraduate Fellows and Interns: Tabassum Zaman\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nCommunity Capitals\nDescription to be placed here\nProject Sponsor: Sponsor\nProject Advisers: Matthew Voss\nGraduate Fellows and Interns: Solomon Eshun\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nHousing and AI\nDescription to be placed here\nProject Sponsor: AI Institute for Resilient Agriculture (AIIRA)\nProject Advisers: Liesl Eathington, Rakesh Shah\nGraduate Fellows and Interns: Karthik Hanumanthaiah\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube"
-  },
-  {
-    "objectID": "allBlogs.html",
-    "href": "allBlogs.html",
-    "title": "Project Blogs",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+    "text": "Program Leader\n\nChristopher J. Seeger, Professor, Landscape Architecture; Extension Specialist in Geospatial Technologies\n\nProgram Coordinator\n\nHarun Çelik, History and Graduate GIS Certificate\n\nProject Advisers\n\nLisa Bates, Assistant Director, Community and Economic Development\nLiesl Eathington, Research Scientist III\nMatthew Voss, Rural Policy Data Analyst at Public Science Collaborative\nJay Maxwell, Data Analyst in Community and Economic Development Extension\n\nProgram Advisers\n\nAdisak Sukul, Ph.D. Associate Teaching Professor\nHeike Hoffman, Professor\nTodd Abraham, Research Scientist\n\nGraduate Fellows\n\nKarthik Hanumanthaiah, Computer Science\nTabassum Zaman, Community and Regional Planning\nSolomon Eshun, Applied Mathematics\n\nUndergraduate Interns\n\nAlister Gan, Data Science\nBlake Underwood, Data Science and Economics\nCael Leistikow, Landscape Architecture\nLily Christenson, Business and Statistics\nNaomi Mauss, Data Science\nNhat Le, Data Science, Math, and Computer Science\nManjul Balayar, Computer Science"
   },
   {
     "objectID": "blogs2024/welcome/index.html",
@@ -546,11 +525,88 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Program Participants",
+    "objectID": "Assignments/Actions-Test/Tidycensus_Assignment.html",
+    "href": "Assignments/Actions-Test/Tidycensus_Assignment.html",
+    "title": "Tidycensus and Retail Trade Exercise",
     "section": "",
-    "text": "Program Leader\n\nChristopher J. Seeger, Professor, Landscape Architecture; Extension Specialist in Geospatial Technologies\n\nProgram Coordinator\n\nHarun Çelik, History and Graduate GIS Certificate\n\nProject Advisers\n\nLisa Bates, Assistant Director, Community and Economic Development\nLiesl Eathington, Research Scientist III\nMatthew Voss, Rural Policy Data Analyst at Public Science Collaborative\nJay Maxwell, Data Analyst in Community and Economic Development Extension\n\nProgram Advisers\n\nAdisak Sukul, Ph.D. Associate Teaching Professor\nHeike Hoffman, Professor\nTodd Abraham, Research Scientist\n\nGraduate Fellows\n\nKarthik Hanumanthaiah, Computer Science\nTabassum Zaman, Community and Regional Planning\nSolomon Eshun, Applied Mathematics\n\nUndergraduate Interns\n\nAlister Gan, Data Science\nBlake Underwood, Data Science and Economics\nCael Leistikow, Landscape Architecture\nLily Christenson, Business and Statistics\nNaomi Mauss, Data Science\nNhat Le, Data Science, Math, and Computer Science\nManjul Balayar, Computer Science"
+    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
+  },
+  {
+    "objectID": "allBlogs.html",
+    "href": "allBlogs.html",
+    "title": "Project Blogs",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Assignments/Tidycensus_Assignment.html",
+    "href": "Assignments/Tidycensus_Assignment.html",
+    "title": "Tidycensus and Retail Trade Exercise",
+    "section": "",
+    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science for Public Good 2024",
+    "section": "",
+    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Data Science for Public Good 2024",
+    "section": "",
+    "text": "This Quarto website is an experimental page hosting project documentation for the 2024 Data Science for Public Good program at Iowa State University. The Project Blogs tab contains the documentation for each team’s work on a weekly basis. The Student Blogs tab contains the blog posts of all individual participants in DSPG for the summer of 2024.\nTo learn more about the program, follow the link to the Iowa State University DSPG Program."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Data Science for Public Good 2024",
+    "section": "Projects",
+    "text": "Projects\n\nIowa Zoning Guide\nDescription to be placed here\nProject Sponsor: IEDA\nProject Advisers: Jay Maxwell, Chris Seeger\nGraduate Fellows and Interns: Tabassum Zaman\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nCommunity Capitals\nDescription to be placed here\nProject Sponsor: Sponsor\nProject Advisers: Matthew Voss\nGraduate Fellows and Interns: Solomon Eshun\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nHousing and AI\nDescription to be placed here\nProject Sponsor: AI Institute for Resilient Agriculture (AIIRA)\nProject Advisers: Liesl Eathington, Rakesh Shah\nGraduate Fellows and Interns: Karthik Hanumanthaiah\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny\n\n\n\n\nPackage Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+  },
+  {
+    "objectID": "resources.html#books",
+    "href": "resources.html#books",
+    "title": "Resources",
+    "section": "",
+    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny"
+  },
+  {
+    "objectID": "resources.html#packages",
+    "href": "resources.html#packages",
+    "title": "Resources",
+    "section": "",
+    "text": "Package Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+  },
+  {
+    "objectID": "resources.html#tidycensus",
+    "href": "resources.html#tidycensus",
+    "title": "Resources",
+    "section": "tidycensus",
+    "text": "tidycensus\nAnalyzing US Census Data\nWorking with the 2022 ACS\nAnalyzing 2020 Decennial US Census Data in R\nDoing ‘GIS’ and making maps with US Census data in R"
+  },
+  {
+    "objectID": "resources.html#census-information",
+    "href": "resources.html#census-information",
+    "title": "Resources",
+    "section": "Census Information",
+    "text": "Census Information\nCensus Reporter"
+  },
+  {
+    "objectID": "resources.html#books-1",
+    "href": "resources.html#books-1",
+    "title": "Resources",
+    "section": "Books",
+    "text": "Books\nCausality for Machine Learning"
   },
   {
     "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html",

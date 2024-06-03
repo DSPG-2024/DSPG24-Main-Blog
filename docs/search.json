@@ -1,94 +1,276 @@
 [
   {
-    "objectID": "studentBlogs/tabassum.html",
-    "href": "studentBlogs/tabassum.html",
-    "title": "Tabassum Zaman",
+    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
+    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
+    "title": "Tabassum’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nTabassum’s Introduction\n\n\nTabassum Zaman\n\n\n\n\n\nNo matching items"
+    "text": "This is my favorite part THE INTRODUCTION. The ‘Why’ of this will answer my commitment for DSPG program and gratitude to be able to spend my summer with you all bright minds.\nOn the first day, while we were having this little personality test for grouping in My Creative Type I got THE ADVENTURER"
   },
   {
-    "objectID": "studentBlogs/solomon.html",
-    "href": "studentBlogs/solomon.html",
-    "title": "Solomon Eshun",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nSolomon’s Introduction\n\n\nSolomon Eshun\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
+    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
+    "title": "Tabassum’s Introduction",
+    "section": "My identity",
+    "text": "My identity\n\nCountry\nI, Tabassum Zaman, come from a Southasian country named “Bangladesh”. Which has got some amazing stories to tell people about itself to tell the world. But I will keep it short today to be focused on the objective of this blog.\n\n\n\n\nBangladesh with its surrounding countries\n\n\n\n\n\nA view of Dhaka city (capital of Bangladesh)\n\n\n\n\n\nAcamedics\nDepartment: Community and Regional Planning\nProgram: Masters\nInstitution: Iowa State University\nI completed my undergrad in ‘Urban and Regional Planning’ from my dream university in Bangladesh which was ‘BUET [Bangladesh University of Engineering and Technology]’. I have been always interested in the Transportation problem surrounding me, may be because that’s all I saw. But with time as I am exploring more, I am finding my new interested areas in spatial problems like, housing, accessibility. I am hoping to be focused down in a very near future, as I finished up my semester of masters program this Spring 2024.\n\n\n\nMy Undergrad Convocation from BUET in Urban and Regional Planning\n\n\n\n\nWhat got me into Data Science\nAfter completing my undergrad I had the opportunity to work in the real world for more than a couple of years, in transportation, health care and commodity industry back home. There I got to know the power of data and story telling. You can influence decision through your stories but it has to be backed by data and presented in a comprehensible format and your one little presentation can really changes lives. I can go on giving a number of examples to show how it has motivated me, but I will stop here, and keep my Focus.\nSo, my encounter of Data Science is through excel (you can do a lot of stuff there too) and for spatial one if through GIS (Geographic Information System). I know some basics of SQL, R, Python, but not enough to score good in quiz. But I am betting on my time here and the aim is to have the most productive time this summer 2024 and see the result after 10 weeks. I will come back to share the updates!\n\n\nMy Leisure\nI do not really have any particular talents apart from the academics one, but apart from sleep and watching tv, I love a good conversation of getting to know new people, good food, some cooking, travelling, a little bit of gardening and reading fictions. Pretty ordinary things!"
   },
   {
-    "objectID": "studentBlogs/nhat.html",
-    "href": "studentBlogs/nhat.html",
-    "title": "Nhat Le",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nNhat’s Introduction\n\n\nNhat Le\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
+    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
+    "title": "Tabassum’s Introduction",
+    "section": "“NEVER STOP LEARNING”",
+    "text": "“NEVER STOP LEARNING”"
   },
   {
-    "objectID": "studentBlogs/neha.html",
-    "href": "studentBlogs/neha.html",
-    "title": "Neha Tirunagiri",
+    "objectID": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
+    "href": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
+    "title": "Solomon’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nNeha’s Introduction\n\n\nNeha Tirunagiri\n\n\n\n\n\nNo matching items"
+    "text": "Hi! My name is Solomon Eshun. You can call me Solomon (he/him/his). I am from Ghana, West Africa, and I’m pursuing a PhD in Applied Mathematics at Iowa State University (as of Spring 2024).\n\nResearch Interests\n\nCausal Inference\nInfectious Disease\nData Integration\n\n\n\nEducation\n\nPhD Applied Mathematics, Iowa State University (08/2023 - 05/2024)\nMSc Applied Stats. & Data Science, University of Texas Rio Grande Valley (UTRGV) (08/2021 - 05/2023)\nBSc Mathematics, University of Mines and Technology (UMaT), Ghana (09/2016 - 08/2020)\n\n\n\nExperience\n\nGraduate Fellow, Data Science for the Public Good, Iowa State (05/2024 - Present)\nGraduate Teaching Assistant, Department of Mathematics, Iowa State (08/2023 - 05/2023)\nSustainability Research Fellow, Office for Sustainability, UTRGV (08/2022 - 05/2023)\nGraduate Teaching Assistant, School of Math. & Stats. Sciences, UTRGV (08/2021 - 05/2023)\nComputational Science Intern, Los Alamos National Lab, Los Alamos NM (05 - 08/2022)\nTeaching Assistant, Department of Mathematical Sciences, UMaT (09/2020 - 08/2021)\nData Production Intern, Ghana Statistical Service, Accra (05 - 08/2019)\n\n\n\nSomething interesting about myself, and what I hope to learn\nI take pride in my strong analytical and computational skills, tenacity, and dedication to continuous improvement. As I embark on the DSPG program, I seek to improve my leadership and mentoring capabilities, alongside acquiring new technical expertise. An important goal for me is to refine my communication skills to effectively convey data-driven insights to non-technical stakeholders. Additionally, I aim to master the management and extraction of value from extensive real-world datasets, leveraging these skills to make impactful decisions and contributions.\nIn my leisure time, I enjoy listening to music, watching soccer games and playing video games.\n\n\nWhy I Care about Data Science\nI remember the moment I became interested in advanced research in Data Science. It was during my master’s research, where I evaluated the effect of sodium-glucose co-transporter-2 (SGLT2) inhibitors on chronic kidney disease (CKD). I used propensity score matching to address differences in patient characteristics that might influence SGLT2 prescription. Additionally, I utilized machine learning models to predict CKD cases. Since the dataset was imbalanced, I applied balanced bagging with bootstrapping and synthetic minority oversampling to balance the distribution of CKD and non-CKD cases in the training data. This aimed to facilitate improved learning on the training dataset and enhance predictions on the testing data. The analysis revealed that individuals taking SGLT2 had fewer CKD cases than those who did not, highlighting the protective effect of SGLT2 on CKD. This shows the potential of statistics and data science in extracting meaningful insights from healthcare data.\nHowever, amidst this revelation, a significant issue surfaced - the absence of reliable data for marginalized populations, resulting in disproportionately worse health outcomes. Since then, my focus evolved from merely using models to make predictions to understanding the “why” and “what-if” behind those predictions. I realized that relying solely on supervised models was insufficient for this purpose, prompting me to develop methods that could integrate machine learning and causal approaches to address and explain predictions in imbalanced datasets.\n\n\n\nFigure Reference (Causality for Machine Learning)\n\n\nAs a consequence, I aim to leverage machine learning with causal methods to understand the influence of policies and interventions on diseases outcomes across various data sources. I seek to move from prediction-based models to learning independent causal models in areas like transfer and meta-learning. This approach will aid in integrating diverse healthcare datasets, often compounded by heterogeneous patient characteristics and medical protocols, ensuring the generalizability of my findings against external datasets. Additionally, I aim to create models capable of scaling up datasets to better reflect the diversity of the population. My goal is to enhance model interpretability through counterfactual reasoning and mitigate algorithmic biases for fair and equitable outcomes, ensuring the reliability of healthcare research across different demographics."
   },
   {
-    "objectID": "studentBlogs/naomi.html",
-    "href": "studentBlogs/naomi.html",
-    "title": "Naomi Mauss",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nNaomi’s Introduction\n\n\nNaomi Mauss\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
+    "title": "Nhat’s Introduction",
+    "section": "Majors",
+    "text": "Majors\nA first-year student in the Iowa State honors program, struggling with a triple major in computer science, data science and applied mathematics. :("
   },
   {
-    "objectID": "studentBlogs/manjul.html",
-    "href": "studentBlogs/manjul.html",
-    "title": "Manjul Balayar",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nManjul’s Introduction\n\n\nManjul Balayar\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
+    "title": "Nhat’s Introduction",
+    "section": "Data Science with Me",
+    "text": "Data Science with Me\nWhy data science? Imagine a world where every second brings new data and endless opportunities to uncover hidden patterns. Sounds like a interesting version of a treasure hunt, right? That means, becoming a data scientist guarantees that I’ll never run out of puzzles to solve, and let’s face it, puzzles are way more fun than Sudoku."
   },
   {
-    "objectID": "studentBlogs/lily.html",
-    "href": "studentBlogs/lily.html",
-    "title": "Lily Christenson",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nLily’s Introduction\n\n\nLily Christenson\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
+    "title": "Nhat’s Introduction",
+    "section": "Prior Experience?",
+    "text": "Prior Experience?\nMy passion for mathematics and logical challenges naturally drew me to the fascinating world of AI and data science. I don’t have much coding experience regarding these two areas, but I strongly believe my statistical and mathematical foundation is a great plus during my journey."
   },
   {
-    "objectID": "studentBlogs/karthik.html",
-    "href": "studentBlogs/karthik.html",
-    "title": "Karthik Hanumanthaiah",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 17, 2024\n\n\nKarthik’s Introduction\n\n\nKarthik Hanumanthaiah\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
+    "title": "Nhat’s Introduction",
+    "section": "Hobbies",
+    "text": "Hobbies\nOutside of my academic endeavors, I enjoy participating in mathematics competitions (because who doesn’t love a good brain workout?), developing software projects, and staying up-to-date with the latest tech trends. I also have a passion for leadership and community involvement, which has seen me take on various extracurricular activities.\n\n\n\n\nGertrude Herr Adamson Award ($1,000)\n\n\n\n\n\n\n\n\nIowa Collegiate Math Competition (1st Place)"
   },
   {
-    "objectID": "studentBlogs/joseph.html",
-    "href": "studentBlogs/joseph.html",
-    "title": "Joseph Betti",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nJoseph’s Introduction\n\n\nJoseph Betti\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
+    "title": "Nhat’s Introduction",
+    "section": "Academic and Professional Goals",
+    "text": "Academic and Professional Goals\nI’m on a quest to climb the academic ladder, aiming for a Ph.D. degree after graduating. My current mission is to absorb as many advanced courses as possible and utilize online platforms like Coursera to build a robust foundation in machine learning. Also, I want to join a research, where I can leverage my skills to prepare for an intensive study in machine learning."
   },
   {
-    "objectID": "studentBlogs/harun.html",
-    "href": "studentBlogs/harun.html",
-    "title": "Harun Celik",
-    "section": "",
-    "text": "Harun’s Introduction\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\nHarun Celik\n\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
+    "title": "Nhat’s Introduction",
+    "section": "Skills and Development",
+    "text": "Skills and Development\n\nValued Skills\n\nAnalytical thinking and problem-solving (a.k.a. being a data detective)\nProficiency in programming languages like Python\nStrong foundation in mathematical concepts and their applications (because math is the language of the universe, and who doesn’t want to speak universe?)\n\n\n\nSkills to Develop\n\nData exploration and visualization (turning data into beautiful, insightful art)\nData cleaning (because even data needs a good scrub sometimes)\nData processing (preparing data for the ultimate transformation)\nBasics of AI and machine learning knowledge (unlocking the secrets of smart machines) \n\n\n\nPursuing These Skills\nThese skills are essential to be well-prepared for future internships and professional jobs. Mastering them will allow me to tackle complex problems, effectively communicate insights, and stay competitive in the rapidly evolving field of data science."
   },
   {
-    "objectID": "studentBlogs/cael.html",
-    "href": "studentBlogs/cael.html",
-    "title": "Cael Leistikow",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nCael’s Introduction\n\n\nCael Leistikow\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
+    "title": "Nhat’s Introduction",
+    "section": "Interesting Fact",
+    "text": "Interesting Fact\nAn interesting fact about me is that I thrive on challenges and enjoy stepping out of my comfort zone. My background and experiences have shaped my academic journey and fueled my passion for machine learning and data science. I look forward to sharing my knowledge and learning from my peers at Iowa State.\nP.S. If you ever need a teammate for any development projects, I’m your person. Just bring some coffee."
   },
   {
-    "objectID": "studentBlogs/blake.html",
-    "href": "studentBlogs/blake.html",
-    "title": "Blake Underwood",
+    "objectID": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
+    "href": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
+    "title": "Neha’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBlake’s Introduction\n\n\nBlake Underwood\n\n\n\n\n\nNo matching items"
+    "text": "Personal Introduction\n\nOrigin: I am from Andhra Pradesh, India.\nAcademic Year: I will be junior in the coming fall semester.\nDegree Pursuits: I am majoring in Computer Science and minoring in Data Science. My interest in these fields was sparked by an inspiring Computer Science professor during my high school years.\nCareer Aspirations: I aim to become a software developer at a FANG company, leveraging my degrees to build a solid foundation in technology.\nInterest in Data Science: Data science fascinates me because of its power to solve complex problems and its potential to drive innovation across various industries.\nData Science Experience: I have basic knowledge in data science, familiar with tools like R and Pandas, though I am still in the early stages of my data science education.\nHobbies and Extracurricular Activities: My free time is often spent playing badminton and cricket with friends. I am also an active participant in dance programs organized by the Indian Student Association (ISA).\n\n \n\n\nPersonal Learning Objectives for DSPG\n\nValued Skills: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.\nSkills to Develop:\n\nReal-world problem-solving: Learning to navigate and address complex real-world challenges.\nClient requirement fulfillment: Understanding and meeting client expectations effectively.\nIndustry readiness: Preparing myself to seamlessly transition into a professional environment.\n\nMotivation for These Skills: These skills are essential for me to have a successful career in software development, especially in a competitive and dynamic field like tech industry.\nImprovement Strategy: To enhance these skills, I plan to engage deeply with in my project at DSPG, ensuring I have a clear understanding of the underlying principles and actively seeking feedback to refine my approach."
   },
   {
-    "objectID": "studentBlogs/alister.html",
-    "href": "studentBlogs/alister.html",
-    "title": "Alister Gan",
+    "objectID": "studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html",
+    "href": "studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html",
+    "title": "Naomi’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nAlister’s Introduction\n\n\nAlister Gan\n\n\n\n\n\nNo matching items"
+    "text": "The basics\n\n\n\nI am originally from Tennessee, but moved to Iowa so I could attend Iowa State.\n\n\n\nI will enter my 3rd year at Iowa State this fall.\n\n\n\nI am currently majoring in data science and linguistics. I enjoy studying data science because I like learning about how I can take data and apply code in order to learn new things about how the world works. I am studying linguistics because I enjoy it, and hope someday to work on NLP.\n\n\n\n\n\n\n\n\n\n\nMy goals\n\n\n\nAs I stated above, I would love to work on NLP. In addition, I hope to use my degrees to help people, so that the world becomes a better place because I was in it.\n\n\n\nI care about data science because it’s fun. It might be selfish of me, but I don’t think I would care half as much if I didn’t enjoy the puzzle of figuring out what code and formulas need to be inputted in order to find a solution.\n\n\n\nI don’t have much experience working solely in data science, but I am currently in a computational linguistics lab. I have also worked in a computational biochemical lab with a focus on using AI for predictive modeling of protein synthesis. In both of those labs, I routinely used Excel or Python to work with large data sets.\n\n\n\n\n\n\n\n\n\n\nHobbies\n\n\n\nIn my free time, I enjoy reading, crochet, and foraging. It’s legal to forage wild plants on public land in Iowa, and there’s a lot of really interesting food not sold in stores. I find that searching for new plants to try is a good exercise both mentally, in terms of improving my knowledge of plant identification, and physically because I get to go out and explore nature!\n\n\n\nI’m very interested in learning - anything and everything is fun to learn about. I’ve spent hours in Parks Library’s stacks, getting lost in books on the history of Iowa State’s water system (the water system originally had slightly higher calcium levels than ideal. That book is in the highest stack and has a coupon for 99 cent pizza and a drink. Unfortunately, the coupon expired in 1995) or, if you look at the mining data on the 3rd stack, you can learn that Quebec produced 450 thousand tons of Asbestos in 1941. It’s so cool how much there is to learn in the stacks!\n\n\n\n\n\n\n\n\n\nSkills, Future Goals, and Looking Forward\n\n\n\nI appreciate my ability to stay calm in a crisis. Additionally, I think I’m good at working consistently on longer projects.\n\n\n\n\nCurrently, I think I’m decent at determining potential trends in data before I work very much with it. I run into a lot of errors when I code, but that means I’ve become pretty good at debugging, which certainly isn’t the worst skill to have.\n\n\n\nI hope to broaden the scope of my python experience, better understand the specific methodologies and fields in which data science can be applied to improve the world, and improve my understanding of different data science software adn how they work together to form a project.\n\n\n\nI have skills in python, but the data I’ve worked with and the things I’ve done in the language aren’t quite the same as what I expect I will use during the course of this program.\n\n\n\nI want to better understand the industry and what part I could play.\n\n\n\nI plan to take detailed documentation on every process I follow (not so detailed that it distracts from the work, but detailed enough that I’ll be able to retrace my steps and better remember what I did).\n\n\n\n\n\n\n\n\n\nThe End\n\n\nThank you for looking at my presentation.\n\n\nTo learn more about me, feel free to find my LinkedIn.\n\n\nOr, some of my coding projects are hosted on my GitHub.\n\n\n\n\n\n\n\nAs the world becomes increasingly complex, I believe it is important to have tools that can explain this complexity in such a way that people who have to make decisions are able to fully understand the topics they’re making decisions about. I want to be someone who knows how to weild those tools in order to make the world a better place."
+  },
+  {
+    "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html",
+    "href": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html",
+    "title": "Manjul’s Introduction",
+    "section": "",
+    "text": "Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago."
+  },
+  {
+    "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#about-me",
+    "href": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#about-me",
+    "title": "Manjul’s Introduction",
+    "section": "",
+    "text": "Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago."
+  },
+  {
+    "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#hobbies",
+    "href": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#hobbies",
+    "title": "Manjul’s Introduction",
+    "section": "Hobbies",
+    "text": "Hobbies\n\n  Hackathons    Boxing    Trying New Cuisines \n\n\nWhy Software?\n\nHigh Demand and Security\n\nInitially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google’s machine learning research team about a model for detecting cancerous cells.\n\n\n\n\nFuture Plans\nI aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, data visualization, feature engineering, statistics, etc. These skills are essential for building better models.\n\n\nMy Skills and Objectives\n\nPersonal Strengths\n\nGood communicator: An essential skill in any sector.\nAdaptability: I am a quick learner.\nOpen-mindedness: Being open-minded helps me adapt, learn, and grow in my field.\n\n\n\nData Science Skills\n\nExperience with data preprocessing\nFundamental knowledge of machine learning and deep learning\nProficiency in multiple programming languages, frameworks, and tools\n\n\n\nGoals at DSPG\n\nData Visualization: Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.\n\n\n\nMachine Learning Tools: Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.\n\n\n\nFeature Engineering: Learning to transform raw data into meaningful features.\n\n\nThese skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors."
+  },
+  {
+    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
+    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
+    "title": "Lily’s Introduction",
+    "section": "",
+    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+  },
+  {
+    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
+    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
+    "title": "Lily’s Introduction",
+    "section": "",
+    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html",
+    "title": "Karthik’s Introduction",
+    "section": "",
+    "text": "I’m from India and I’m currently pursuing my Master’s in Department of Computer Science, My research work is on Formal Verification & Machine Learning."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
+    "title": "Karthik’s Introduction",
+    "section": "My Work",
+    "text": "My Work\nIf you have some thoughts on how to verify some unknown mathematical function that works correctly, I would be happy to share my thoughts. If you sometimes wonder how to hack into a Machine learning model, I can also add something to it."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
+    "title": "Karthik’s Introduction",
+    "section": "What’s up with DSPG?",
+    "text": "What’s up with DSPG?\nI like solving problems, so far data science has a lot of open problems and I see potential in data science solving a lot of real-world problems. I have designed software applications in the past, but this time with DSPG I’m planning to gain some insights into designing mathematical models for the data."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
+    "title": "Karthik’s Introduction",
+    "section": "Hobby",
+    "text": "Hobby"
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
+    "title": "Karthik’s Introduction",
+    "section": "Fun Facts",
+    "text": "Fun Facts\nRecently I got to know (credits to Tabassum), the word “karthik” closely relates to “Season & Farming” and I love Farming, Fun stuff!"
+  },
+  {
+    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
+    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
+    "title": "Joseph’s Introduction",
+    "section": "Personal Background",
+    "text": "Personal Background\n\nI am from Owatonna, Minnesota\nI am majoring in landscape architecture\nI am a senior\nI enjoy going on hikes\nI play guitar and bass\nI enjoy making art\nI make music and movies\n\n\nThe image to the right is a movie poster I made my Freshman year."
+  },
+  {
+    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
+    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
+    "title": "Joseph’s Introduction",
+    "section": "Goals and Objectives",
+    "text": "Goals and Objectives\nAs a designer, it is important to understand the effects that our designs have on society and the environment. An important tool for analyzing the effects we have on the world is data science. As a young scholar at DSPG, I aim to improve my GIS skills and gain new analytic tools. I don’t have much experience with data science, but I am excited to learn more.\n\nObjectives for the Summer\n\nImprove at GIS\nLearn more about statistics\nLearn how to program (R, Python, SQL, etc.)\nLearn how to apply data science as a Landscape Architect\nGain real-world experience\n\n\n\n\n\nCareer Objectives\n\nWork as a landscape architect\nImprove the sustainability of landscapes\nProduce Equitable and accessible designs\nDesign with the community in mind\nImprove my understanding of social issues\nLearn new perspectives about art and design\n\n\nThe image to the right is a set of maps by Ian McHarg, one of the first landscape architects to use data in decision-making."
+  },
+  {
+    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
+    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
+    "title": "Joseph’s Introduction",
+    "section": "Strengths and Areas of Improvement",
+    "text": "Strengths and Areas of Improvement\n\nStrengths\n\nCreativity\nCuriosity\nCompetence in ArcGIS Pro\nFast learner\nCritical Thinking Skills\nDesign-oriented\n\n\n\nAreas of Improvement\n\nProgramming\nGathering data\nAnalyzing data\nStatistics\nGIS\nand much, much more!"
+  },
+  {
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html",
+    "title": "Harun’s Introduction",
+    "section": "",
+    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
+  },
+  {
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
+    "title": "Harun’s Introduction",
+    "section": "",
+    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
+  },
+  {
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
+    "title": "Harun’s Introduction",
+    "section": "My DSPG Experience",
+    "text": "My DSPG Experience\nAs an additional degree, I’ve completed the Graduate GIS Certificate Program at ISU and sought for ways to practice these skills on projects that had some public influence. This is how I stumbled across the DSPG program and applied to be a graduate fellow for summer of 2022. I enjoyed the experience so much that I wanted to rejoin the following summer in 2023 with a couple of additional responsibilities. After sharing my ideas with the Community and Economic Development Extension team, I was lucky to get an assistantship that focused on improving the DSPG program with the responses we’ve received from past participants through our surveys.\nI really enjoy the DSPG program for a multitude of reasons, but here a couple of my favorites.\n\nThe program supports communal and personal learning.\n\nParticipants to the program come from varying levels of education, from first year students to PhD candidates. This usually means that everyone comes in at different skill levels and uses that to either develop the skills that they already know or learn new ones.\n\nProjects are quite varied in their goals and flexible for hands-on learning\n\nDifferent clients expect different results and for a lot of the projects, it is the exploration conducted by students that shapes the final deliverable of the projects.\n\nThe program address real questions by clients interested in learning from data.\n\nThe DSPG projects address complex and real questions about the social world making the application of data science skills extremely practical for real-world scenarios."
+  },
+  {
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
+    "title": "Harun’s Introduction",
+    "section": "My DSPG Expectations This Year",
+    "text": "My DSPG Expectations This Year\nBeing the coordinator of the program for the first time, my main objectives are to make sure that the DSPG experience is enjoyable and informative for everyone involved. I have yet to solidify all my thoughts but here is a mindmap of what I expect will be my top three goals for this summer.\n\n\n\nMindmap of Harun’s DSPG Objectives"
+  },
+  {
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
+    "title": "Harun’s Introduction",
+    "section": "Fun Fact",
+    "text": "Fun Fact\nI play the bass guitar and I love to explore different genres of music, especially ones where the bass guitar has a prominent or unique role. I’d be happy to take any recommendations if you have any favorite albums or songs.\nLately I’ve been listening to Lugares Comunes by Inti-Illimari."
+  },
+  {
+    "objectID": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
+    "href": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
+    "title": "Cael’s Introduction",
+    "section": "",
+    "text": "Hello, My name is Cael Leistikow\n\nWhere are you from?\nI grew up in Frederika, Iowa which is about 30 minutes north of Waterloo and I attended New Hampton High School.\n\n\nWhat’s your current academic year?\nI am currently a Senior at Iowa State going into my fourth year with intentions of graduating next Spring.\n\n\nWhat degrees are you studying?\nI am majoring in Data science with a minor in Economics\n\n\nWhy did you choose your degrees?\nI chose these degree because I had always been fascinated by statistics, especially sports statistics, and as I went through high school I began to grow an interest in programming as well and when I discovered that Iowa State offered a degree that was a mixture of the two, I knew that it was what I wanted to pursue.\n\n\nWhat are your plans with your degree(s)?\nMy plans for after college is to use my degrees as a Data Analyst or Data Scientist within the business sector and having my Economics degree as well to be able to apply my knowledge towards making informative business decisions. After a few years I would consider to go for my dream job of working as a sports data analyst for a professional US sports team, preferably in baseball or football.\n\n\nWhy do you care about data science?\nI care about data science cause I firmly believe that it is the future towards optimizing and maximizing everything that we do in society. Everything that we do can be put into data and being able to understand how to work with and interpret that data is very valuable. Although it comes with a lot of power that can be manipulated if the owner so desires.\n\n\n\nDo you have any prior experience with data science?\nI have taken numerous data science courses here at Iowa State. I have had an internship with Kingland Systems as a Data Research Analyst. Finally, I have been a Statistician when I was playing under levels of athletics for the varsity team in high school.\n\n\nWhat kinds of extracurricular activities/hobbies do you care about?\nMy extracurricular activities are the Sports Analytics Club, Data Science Club, and Intramural sports.\nMy favorite hobbies are playing basketball, watching sports and going to games, hanging out with friends, listening to music, cooking, and travel.\n\n\nWhat do you want your peers to know about you?\n\nAn interesting fact about me is I have visited 24 of the 50 states as well as DC and Canada. Obviously I like to travel. My favorite trip being to Colorado. Additionally, my most desired place to travel next would be Hawaii as I haven’t gone outside on the intercontinental US or Canada.\n\n\nList some skills in data science that you feel you do well?\nI feel I do very well in data visualization, statistical analysis, machine learning/modeling, R programming as it is my more preferred programming language, and finally SQL and database management.\n\n\nList at least three skills you would like to learn or develop during the DSPG program.\nI would like to develop during the DSPG program is AI development as AI is going to continue to integrated itself in everyday life. Another skill I would like to learn is GIS as I have seen a lot of employers looking for candidates who are able to effectively use GIS. Finally, the last thing I would like to learn is how the data science process works in a real-world scenario that I could then apply in the future.\n\n\nWhy are you pursuing these skills? Why do they matter to you?\nThe reason I’m pursuing these skills and why the matter to me is because I want to be able to put myself in the best position I can for when I’m beginning to look for my full-time career. Being a senior this coming year I need to refine and learn any skills that I can to help me stand out as a candidate to make sure I position myself for the job I want and to have a successful life.\n\n\nHow do you hope to improve these skills?\nI hope to learn and improve these skills through Datacamp as a tutorial for GIS or AI to help create a foundational understanding and then from there apply it to the projects to help use this knowledge on a real-world issue. Additionally, learning from the project leaders and the lunch talks during the program will help me see from other people’s perspective and ask questions to grow my understanding further."
+  },
+  {
+    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
+    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
+    "title": "Blake’s Introduction",
+    "section": "",
+    "text": "this is me"
+  },
+  {
+    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
+    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
+    "title": "Blake’s Introduction",
+    "section": "Part 2",
+    "text": "Part 2\n\n\nWhat skills do you value and appreciate about yourself?\n\n\n\nI really value my guitar skills and my coding skills.\n\n\n\nI’ve spent so many hours in the last couple years playing guitar trying to learn every song I enjoy listening to.\nPre chatgpt being popular I spent alot of time learning to code and do multiple coding online courses and like 200 coding problems on Leetcode, looking back now most of what I learned became irrelevant due to chat gpt but I still developed a skill that has been deteriorating the more I use GPT unfortunately.\n\n\n\n\nDS skills\n\n\n\nI scored “The thinker” on the personality test we all took on day one, and I do think that represents me well. I enjoy coming up with new ideas for solving problems. Not giving up on finding actually meaningful results that can have a postive impact.\n\n\n\nthree skills you want to develop\n\n\n\nPython and R are extremely important skills for data science and I have been working with the long enough to know how valuable they can be. I also really like using Tableau, I think it’s popular for a reason, for being as high level as it is it can do some pretty complex things such as being able to use SQL to manipulate data while in tableau.\n\n\n\nwhy these skills?\n\n\n\nI’m pursuing these skills because I believe they are the best tools for data sciences to become successful. It’s a safer bet to say that in Python and R will still be relevant in 10 years but some of the higher level skills may be replaces by ai or somethings even higher level.\n\n\n\nhow are you going to improve skills?\n\n\n\nWork on them everyday. The more I work with these technologies the more comfortable I will get with them overtime and the faster I can get things done with them."
+  },
+  {
+    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html",
+    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html",
+    "title": "Alister’s Introduction",
+    "section": "",
+    "text": "Hi, my name is Alister! I originated from Malaysia and I started my journey in Iowa State University during the fall 2023. I’m a sophomore majoring in Data Science."
+  },
+  {
+    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#personal-background",
+    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#personal-background",
+    "title": "Alister’s Introduction",
+    "section": "",
+    "text": "Hi, my name is Alister! I originated from Malaysia and I started my journey in Iowa State University during the fall 2023. I’m a sophomore majoring in Data Science."
+  },
+  {
+    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#interesting-fact-about-me",
+    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#interesting-fact-about-me",
+    "title": "Alister’s Introduction",
+    "section": "Interesting fact about me!",
+    "text": "Interesting fact about me!\n\nI am an outdoor enthusiast who spent most of my free time playing sports and hanging out with friends. Occasionally, you will also find me spending hours reading books in local cafes, enjoying a break from the busyness of student life. I would also consider myself a huge movie person and I still recalled my roomates and I spent 10 hours binge watching, “Haunting of the Hill House” during the spring break."
+  },
+  {
+    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#why-data-science",
+    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#why-data-science",
+    "title": "Alister’s Introduction",
+    "section": "Why Data Science?",
+    "text": "Why Data Science?\n\n\nMy interest in Data Science stems from my deep passion to explore and figuring out the underlying meaning behind the data and the vast impact from data findings fascinate me. As people always say, “data is the new future”, pursuing a major in data science allows me to use my skillset in helping the communities to make better decisions through data. After graduation, I plan to pursue a career as a data scientist in the business and finance field. I am drawn to the intricate patterns and strategic decisions that data can unveil in financial markets and business operations. The ability to analyze complex datasets, uncover trends, and make data-driven decisions excites and motivates me. Also, I hope to be able to help the customers to make better financial decisions, identify frauds, reduce risks based on data-driven insights."
+  },
+  {
+    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#goals-and-objectives",
+    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#goals-and-objectives",
+    "title": "Alister’s Introduction",
+    "section": "Goals and Objectives",
+    "text": "Goals and Objectives\n\nMy experience with Data Science\n\nI have taken several introductory Data Science courses thus far and I have experience performing data analysis and data visualization on a customers purchasing behavior dataset taken from Kaggle. I am familiar with Pandas and Matplotlib using Python to perform data preprocessing, cleaning, analysis and visualization. Working with data in a team setting for the first time was an eye-opening experience as I get to collaborate with students from various background and getting insights and learning from one another. To make full use of my summer, I plan to enroll in several online courses for R and AI to buck up my skills.\n\n\n\nThree skills that I would like to learn from the DSPG program\n\nI would love to gain a deeper understanding on AI and its application on a real-world datasets. I would like to use this program as a stepping stone to allow me to apply AI under the guidance of mentors. Besides AI, I would like to use this opportunity to further enhance my programming skills specifically in Python and R. Lastly, beyond the technical skills, I hope to improve my ability to communicate and explain complex technical data findings to non-technical stakeholders.\n\n\n\nWhy the three skills\n\n\nApplying AI to real-world datasets allows me to understand practical challenges and develop solutions that are impactful and relevant to industry needs more efficiently\nHaving strong programming skills enable me to implement data analysis and visualization effectively as Python and R are one of the primary languages used in data science\nWhile dealing with sophiscated AI models and analyses, having the ability to communicate my findings clearly to stakeholders ensure that my work can be fully utilized and impactful towards the intended audiences\n\n\n\n\nSteps that I would take to improve my skills\n\n\nHave an open mind by experimenting with different data science tools and to seek mentorship from peers\nPratice working on real-world datasets to gain practical experience (participate in DSPG, hackathons)\nPractice presenting my findings through reports, presentations, and visualizations as well as constant engage activity such as public speaking"
   },
   {
     "objectID": "schedule.html",
@@ -179,7 +361,7 @@
     "href": "schedule.html#may-30th---thursday",
     "title": "Weekly Schedule",
     "section": "May 30th - Thursday",
-    "text": "May 30th - Thursday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Learn about Coding Functions with Karthik Hanumanthaiah\n\n\n\n8:00 - 9:00: Karthik Hanumanthaiah Functions Presentation\n10:00 - 4:00: Project Specific Work Continues"
+    "text": "May 30th - Thursday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Learn about Coding Functions with Karthik Hanumanthaiah\n\n\n\nAll Day: Project Specific Work Continues"
   },
   {
     "objectID": "schedule.html#may-31st---friday",
@@ -193,35 +375,35 @@
     "href": "schedule.html#june-3rd---monday",
     "title": "Weekly Schedule",
     "section": "June 3rd - Monday",
-    "text": "June 3rd - Monday\n\nLocation\n\nEast Hall 311"
+    "text": "June 3rd - Monday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nContinue Project Work & Functions Presentation\n\n\n\n8:00 - 10:00: Karthik Hanumanthaiah Functions Presentation\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-4th---tuesday",
     "href": "schedule.html#june-4th---tuesday",
     "title": "Weekly Schedule",
     "section": "June 4th - Tuesday",
-    "text": "June 4th - Tuesday\n\nLocation\n\nEast Hall 311\n\n\n\n11:30 - 12:30: Guest Speaker - Dr. Cass Dorius"
+    "text": "June 4th - Tuesday\n\nLocation\n\nEast Hall 311\n\nDaily Goals\n\nGuest Speaker\n\n\n\n8:00 - 11:30: Continue Project Work\n11:30 - 12:30: Guest Speaker - Dr. Cass Dorius\n12:30 - 1:30: Lunch Break\n1:30 - 4:00: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-5th---wednesday",
     "href": "schedule.html#june-5th---wednesday",
     "title": "Weekly Schedule",
     "section": "June 5th - Wednesday",
-    "text": "June 5th - Wednesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 5th - Wednesday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 10:00: Graphics Activity\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-6th---thursday",
     "href": "schedule.html#june-6th---thursday",
     "title": "Weekly Schedule",
     "section": "June 6th - Thursday",
-    "text": "June 6th - Thursday\n\nLocation\n\nEast Hall 311"
+    "text": "June 6th - Thursday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 9:00: Assign Personal Blog Assignment\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-7th---friday",
     "href": "schedule.html#june-7th---friday",
     "title": "Weekly Schedule",
     "section": "June 7th - Friday",
-    "text": "June 7th - Friday\n\nLocation\n\nCarver 0268"
+    "text": "June 7th - Friday\n\nLocation\n\nCarver 0268\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Complete Project Work\n12:00 - 1:00: Lunch Break\n1:00 - 2:30: Complete Weekly Team Blogs\n2:30 - 4:00: Present Team Blogs"
   },
   {
     "objectID": "schedule.html#june-10th---monday",
@@ -525,25 +707,116 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
-    "objectID": "Assignments/Actions-Test/Tidycensus_Assignment.html",
-    "href": "Assignments/Actions-Test/Tidycensus_Assignment.html",
-    "title": "Tidycensus and Retail Trade Exercise",
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+    "title": "Housing and AI Week One",
     "section": "",
-    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
+    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
+    "title": "Housing and AI Week One",
+    "section": "",
+    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
+    "title": "Housing and AI Week One",
+    "section": "Image-Processing Activity:",
+    "text": "Image-Processing Activity:\nBased on our Data Camp Training our Graduate lead Karthik has assigned us a Image Processing activity to work with.\nWe were given an image of a Waterloo Sanborn map to experiment with the image processing techniques we’ve learned.\n\nInitially, we converted the original RGB image into a gray-scale image. Subsequently, we applied various techniques that I learned during the Data Camp sessions. For instance, we implemented Sobel edge detection to highlight edges within the image. we also explored morphological operations to produce an eroded version of the image, which helps in understanding structural elements. Additionally, we generated a gray-scale histogram to analyze the intensity distribution and applied a global threshold to segment the image based on intensity values.\nEdge Detection:\n\nContour and Object Extracted:\n\n\nWe have provided the github link to Image-Processing Activity : https://github.com/NehaTiru/Image_Processing/blob/main/Untitled2.ipynb"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
+    "title": "Housing and AI Week One",
+    "section": "Data Exploration",
+    "text": "Data Exploration\nFor our project we started by trying to find how small of data we could go for population data in terms of density, senior citizens, and income bracket. The idea is we want to be gather data at the smallest level we can with hopes of going down to the household level if possible. To do this we looked at two communities of varying sizes to see what level of data is available, Des Moines and Clear Lake.\nStarting with population density this week, we started off at the city level using Census data from the ACS-5 year (2022) to make sure data was available and the results are displayed in the graph below.\n\nSource: US Census ACS-5 (2022)\nFrom there we moved on to see if data was available at the block group and block level, which data was found for population but coming up with density would be a bit time intensive especially in Des Moines. Below is the population density of the block groups in Clear Lake as well as the block layout of Des Moines in which the process of getting population density would be similar yet time consuming.\nClear Lake Block Group Population Density\n Source: US Census ACS-5 (2022)\nDes Moines Block Population\n Source: Us Census 2020 Decennial Data\n\n\n#|echo = FALSE\npopulation_elderly2 &lt;- readRDS(file = \"Data/populationElderly2.RDS\")\n\n\nMoving forward we could look into remote sensing as a possibility to get even smaller data using machine learning. Similar to research that was done at the Nanjing University of Information Science and Technology for finding population density in Beijing City.\nFor More Information: https://www.mdpi.com/2072-4292/12/12/1910\n\nSources:\n\nThe demographic statistical atlas of the united states—Statistical atlas. (n.d.). Retrieved May 31, 2024, from https://statisticalatlas.com/place/Iowa/Des-Moines/Population\nHe, M., Xu, Y., & Li, N. (2020). Population spatialization in beijing city based on machine learning and multisource remote sensing data. Remote Sensing, 12(12), 1910. https://doi.org/10.3390/rs12121910\nGrid view: Table b09020—Census reporter. Retrieved May 31, 2024, from https://censusreporter.org/data/table/?table=B09020&geo_ids=16000US1921000,150%7C16000US1921000&primary_geo_id=16000US1921000#valueType%7Cestimate\nCensus tabulation detail: Total Population. Census Reporter. Retrieved May 31, 2024, from https://censusreporter.org/tables/B01003/"
   },
   {
     "objectID": "allBlogs.html",
     "href": "allBlogs.html",
     "title": "Project Blogs",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Assignments/Tidycensus_Assignment.html",
-    "href": "Assignments/Tidycensus_Assignment.html",
-    "title": "Tidycensus and Retail Trade Exercise",
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
+    "title": "Community Capitals Week One",
     "section": "",
-    "text": "Use this document to complete your code.\n\nlibrary(tidycensus)"
+    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
+    "title": "Community Capitals Week One",
+    "section": "",
+    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-what-is-it",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-what-is-it",
+    "title": "Community Capitals Week One",
+    "section": "Community Capitals? What is it?",
+    "text": "Community Capitals? What is it?"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
+    "title": "Community Capitals Week One",
+    "section": "Social & Cultural Capitals",
+    "text": "Social & Cultural Capitals\n\nBeginning\nThroughout this week we have been brainstorming ways that we can measure Social and Cultural Capital. We read articles and looked at websites to gain knowledge on potential measures. As we started our research, we wrote down measure ideas along the way. We discussed some of our ideas and talked about our concerns of the project so far. Our biggest concern was finding cultural measures.\n\n\nSocial Capitals:\n\nVolunteering rates\nParticipation in Civic Acts/Election turnout\nParticipation frequency in Clubs/ Communities\nCrime rates\nNumber of visits to the public library and the programs\nDontaions to local candidate committees and ballot issue committees\n\n\n\nCultural Captials:\n\nArt festival/ cultural events turnout\nMembership of cultural organizations\nNumber of distinct religions represented\nFrequency of atendance at religion services\n\n\n\nFindings\nWe found that it is much easier to think of social capitals compared to cultural capitals. The tricky part about Cultural Capitals is being able to find datasets for our measures. For example, a community could have a lot of cultural capital due to holding cultural events but there is very little or no data for us to look at.\nSome of the sources that we have found so far are:\n\nAmeriCorps\n\nInformation about volunteering and civic life\n\nSocial Capital Atlas\n\nInformation about econmic connectedness, cohesiveness, and civic engagement\n\nIowa Campaign Contributions Received\n\nInformation about political campaigns (committee, contribution amount, city)\n\nIowa Public Library Statistics\n\nInformation about the public libraries in Iowa counties"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
+    "title": "Community Capitals Week One",
+    "section": "Events Database",
+    "text": "Events Database\n\nFEMA Disasters\n\n\nEmployment Shocks\nLily will be working with the Employment Shocks Data. The data is from workforce iowa.gov and LayoffData.com. The purpose of looking at employment shocks can help explain a communities well being. For example in the Tyson Food plants closure in Parry, Iowa will have a huge impact on it’s community. 1,276 people will be losing their job. As she started to look the datasets she found that there are three different notice types: Amendment, Mass Layoff, Closing, and Workforce reduction. She found that there were some miss spellings or slight character differences between the name of the companies and cities. Her next steps are to continue cleaning the data, fix the values so that they match up with each other, and start making visualizations.\n\n# Read in the data set\nWARN_2005_2024 &lt;- read_csv(\"Data/WARN_2005_2024.csv\")\nWARN_2005_2024$`WARN Received Date` &lt;- as.POSIXct(WARN_2005_2024$`WARN Received Date`, format = \"%m/%d/%Y\")\nWARN_2005_2024$`Effective Date` &lt;- as.POSIXct(WARN_2005_2024$`Effective Date`, format = \"%m/%d/%Y\")\n\n# Variables\nW05_24_V &lt;- WARN_2005_2024[ ,-c(8,9,10,13)]\n\n\n# Unique values\nsort(unique(WARN_2005_2024$`Company`))\nsort(unique(WARN_2005_2024$`City`))\nunique(WARN_2005_2024$`Notice Type`)\nsort(unique(WARN_2005_2024$`County`))\n\n\n\nHealth\nWe believe that there are some indirect correlations between health facilities and social capitals, especially the establishments and closures of health facilities in some specific areas leading to changes in capitals.\nThat’s why we collect and analyse data sources regarding nursing homes. We have 3 datasets:\n\nNursing Homes from CMS, consisting of 100 columns and 14,860 observations\nIowa Medicaid Payments with 9 columns and 98,305 observations representing the Medicaid reports\nNursing Facility Closures includes data for facilities that closed in 2023\n\nand 9 datasets for nursing homes from 2015 to 2022, which will be used to identify the facility closures.\nIllustrations:\n\ncms_nursinghome_df = read.csv(\"Data/Health/CMS_Nursing_Homes.csv\")\ncolnames(cms_nursinghome_df) &lt;- gsub(\"\\\\.\", \" \", colnames(cms_nursinghome_df))\nhead(cms_nursinghome_df)\n\n\n\n\n\nmedicaid_df = read.csv(\"Data/Health/Iowa_Medicaid_Payments.csv\")\ncolnames(medicaid_df) &lt;- gsub(\"\\\\.\", \" \", colnames(medicaid_df))\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Name\"] &lt;- \"Provider Name\"\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Number\"] &lt;- \"Provider Number\"\nhead(medicaid_df)\n\n\n\n\n\nclosure_df = readxl::read_excel(\"Data/Health/Nursing_Facility_Closures.xlsx\")\nhead(closure_df)\n\n\n\n\nFirst approach: We want to identify the opening and closing dates for each provider, so our first approach is to utilize the “Report Date” column in the medicaid dataset. Whenever a payment is made to a provider, a report will be recorded. So we first used the most recent report date and the oldest report date as estimates for the opening and closing dates, but…\n\nmedicaid_df_latest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_closing = max(`Report Date`))\nmedicaid_df_oldest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_opening = min(`Report Date`))\nopening_closing_medicaid &lt;- medicaid_df_latest_filtered %&gt;%\n                              full_join(medicaid_df_oldest_filtered, by = \"Provider Name\") %&gt;%\n                              select(`Provider Name`, `estimate_opening`, `estimate_closing`)\nopening_closing_medicaid\n\n\n\n\nSecond approach: We collect 9 additional datasets regarding active providers from 2015 to 2022, and compare the consecutive years to estimate the year a provider closes. Illustrations are below:\n\n\n\nSo by looking at this planned dataframe, we can estimate the provider with ID 1506000 closed in 2018 and use that insight to identify the effect of the closure on the community."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
+    "title": "Iowa Zoning Guide Week One",
+    "section": "Introduction",
+    "text": "Introduction\nWe are building an Iowa zoning guide.\n\n\nNew Hampshire’s atlas demonstrates what were building.\n\n\nWe are collecting the data by looking at each city’s zoning ordinance, which provides a detailed breakdown of the zoning laws for the city.\n\n\nWe are mapping the atlas in ArcGIS.\n\n\nOur process is not the same as the one used by New Hampshire, but the outcome will be similar."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#explaining-districts",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#explaining-districts",
+    "title": "Iowa Zoning Guide Week One",
+    "section": "Explaining districts",
+    "text": "Explaining districts\nWhat is the point of a housing district?\n\n\nIt’s to maintain public safety; ideally, people won’t live right next to a chemical plant. Light quality, air quality, and access to green space are all affected by zoning regulations.\n\n\nZoning code affects these by mandating population density, which dictates how many people can live in any given area, or how many stories a building is allowed to be."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#questions",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#questions",
+    "title": "Iowa Zoning Guide Week One",
+    "section": "Questions",
+    "text": "Questions\n\n\nWhat is the relationship between housing density and housing costs?\n\n\nTo answer this question, we will look at the housing density based on the zoning code of a given city. We would then combine that data with the data we have on the average price per house in those zones. Creating a graph where housing density is on the x-axis, housing prices are on the y-axis, and each city is a different color would result in a graph that conveys the relationship. We would likely need to only look at the cities that have more than 2 residential districts, as those district types likely wouldn’t provide a clear relationship, given the limited data they would provide.\n\n\n\n\nWhat is zoning’s effect on transportation times/costs?\n\n\nDoes commute time affect purchase rate and/or price? If so, how?\n\n\nHow does the cost of living in the suburbs with decreased land prices compare to the cost of commuting to work?\n\n\nHow does the number of unsold homes relate to the zoning area? (Ex: On average, are there more unsold homes in Low Density Residential Zones?)"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#cogs",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#cogs",
+    "title": "Iowa Zoning Guide Week One",
+    "section": "COGS",
+    "text": "COGS\nIowa has Councils of Government (COGs) which contain different counties. Unfortunately, CIRTPA was somewhat recently dissolved, so we’re ignoring that change."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#data-wrangling",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#data-wrangling",
+    "title": "Iowa Zoning Guide Week One",
+    "section": "Data Wrangling",
+    "text": "Data Wrangling\nCities\n\nBoone\n\n\nAdel\n\n\nGrimes\n\n\nJohnson\n\n\nAnkeny\n\n\nWest Des Moines\n\n\nIndianola\n\n\nPella"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#form-snippet",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#form-snippet",
+    "title": "Iowa Zoning Guide Week One",
+    "section": "Form Snippet",
+    "text": "Form Snippet\nContains information about:\n\nDistrict type\n\n\nPermitted housing\n\n\nDetailed information of housing dimensions"
   },
   {
     "objectID": "index.html",
@@ -571,21 +844,35 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny\n\n\n\n\nPackage Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+    "text": "Quarto Guides\n\n\n\n\nOverleaf LateX Guide"
+  },
+  {
+    "objectID": "resources.html#quarto",
+    "href": "resources.html#quarto",
+    "title": "Resources",
+    "section": "",
+    "text": "Quarto Guides"
+  },
+  {
+    "objectID": "resources.html#latex",
+    "href": "resources.html#latex",
+    "title": "Resources",
+    "section": "",
+    "text": "Overleaf LateX Guide"
   },
   {
     "objectID": "resources.html#books",
     "href": "resources.html#books",
     "title": "Resources",
-    "section": "",
-    "text": "R for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny"
+    "section": "Books",
+    "text": "Books\nR for Data Science\nAdvanced R\nAdvanced R Solutions\nR Graphics Cookbook\nElegant Graphics for Data Analysis\nMastering R Shiny"
   },
   {
     "objectID": "resources.html#packages",
     "href": "resources.html#packages",
     "title": "Resources",
-    "section": "",
-    "text": "Package Cheatsheets\n\n\n\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\n\nggplot2\n\n\n\n\nGT\nflextable\n\n\n\n\nsf\nleaflet\nmapview\n\n\n\n\nshiny\nflexdashboard"
+    "section": "Packages",
+    "text": "Packages\nPackage Cheatsheets\n\n\nData Manipulation\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\nVisualizations\nggplot2\n\n\n\nTable Manipulation\nGT\nflextable\n\n\n\nSpatial\nsf\nleaflet\nmapview\n\n\n\nDashboarding\nshiny\nflexdashboard"
   },
   {
     "objectID": "resources.html#tidycensus",
@@ -599,7 +886,7 @@
     "href": "resources.html#census-information",
     "title": "Resources",
     "section": "Census Information",
-    "text": "Census Information\nCensus Reporter"
+    "text": "Census Information\nCensus Reporter\nCensus Bureau Handbooks for Data Users\nAmerican Community Survey (ACS) Handbook\nAmerican Community Survey (ACS) Documentation\nPublic Use Microdata Sample (PuMS) Handbook\nPublic Use Microdata Sample (PuMS) Documentation\nIPUMS PUMS Access"
   },
   {
     "objectID": "resources.html#books-1",
@@ -609,276 +896,94 @@
     "text": "Books\nCausality for Machine Learning"
   },
   {
-    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html",
-    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html",
-    "title": "Alister’s Introduction",
+    "objectID": "studentBlogs/alister.html",
+    "href": "studentBlogs/alister.html",
+    "title": "Alister Gan",
     "section": "",
-    "text": "Hi, my name is Alister! I originated from Malaysia and I started my journey in Iowa State University during the fall 2023. I’m a sophomore majoring in Data Science."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nAlister’s Introduction\n\n\nAlister Gan\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#personal-background",
-    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#personal-background",
-    "title": "Alister’s Introduction",
+    "objectID": "studentBlogs/blake.html",
+    "href": "studentBlogs/blake.html",
+    "title": "Blake Underwood",
     "section": "",
-    "text": "Hi, my name is Alister! I originated from Malaysia and I started my journey in Iowa State University during the fall 2023. I’m a sophomore majoring in Data Science."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBlake’s Introduction\n\n\nBlake Underwood\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#interesting-fact-about-me",
-    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#interesting-fact-about-me",
-    "title": "Alister’s Introduction",
-    "section": "Interesting fact about me!",
-    "text": "Interesting fact about me!\n\nI am an outdoor enthusiast who spent most of my free time playing sports and hanging out with friends. Occasionally, you will also find me spending hours reading books in local cafes, enjoying a break from the busyness of student life. I would also consider myself a huge movie person and I still recalled my roomates and I spent 10 hours binge watching, “Haunting of the Hill House” during the spring break."
-  },
-  {
-    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#why-data-science",
-    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#why-data-science",
-    "title": "Alister’s Introduction",
-    "section": "Why Data Science?",
-    "text": "Why Data Science?\n\n\nMy interest in Data Science stems from my deep passion to explore and figuring out the underlying meaning behind the data and the vast impact from data findings fascinate me. As people always say, “data is the new future”, pursuing a major in data science allows me to use my skillset in helping the communities to make better decisions through data. After graduation, I plan to pursue a career as a data scientist in the business and finance field. I am drawn to the intricate patterns and strategic decisions that data can unveil in financial markets and business operations. The ability to analyze complex datasets, uncover trends, and make data-driven decisions excites and motivates me. Also, I hope to be able to help the customers to make better financial decisions, identify frauds, reduce risks based on data-driven insights."
-  },
-  {
-    "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html#goals-and-objectives",
-    "href": "studentBlogs/alister/student-introductions/Alister_Introduction.html#goals-and-objectives",
-    "title": "Alister’s Introduction",
-    "section": "Goals and Objectives",
-    "text": "Goals and Objectives\n\nMy experience with Data Science\n\nI have taken several introductory Data Science courses thus far and I have experience performing data analysis and data visualization on a customers purchasing behavior dataset taken from Kaggle. I am familiar with Pandas and Matplotlib using Python to perform data preprocessing, cleaning, analysis and visualization. Working with data in a team setting for the first time was an eye-opening experience as I get to collaborate with students from various background and getting insights and learning from one another. To make full use of my summer, I plan to enroll in several online courses for R and AI to buck up my skills.\n\n\n\nThree skills that I would like to learn from the DSPG program\n\nI would love to gain a deeper understanding on AI and its application on a real-world datasets. I would like to use this program as a stepping stone to allow me to apply AI under the guidance of mentors. Besides AI, I would like to use this opportunity to further enhance my programming skills specifically in Python and R. Lastly, beyond the technical skills, I hope to improve my ability to communicate and explain complex technical data findings to non-technical stakeholders.\n\n\n\nWhy the three skills\n\n\nApplying AI to real-world datasets allows me to understand practical challenges and develop solutions that are impactful and relevant to industry needs more efficiently\nHaving strong programming skills enable me to implement data analysis and visualization effectively as Python and R are one of the primary languages used in data science\nWhile dealing with sophiscated AI models and analyses, having the ability to communicate my findings clearly to stakeholders ensure that my work can be fully utilized and impactful towards the intended audiences\n\n\n\n\nSteps that I would take to improve my skills\n\n\nHave an open mind by experimenting with different data science tools and to seek mentorship from peers\nPratice working on real-world datasets to gain practical experience (participate in DSPG, hackathons)\nPractice presenting my findings through reports, presentations, and visualizations as well as constant engage activity such as public speaking"
-  },
-  {
-    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
-    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
-    "title": "Blake’s Introduction",
+    "objectID": "studentBlogs/cael.html",
+    "href": "studentBlogs/cael.html",
+    "title": "Cael Leistikow",
     "section": "",
-    "text": "this is me"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nCael’s Introduction\n\n\nCael Leistikow\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
-    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
-    "title": "Blake’s Introduction",
-    "section": "Part 2",
-    "text": "Part 2\n\n\nWhat skills do you value and appreciate about yourself?\n\n\n\nI really value my guitar skills and my coding skills.\n\n\n\nI’ve spent so many hours in the last couple years playing guitar trying to learn every song I enjoy listening to.\nPre chatgpt being popular I spent alot of time learning to code and do multiple coding online courses and like 200 coding problems on Leetcode, looking back now most of what I learned became irrelevant due to chat gpt but I still developed a skill that has been deteriorating the more I use GPT unfortunately.\n\n\n\n\nDS skills\n\n\n\nI scored “The thinker” on the personality test we all took on day one, and I do think that represents me well. I enjoy coming up with new ideas for solving problems. Not giving up on finding actually meaningful results that can have a postive impact.\n\n\n\nthree skills you want to develop\n\n\n\nPython and R are extremely important skills for data science and I have been working with the long enough to know how valuable they can be. I also really like using Tableau, I think it’s popular for a reason, for being as high level as it is it can do some pretty complex things such as being able to use SQL to manipulate data while in tableau.\n\n\n\nwhy these skills?\n\n\n\nI’m pursuing these skills because I believe they are the best tools for data sciences to become successful. It’s a safer bet to say that in Python and R will still be relevant in 10 years but some of the higher level skills may be replaces by ai or somethings even higher level.\n\n\n\nhow are you going to improve skills?\n\n\n\nWork on them everyday. The more I work with these technologies the more comfortable I will get with them overtime and the faster I can get things done with them."
-  },
-  {
-    "objectID": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
-    "href": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
-    "title": "Cael’s Introduction",
+    "objectID": "studentBlogs/harun.html",
+    "href": "studentBlogs/harun.html",
+    "title": "Harun Celik",
     "section": "",
-    "text": "Hello, My name is Cael Leistikow\n\nWhere are you from?\nI grew up in Frederika, Iowa which is about 30 minutes north of Waterloo and I attended New Hampton High School.\n\n\nWhat’s your current academic year?\nI am currently a Senior at Iowa State going into my fourth year with intentions of graduating next Spring.\n\n\nWhat degrees are you studying?\nI am majoring in Data science with a minor in Economics\n\n\nWhy did you choose your degrees?\nI chose these degree because I had always been fascinated by statistics, especially sports statistics, and as I went through high school I began to grow an interest in programming as well and when I discovered that Iowa State offered a degree that was a mixture of the two, I knew that it was what I wanted to pursue.\n\n\nWhat are your plans with your degree(s)?\nMy plans for after college is to use my degrees as a Data Analyst or Data Scientist within the business sector and having my Economics degree as well to be able to apply my knowledge towards making informative business decisions. After a few years I would consider to go for my dream job of working as a sports data analyst for a professional US sports team, preferably in baseball or football.\n\n\nWhy do you care about data science?\nI care about data science cause I firmly believe that it is the future towards optimizing and maximizing everything that we do in society. Everything that we do can be put into data and being able to understand how to work with and interpret that data is very valuable. Although it comes with a lot of power that can be manipulated if the owner so desires.\n\n\n\nDo you have any prior experience with data science?\nI have taken numerous data science courses here at Iowa State. I have had an internship with Kingland Systems as a Data Research Analyst. Finally, I have been a Statistician when I was playing under levels of athletics for the varsity team in high school.\n\n\nWhat kinds of extracurricular activities/hobbies do you care about?\nMy extracurricular activities are the Sports Analytics Club, Data Science Club, and Intramural sports.\nMy favorite hobbies are playing basketball, watching sports and going to games, hanging out with friends, listening to music, cooking, and travel.\n\n\nWhat do you want your peers to know about you?\n\nAn interesting fact about me is I have visited 24 of the 50 states as well as DC and Canada. Obviously I like to travel. My favorite trip being to Colorado. Additionally, my most desired place to travel next would be Hawaii as I haven’t gone outside on the intercontinental US or Canada.\n\n\nList some skills in data science that you feel you do well?\nI feel I do very well in data visualization, statistical analysis, machine learning/modeling, R programming as it is my more preferred programming language, and finally SQL and database management.\n\n\nList at least three skills you would like to learn or develop during the DSPG program.\nI would like to develop during the DSPG program is AI development as AI is going to continue to integrated itself in everyday life. Another skill I would like to learn is GIS as I have seen a lot of employers looking for candidates who are able to effectively use GIS. Finally, the last thing I would like to learn is how the data science process works in a real-world scenario that I could then apply in the future.\n\n\nWhy are you pursuing these skills? Why do they matter to you?\nThe reason I’m pursuing these skills and why the matter to me is because I want to be able to put myself in the best position I can for when I’m beginning to look for my full-time career. Being a senior this coming year I need to refine and learn any skills that I can to help me stand out as a candidate to make sure I position myself for the job I want and to have a successful life.\n\n\nHow do you hope to improve these skills?\nI hope to learn and improve these skills through Datacamp as a tutorial for GIS or AI to help create a foundational understanding and then from there apply it to the projects to help use this knowledge on a real-world issue. Additionally, learning from the project leaders and the lunch talks during the program will help me see from other people’s perspective and ask questions to grow my understanding further."
+    "text": "Harun’s Introduction\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\nHarun Celik\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html",
-    "title": "Harun’s Introduction",
+    "objectID": "studentBlogs/joseph.html",
+    "href": "studentBlogs/joseph.html",
+    "title": "Joseph Betti",
     "section": "",
-    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nJoseph’s Introduction\n\n\nJoseph Betti\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
-    "title": "Harun’s Introduction",
+    "objectID": "studentBlogs/karthik.html",
+    "href": "studentBlogs/karthik.html",
+    "title": "Karthik Hanumanthaiah",
     "section": "",
-    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 17, 2024\n\n\nKarthik’s Introduction\n\n\nKarthik Hanumanthaiah\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
-    "title": "Harun’s Introduction",
-    "section": "My DSPG Experience",
-    "text": "My DSPG Experience\nAs an additional degree, I’ve completed the Graduate GIS Certificate Program at ISU and sought for ways to practice these skills on projects that had some public influence. This is how I stumbled across the DSPG program and applied to be a graduate fellow for summer of 2022. I enjoyed the experience so much that I wanted to rejoin the following summer in 2023 with a couple of additional responsibilities. After sharing my ideas with the Community and Economic Development Extension team, I was lucky to get an assistantship that focused on improving the DSPG program with the responses we’ve received from past participants through our surveys.\nI really enjoy the DSPG program for a multitude of reasons, but here a couple of my favorites.\n\nThe program supports communal and personal learning.\n\nParticipants to the program come from varying levels of education, from first year students to PhD candidates. This usually means that everyone comes in at different skill levels and uses that to either develop the skills that they already know or learn new ones.\n\nProjects are quite varied in their goals and flexible for hands-on learning\n\nDifferent clients expect different results and for a lot of the projects, it is the exploration conducted by students that shapes the final deliverable of the projects.\n\nThe program address real questions by clients interested in learning from data.\n\nThe DSPG projects address complex and real questions about the social world making the application of data science skills extremely practical for real-world scenarios."
-  },
-  {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
-    "title": "Harun’s Introduction",
-    "section": "My DSPG Expectations This Year",
-    "text": "My DSPG Expectations This Year\nBeing the coordinator of the program for the first time, my main objectives are to make sure that the DSPG experience is enjoyable and informative for everyone involved. I have yet to solidify all my thoughts but here is a mindmap of what I expect will be my top three goals for this summer.\n\n\n\nMindmap of Harun’s DSPG Objectives"
-  },
-  {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
-    "title": "Harun’s Introduction",
-    "section": "Fun Fact",
-    "text": "Fun Fact\nI play the bass guitar and I love to explore different genres of music, especially ones where the bass guitar has a prominent or unique role. I’d be happy to take any recommendations if you have any favorite albums or songs.\nLately I’ve been listening to Lugares Comunes by Inti-Illimari."
-  },
-  {
-    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
-    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
-    "title": "Joseph’s Introduction",
-    "section": "Personal Background",
-    "text": "Personal Background\n\nI am from Owatonna, Minnesota\nI am majoring in landscape architecture\nI am a senior\nI enjoy going on hikes\nI play guitar and bass\nI enjoy making art\nI make music and movies\n\n\nThe image to the right is a movie poster I made my Freshman year."
-  },
-  {
-    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
-    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
-    "title": "Joseph’s Introduction",
-    "section": "Goals and Objectives",
-    "text": "Goals and Objectives\nAs a designer, it is important to understand the effects that our designs have on society and the environment. An important tool for analyzing the effects we have on the world is data science. As a young scholar at DSPG, I aim to improve my GIS skills and gain new analytic tools. I don’t have much experience with data science, but I am excited to learn more.\n\nObjectives for the Summer\n\nImprove at GIS\nLearn more about statistics\nLearn how to program (R, Python, SQL, etc.)\nLearn how to apply data science as a Landscape Architect\nGain real-world experience\n\n\n\n\n\nCareer Objectives\n\nWork as a landscape architect\nImprove the sustainability of landscapes\nProduce Equitable and accessible designs\nDesign with the community in mind\nImprove my understanding of social issues\nLearn new perspectives about art and design\n\n\nThe image to the right is a set of maps by Ian McHarg, one of the first landscape architects to use data in decision-making."
-  },
-  {
-    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
-    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
-    "title": "Joseph’s Introduction",
-    "section": "Strengths and Areas of Improvement",
-    "text": "Strengths and Areas of Improvement\n\nStrengths\n\nCreativity\nCuriosity\nCompetence in ArcGIS Pro\nFast learner\nCritical Thinking Skills\nDesign-oriented\n\n\n\nAreas of Improvement\n\nProgramming\nGathering data\nAnalyzing data\nStatistics\nGIS\nand much, much more!"
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html",
-    "title": "Karthik’s Introduction",
+    "objectID": "studentBlogs/lily.html",
+    "href": "studentBlogs/lily.html",
+    "title": "Lily Christenson",
     "section": "",
-    "text": "I’m from India and I’m currently pursuing my Master’s in Department of Computer Science, My research work is on Formal Verification & Machine Learning."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nLily’s Introduction\n\n\nLily Christenson\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
-    "title": "Karthik’s Introduction",
-    "section": "My Work",
-    "text": "My Work\nIf you have some thoughts on how to verify some unknown mathematical function that works correctly, I would be happy to share my thoughts. If you sometimes wonder how to hack into a Machine learning model, I can also add something to it."
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
-    "title": "Karthik’s Introduction",
-    "section": "What’s up with DSPG?",
-    "text": "What’s up with DSPG?\nI like solving problems, so far data science has a lot of open problems and I see potential in data science solving a lot of real-world problems. I have designed software applications in the past, but this time with DSPG I’m planning to gain some insights into designing mathematical models for the data."
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
-    "title": "Karthik’s Introduction",
-    "section": "Hobby",
-    "text": "Hobby"
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
-    "title": "Karthik’s Introduction",
-    "section": "Fun Facts",
-    "text": "Fun Facts\nRecently I got to know (credits to Tabassum), the word “karthik” closely relates to “Season & Farming” and I love Farming, Fun stuff!"
-  },
-  {
-    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
-    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
-    "title": "Lily’s Introduction",
+    "objectID": "studentBlogs/manjul.html",
+    "href": "studentBlogs/manjul.html",
+    "title": "Manjul Balayar",
     "section": "",
-    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nManjul’s Introduction\n\n\nManjul Balayar\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
-    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
-    "title": "Lily’s Introduction",
+    "objectID": "studentBlogs/naomi.html",
+    "href": "studentBlogs/naomi.html",
+    "title": "Naomi Mauss",
     "section": "",
-    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nNaomi’s Introduction\n\n\nNaomi Mauss\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html",
-    "href": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html",
-    "title": "Manjul’s Introduction",
+    "objectID": "studentBlogs/neha.html",
+    "href": "studentBlogs/neha.html",
+    "title": "Neha Tirunagiri",
     "section": "",
-    "text": "Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nNeha’s Introduction\n\n\nNeha Tirunagiri\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#about-me",
-    "href": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#about-me",
-    "title": "Manjul’s Introduction",
+    "objectID": "studentBlogs/nhat.html",
+    "href": "studentBlogs/nhat.html",
+    "title": "Nhat Le",
     "section": "",
-    "text": "Hello! My name is Manjul Balayar, and I am an incoming senior majoring in Software Engineering with a minor in Data Science. An interesting fact about me is that I was born in Nepal and moved to Ames about ten years ago."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nNhat’s Introduction\n\n\nNhat Le\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#hobbies",
-    "href": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html#hobbies",
-    "title": "Manjul’s Introduction",
-    "section": "Hobbies",
-    "text": "Hobbies\n\n  Hackathons    Boxing    Trying New Cuisines \n\n\nWhy Software?\n\nHigh Demand and Security\n\nInitially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google’s machine learning research team about a model for detecting cancerous cells.\n\n\n\n\nFuture Plans\nI aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, data visualization, feature engineering, statistics, etc. These skills are essential for building better models.\n\n\nMy Skills and Objectives\n\nPersonal Strengths\n\nGood communicator: An essential skill in any sector.\nAdaptability: I am a quick learner.\nOpen-mindedness: Being open-minded helps me adapt, learn, and grow in my field.\n\n\n\nData Science Skills\n\nExperience with data preprocessing\nFundamental knowledge of machine learning and deep learning\nProficiency in multiple programming languages, frameworks, and tools\n\n\n\nGoals at DSPG\n\nData Visualization: Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.\n\n\n\nMachine Learning Tools: Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.\n\n\n\nFeature Engineering: Learning to transform raw data into meaningful features.\n\n\nThese skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors."
-  },
-  {
-    "objectID": "studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html",
-    "href": "studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html",
-    "title": "Naomi’s Introduction",
+    "objectID": "studentBlogs/solomon.html",
+    "href": "studentBlogs/solomon.html",
+    "title": "Solomon Eshun",
     "section": "",
-    "text": "The basics\n\n\n\nI am originally from Tennessee, but moved to Iowa so I could attend Iowa State.\n\n\n\nI will enter my 3rd year at Iowa State this fall.\n\n\n\nI am currently majoring in data science and linguistics. I enjoy studying data science because I like learning about how I can take data and apply code in order to learn new things about how the world works. I am studying linguistics because I enjoy it, and hope someday to work on NLP.\n\n\n\n\n\n\n\n\n\n\nMy goals\n\n\n\nAs I stated above, I would love to work on NLP. In addition, I hope to use my degrees to help people, so that the world becomes a better place because I was in it.\n\n\n\nI care about data science because it’s fun. It might be selfish of me, but I don’t think I would care half as much if I didn’t enjoy the puzzle of figuring out what code and formulas need to be inputted in order to find a solution.\n\n\n\nI don’t have much experience working solely in data science, but I am currently in a computational linguistics lab. I have also worked in a computational biochemical lab with a focus on using AI for predictive modeling of protein synthesis. In both of those labs, I routinely used Excel or Python to work with large data sets.\n\n\n\n\n\n\n\n\n\n\nHobbies\n\n\n\nIn my free time, I enjoy reading, crochet, and foraging. It’s legal to forage wild plants on public land in Iowa, and there’s a lot of really interesting food not sold in stores. I find that searching for new plants to try is a good exercise both mentally, in terms of improving my knowledge of plant identification, and physically because I get to go out and explore nature!\n\n\n\nI’m very interested in learning - anything and everything is fun to learn about. I’ve spent hours in Parks Library’s stacks, getting lost in books on the history of Iowa State’s water system (the water system originally had slightly higher calcium levels than ideal. That book is in the highest stack and has a coupon for 99 cent pizza and a drink. Unfortunately, the coupon expired in 1995) or, if you look at the mining data on the 3rd stack, you can learn that Quebec produced 450 thousand tons of Asbestos in 1941. It’s so cool how much there is to learn in the stacks!\n\n\n\n\n\n\n\n\n\nSkills, Future Goals, and Looking Forward\n\n\n\nI appreciate my ability to stay calm in a crisis. Additionally, I think I’m good at working consistently on longer projects.\n\n\n\n\nCurrently, I think I’m decent at determining potential trends in data before I work very much with it. I run into a lot of errors when I code, but that means I’ve become pretty good at debugging, which certainly isn’t the worst skill to have.\n\n\n\nI hope to broaden the scope of my python experience, better understand the specific methodologies and fields in which data science can be applied to improve the world, and improve my understanding of different data science software adn how they work together to form a project.\n\n\n\nI have skills in python, but the data I’ve worked with and the things I’ve done in the language aren’t quite the same as what I expect I will use during the course of this program.\n\n\n\nI want to better understand the industry and what part I could play.\n\n\n\nI plan to take detailed documentation on every process I follow (not so detailed that it distracts from the work, but detailed enough that I’ll be able to retrace my steps and better remember what I did).\n\n\n\n\n\n\n\n\n\nThe End\n\n\nThank you for looking at my presentation.\n\n\nTo learn more about me, feel free to find my LinkedIn.\n\n\nOr, some of my coding projects are hosted on my GitHub.\n\n\n\n\n\n\n\nAs the world becomes increasingly complex, I believe it is important to have tools that can explain this complexity in such a way that people who have to make decisions are able to fully understand the topics they’re making decisions about. I want to be someone who knows how to weild those tools in order to make the world a better place."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nSolomon’s Introduction\n\n\nSolomon Eshun\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
-    "href": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
-    "title": "Neha’s Introduction",
+    "objectID": "studentBlogs/tabassum.html",
+    "href": "studentBlogs/tabassum.html",
+    "title": "Tabassum Zaman",
     "section": "",
-    "text": "Personal Introduction\n\nOrigin: I am from Andhra Pradesh, India.\nAcademic Year: I will be junior in the coming fall semester.\nDegree Pursuits: I am majoring in Computer Science and minoring in Data Science. My interest in these fields was sparked by an inspiring Computer Science professor during my high school years.\nCareer Aspirations: I aim to become a software developer at a FANG company, leveraging my degrees to build a solid foundation in technology.\nInterest in Data Science: Data science fascinates me because of its power to solve complex problems and its potential to drive innovation across various industries.\nData Science Experience: I have basic knowledge in data science, familiar with tools like R and Pandas, though I am still in the early stages of my data science education.\nHobbies and Extracurricular Activities: My free time is often spent playing badminton and cricket with friends. I am also an active participant in dance programs organized by the Indian Student Association (ISA).\n\n \n\n\nPersonal Learning Objectives for DSPG\n\nValued Skills: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.\nSkills to Develop:\n\nReal-world problem-solving: Learning to navigate and address complex real-world challenges.\nClient requirement fulfillment: Understanding and meeting client expectations effectively.\nIndustry readiness: Preparing myself to seamlessly transition into a professional environment.\n\nMotivation for These Skills: These skills are essential for me to have a successful career in software development, especially in a competitive and dynamic field like tech industry.\nImprovement Strategy: To enhance these skills, I plan to engage deeply with in my project at DSPG, ensuring I have a clear understanding of the underlying principles and actively seeking feedback to refine my approach."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
-    "title": "Nhat’s Introduction",
-    "section": "Majors",
-    "text": "Majors\nA first-year student in the Iowa State honors program, struggling with a triple major in computer science, data science and applied mathematics. :("
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
-    "title": "Nhat’s Introduction",
-    "section": "Data Science with Me",
-    "text": "Data Science with Me\nWhy data science? Imagine a world where every second brings new data and endless opportunities to uncover hidden patterns. Sounds like a interesting version of a treasure hunt, right? That means, becoming a data scientist guarantees that I’ll never run out of puzzles to solve, and let’s face it, puzzles are way more fun than Sudoku."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
-    "title": "Nhat’s Introduction",
-    "section": "Prior Experience?",
-    "text": "Prior Experience?\nMy passion for mathematics and logical challenges naturally drew me to the fascinating world of AI and data science. I don’t have much coding experience regarding these two areas, but I strongly believe my statistical and mathematical foundation is a great plus during my journey."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
-    "title": "Nhat’s Introduction",
-    "section": "Hobbies",
-    "text": "Hobbies\nOutside of my academic endeavors, I enjoy participating in mathematics competitions (because who doesn’t love a good brain workout?), developing software projects, and staying up-to-date with the latest tech trends. I also have a passion for leadership and community involvement, which has seen me take on various extracurricular activities.\n\n\n\n\nGertrude Herr Adamson Award ($1,000)\n\n\n\n\n\n\n\n\nIowa Collegiate Math Competition (1st Place)"
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
-    "title": "Nhat’s Introduction",
-    "section": "Academic and Professional Goals",
-    "text": "Academic and Professional Goals\nI’m on a quest to climb the academic ladder, aiming for a Ph.D. degree after graduating. My current mission is to absorb as many advanced courses as possible and utilize online platforms like Coursera to build a robust foundation in machine learning. Also, I want to join a research, where I can leverage my skills to prepare for an intensive study in machine learning."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
-    "title": "Nhat’s Introduction",
-    "section": "Skills and Development",
-    "text": "Skills and Development\n\nValued Skills\n\nAnalytical thinking and problem-solving (a.k.a. being a data detective)\nProficiency in programming languages like Python\nStrong foundation in mathematical concepts and their applications (because math is the language of the universe, and who doesn’t want to speak universe?)\n\n\n\nSkills to Develop\n\nData exploration and visualization (turning data into beautiful, insightful art)\nData cleaning (because even data needs a good scrub sometimes)\nData processing (preparing data for the ultimate transformation)\nBasics of AI and machine learning knowledge (unlocking the secrets of smart machines) \n\n\n\nPursuing These Skills\nThese skills are essential to be well-prepared for future internships and professional jobs. Mastering them will allow me to tackle complex problems, effectively communicate insights, and stay competitive in the rapidly evolving field of data science."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
-    "title": "Nhat’s Introduction",
-    "section": "Interesting Fact",
-    "text": "Interesting Fact\nAn interesting fact about me is that I thrive on challenges and enjoy stepping out of my comfort zone. My background and experiences have shaped my academic journey and fueled my passion for machine learning and data science. I look forward to sharing my knowledge and learning from my peers at Iowa State.\nP.S. If you ever need a teammate for any development projects, I’m your person. Just bring some coffee."
-  },
-  {
-    "objectID": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
-    "href": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
-    "title": "Solomon’s Introduction",
-    "section": "",
-    "text": "Hi! My name is Solomon Eshun. You can call me Solomon (he/him/his). I am from Ghana, West Africa, and I’m pursuing a PhD in Applied Mathematics at Iowa State University (as of Spring 2024).\n\nResearch Interests\n\nCausal Inference\nInfectious Disease\nData Integration\n\n\n\nEducation\n\nPhD Applied Mathematics, Iowa State University (08/2023 - 05/2024)\nMSc Applied Stats. & Data Science, University of Texas Rio Grande Valley (UTRGV) (08/2021 - 05/2023)\nBSc Mathematics, University of Mines and Technology (UMaT), Ghana (09/2016 - 08/2020)\n\n\n\nExperience\n\nGraduate Fellow, Data Science for the Public Good, Iowa State (05/2024 - Present)\nGraduate Teaching Assistant, Department of Mathematics, Iowa State (08/2023 - 05/2023)\nSustainability Research Fellow, Office for Sustainability, UTRGV (08/2022 - 05/2023)\nGraduate Teaching Assistant, School of Math. & Stats. Sciences, UTRGV (08/2021 - 05/2023)\nComputational Science Intern, Los Alamos National Lab, Los Alamos NM (05 - 08/2022)\nTeaching Assistant, Department of Mathematical Sciences, UMaT (09/2020 - 08/2021)\nData Production Intern, Ghana Statistical Service, Accra (05 - 08/2019)\n\n\n\nSomething interesting about myself, and what I hope to learn\nI take pride in my strong analytical and computational skills, tenacity, and dedication to continuous improvement. As I embark on the DSPG program, I seek to improve my leadership and mentoring capabilities, alongside acquiring new technical expertise. An important goal for me is to refine my communication skills to effectively convey data-driven insights to non-technical stakeholders. Additionally, I aim to master the management and extraction of value from extensive real-world datasets, leveraging these skills to make impactful decisions and contributions.\nIn my leisure time, I enjoy listening to music, watching soccer games and playing video games.\n\n\nWhy I Care about Data Science\nI remember the moment I became interested in advanced research in Data Science. It was during my master’s research, where I evaluated the effect of sodium-glucose co-transporter-2 (SGLT2) inhibitors on chronic kidney disease (CKD). I used propensity score matching to address differences in patient characteristics that might influence SGLT2 prescription. Additionally, I utilized machine learning models to predict CKD cases. Since the dataset was imbalanced, I applied balanced bagging with bootstrapping and synthetic minority oversampling to balance the distribution of CKD and non-CKD cases in the training data. This aimed to facilitate improved learning on the training dataset and enhance predictions on the testing data. The analysis revealed that individuals taking SGLT2 had fewer CKD cases than those who did not, highlighting the protective effect of SGLT2 on CKD. This shows the potential of statistics and data science in extracting meaningful insights from healthcare data.\nHowever, amidst this revelation, a significant issue surfaced - the absence of reliable data for marginalized populations, resulting in disproportionately worse health outcomes. Since then, my focus evolved from merely using models to make predictions to understanding the “why” and “what-if” behind those predictions. I realized that relying solely on supervised models was insufficient for this purpose, prompting me to develop methods that could integrate machine learning and causal approaches to address and explain predictions in imbalanced datasets.\n\n\n\nFigure Reference (Causality for Machine Learning)\n\n\nAs a consequence, I aim to leverage machine learning with causal methods to understand the influence of policies and interventions on diseases outcomes across various data sources. I seek to move from prediction-based models to learning independent causal models in areas like transfer and meta-learning. This approach will aid in integrating diverse healthcare datasets, often compounded by heterogeneous patient characteristics and medical protocols, ensuring the generalizability of my findings against external datasets. Additionally, I aim to create models capable of scaling up datasets to better reflect the diversity of the population. My goal is to enhance model interpretability through counterfactual reasoning and mitigate algorithmic biases for fair and equitable outcomes, ensuring the reliability of healthcare research across different demographics."
-  },
-  {
-    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
-    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
-    "title": "Tabassum’s Introduction",
-    "section": "",
-    "text": "This is my favorite part THE INTRODUCTION. The ‘Why’ of this will answer my commitment for DSPG program and gratitude to be able to spend my summer with you all bright minds.\nOn the first day, while we were having this little personality test for grouping in My Creative Type I got THE ADVENTURER"
-  },
-  {
-    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
-    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
-    "title": "Tabassum’s Introduction",
-    "section": "My identity",
-    "text": "My identity\n\nCountry\nI, Tabassum Zaman, come from a Southasian country named “Bangladesh”. Which has got some amazing stories to tell people about itself to tell the world. But I will keep it short today to be focused on the objective of this blog.\n\n\n\n\nBangladesh with its surrounding countries\n\n\n\n\n\nA view of Dhaka city (capital of Bangladesh)\n\n\n\n\n\nAcamedics\nDepartment: Community and Regional Planning\nProgram: Masters\nInstitution: Iowa State University\nI completed my undergrad in ‘Urban and Regional Planning’ from my dream university in Bangladesh which was ‘BUET [Bangladesh University of Engineering and Technology]’. I have been always interested in the Transportation problem surrounding me, may be because that’s all I saw. But with time as I am exploring more, I am finding my new interested areas in spatial problems like, housing, accessibility. I am hoping to be focused down in a very near future, as I finished up my semester of masters program this Spring 2024.\n\n\n\nMy Undergrad Convocation from BUET in Urban and Regional Planning\n\n\n\n\nWhat got me into Data Science\nAfter completing my undergrad I had the opportunity to work in the real world for more than a couple of years, in transportation, health care and commodity industry back home. There I got to know the power of data and story telling. You can influence decision through your stories but it has to be backed by data and presented in a comprehensible format and your one little presentation can really changes lives. I can go on giving a number of examples to show how it has motivated me, but I will stop here, and keep my Focus.\nSo, my encounter of Data Science is through excel (you can do a lot of stuff there too) and for spatial one if through GIS (Geographic Information System). I know some basics of SQL, R, Python, but not enough to score good in quiz. But I am betting on my time here and the aim is to have the most productive time this summer 2024 and see the result after 10 weeks. I will come back to share the updates!\n\n\nMy Leisure\nI do not really have any particular talents apart from the academics one, but apart from sleep and watching tv, I love a good conversation of getting to know new people, good food, some cooking, travelling, a little bit of gardening and reading fictions. Pretty ordinary things!"
-  },
-  {
-    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
-    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
-    "title": "Tabassum’s Introduction",
-    "section": "“NEVER STOP LEARNING”",
-    "text": "“NEVER STOP LEARNING”"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nTabassum’s Introduction\n\n\nTabassum Zaman\n\n\n\n\n\nNo matching items"
   }
 ]

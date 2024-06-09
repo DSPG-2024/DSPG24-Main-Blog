@@ -410,35 +410,35 @@
     "href": "schedule.html#june-10th---monday",
     "title": "Weekly Schedule",
     "section": "June 10th - Monday",
-    "text": "June 10th - Monday\n\nLocation\n\nEast Hall 311"
+    "text": "June 10th - Monday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 9:00: Last Week’s Blog Wrap-Up & Presentations\n9:00 - 11:00: Continue Project Work\n11:00 - 12:00: Jay Maxwell - ArcGIS Pro Workshop\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-11th---tuesday",
     "href": "schedule.html#june-11th---tuesday",
     "title": "Weekly Schedule",
     "section": "June 11th - Tuesday",
-    "text": "June 11th - Tuesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 11th - Tuesday\n\nLocation\n\nEast Hall 311\n\n\n\nAll Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-12th---wednesday",
     "href": "schedule.html#june-12th---wednesday",
     "title": "Weekly Schedule",
     "section": "June 12th - Wednesday",
-    "text": "June 12th - Wednesday\n\nLocation\n\nEast Hall 311\n\n\n\n1:00 - 2:00: Guest Speaker - Dr. Scott Samuelson"
+    "text": "June 12th - Wednesday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 11:30: Continue Project Work\n11:30 - 12:30: Lunch Break\n1:00 - 2:00: Guest Speaker - Dr. Scott Samuelson\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-13th---thursday",
     "href": "schedule.html#june-13th---thursday",
     "title": "Weekly Schedule",
     "section": "June 13th - Thursday",
-    "text": "June 13th - Thursday\n\nLocation\n\nEast Hall 311"
+    "text": "June 13th - Thursday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 9:30: Graphics Activity\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-14th---friday",
     "href": "schedule.html#june-14th---friday",
     "title": "Weekly Schedule",
     "section": "June 14th - Friday",
-    "text": "June 14th - Friday\n\nLocation\n\nCarver 0268"
+    "text": "June 14th - Friday\n\nLocation\n\nCarver 0268\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Complete Project Work\n12:00 - 1:00: Lunch Break\n1:00 - 3:00: Complete Weekly Team Blogs\n3:00 - 4:00: Present Team Blogs"
   },
   {
     "objectID": "schedule.html#june-17th---monday",
@@ -707,76 +707,6 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
-    "title": "Housing and AI Week One",
-    "section": "",
-    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
-    "title": "Housing and AI Week One",
-    "section": "",
-    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
-    "title": "Housing and AI Week One",
-    "section": "Image-Processing Activity:",
-    "text": "Image-Processing Activity:\nBased on our Data Camp Training our Graduate lead Karthik has assigned us a Image Processing activity to work with.\nWe were given an image of a Waterloo Sanborn map to experiment with the image processing techniques we’ve learned.\n\nInitially, we converted the original RGB image into a gray-scale image. Subsequently, we applied various techniques that I learned during the Data Camp sessions. For instance, we implemented Sobel edge detection to highlight edges within the image. we also explored morphological operations to produce an eroded version of the image, which helps in understanding structural elements. Additionally, we generated a gray-scale histogram to analyze the intensity distribution and applied a global threshold to segment the image based on intensity values.\nEdge Detection:\n\nContour and Object Extracted:\n\n\nWe have provided the github link to Image-Processing Activity : https://github.com/NehaTiru/Image_Processing/blob/main/Untitled2.ipynb"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
-    "title": "Housing and AI Week One",
-    "section": "Data Exploration",
-    "text": "Data Exploration\nFor our project we started by trying to find how small of data we could go for population data in terms of density, senior citizens, and income bracket. The idea is we want to be gather data at the smallest level we can with hopes of going down to the household level if possible. To do this we looked at two communities of varying sizes to see what level of data is available, Des Moines and Clear Lake.\nStarting with population density this week, we started off at the city level using Census data from the ACS-5 year (2022) to make sure data was available and the results are displayed in the graph below.\n\nSource: US Census ACS-5 (2022)\nFrom there we moved on to see if data was available at the block group and block level, which data was found for population but coming up with density would be a bit time intensive especially in Des Moines. Below is the population density of the block groups in Clear Lake as well as the block layout of Des Moines in which the process of getting population density would be similar yet time consuming.\nClear Lake Block Group Population Density\n Source: US Census ACS-5 (2022)\nDes Moines Block Population\n Source: Us Census 2020 Decennial Data\n\n\n#|echo = FALSE\npopulation_elderly2 &lt;- readRDS(file = \"Data/populationElderly2.RDS\")\n\n\nMoving forward we could look into remote sensing as a possibility to get even smaller data using machine learning. Similar to research that was done at the Nanjing University of Information Science and Technology for finding population density in Beijing City.\nFor More Information: https://www.mdpi.com/2072-4292/12/12/1910\n\nSources:\n\nThe demographic statistical atlas of the united states—Statistical atlas. (n.d.). Retrieved May 31, 2024, from https://statisticalatlas.com/place/Iowa/Des-Moines/Population\nHe, M., Xu, Y., & Li, N. (2020). Population spatialization in beijing city based on machine learning and multisource remote sensing data. Remote Sensing, 12(12), 1910. https://doi.org/10.3390/rs12121910\nGrid view: Table b09020—Census reporter. Retrieved May 31, 2024, from https://censusreporter.org/data/table/?table=B09020&geo_ids=16000US1921000,150%7C16000US1921000&primary_geo_id=16000US1921000#valueType%7Cestimate\nCensus tabulation detail: Total Population. Census Reporter. Retrieved May 31, 2024, from https://censusreporter.org/tables/B01003/"
-  },
-  {
-    "objectID": "allBlogs.html",
-    "href": "allBlogs.html",
-    "title": "Project Blogs",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
-    "title": "Community Capitals Week One",
-    "section": "",
-    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
-    "title": "Community Capitals Week One",
-    "section": "",
-    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-what-is-it",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-what-is-it",
-    "title": "Community Capitals Week One",
-    "section": "Community Capitals? What is it?",
-    "text": "Community Capitals? What is it?"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
-    "title": "Community Capitals Week One",
-    "section": "Social & Cultural Capitals",
-    "text": "Social & Cultural Capitals\n\nBeginning\nThroughout this week we have been brainstorming ways that we can measure Social and Cultural Capital. We read articles and looked at websites to gain knowledge on potential measures. As we started our research, we wrote down measure ideas along the way. We discussed some of our ideas and talked about our concerns of the project so far. Our biggest concern was finding cultural measures.\n\n\nSocial Capitals:\n\nVolunteering rates\nParticipation in Civic Acts/Election turnout\nParticipation frequency in Clubs/ Communities\nCrime rates\nNumber of visits to the public library and the programs\nDonations to local candidate committees and ballot issue committees\n\n\n\nCultural Capitals:\n\nArt festival/ cultural events turnout\nMembership of cultural organizations\nNumber of distinct religions represented\nFrequency of attendance at religion services\n\n\n\nFindings\nWe found that it is much easier to think of social capitals compared to cultural capitals. The tricky part about Cultural Capitals is being able to find datasets for our measures. For example, a community could have a lot of cultural capital due to holding cultural events but there is very little or no data for us to look at.\nSome of the sources that we have found so far are:\n\nAmeriCorps\n\nInformation about volunteering and civic life\n\nSocial Capital Atlas\n\nInformation about economic connectedness, cohesiveness, and civic engagement\n\nIowa Campaign Contributions Received\n\nInformation about political campaigns (committee, contribution amount, city)\n\nIowa Public Library Statistics\n\nInformation about the public libraries in Iowa counties"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
-    "title": "Community Capitals Week One",
-    "section": "Events Database",
-    "text": "Events Database\n\nFEMA Dataset\nThe Federal Management Agency(FEMA) disasters dataset includes various disasters/events that have taken place throughout the United States over the years. These datasets also include all the grants and funding approved by various organizations.\n\nArea Dataset\n\n# import pandas as pd\n# areas_df = pd.read_csv(\"Data/Updated_FEMA_Disaster_Areas.csv\")\n# areas_df\n\nArea Dataset Feature Selection:\n\nid: Not needed\ndisasterNumber: Might be important, will keep it for now.\nprogramTypeCode: Redundant, this info is available in programTypeDescription\nprogramTypeDescription: Will keep\nstateCode: Will either keep this or stateName but will drop one of them\nstateNames: Same as stateCode\nplaceCode: Keep for now\nplaceName: Most seems to be based on county but need to get rid of the ‘(county)’ part.\ndesignatedDate: Convert to Date type and clean up\nentryDate: Convert to Date type and clean up\nupdateDate: Convert to Date type and clean up\ncloseoutDate: Convert to Date type and clean up\nhash: not needed\nlastRefresh: Not important\n\n\n\nAmounts & Declarations Dataset\nSimilar feature selection process was applied to these datasets as well.\nAmounts Dataset\n\n# import pandas as pd\n# amounts_df = pd.read_csv(\"Data/FEMA_Disaster_Amounts.csv\")\n# amounts_df\n\nDeclarations Dataset\n\n# dec_df = pd.read_csv(\"Data/FEMA_Disaster_Declarations.csv\")\n\n\n#Dropping mostly dates, state and county code which are available in the Areas dataset\n# decColumnsToDrop = dec_df.columns[[0,2,3,4,5,7,12,13,14,16,17,20,21,22,23,24]]\n# dec_df = dec_df.drop(columns=decColumnsToDrop)\n# dec_df\n\nGoal next week:\nSince all three datasets include the column ‘districtNumber’ that match with each other, I plan to join these datasets into a new datasets which will follow a similar format.\n\n\n\n\nEmployment Shocks\nWe will be working with the Employment Shocks Data. The data is from workforce iowa.gov and LayoffData.com. The purpose of looking at employment shocks can help explain a communities well being. For example in the Tyson Food plants closure in Parry, Iowa will have a huge impact on it’s community. 1,276 people will be losing their job. As we started to look the datasets we found that there are three different notice types: Amendment, Mass Layoff, Closing, and Workforce reduction. we found that there were some miss spellings or slight character differences between the name of the companies and cities. Her next steps are to continue cleaning the data, fix the values so that they match up with each other, and start making visualizations.\n\n# Read in the data set\nWARN_2005_2024 &lt;- read.csv(\"Data/WARN_2005_2024.csv\")\n# WARN_2005_2024$`WARN Received Date` &lt;- as.POSIXct(WARN_2005_2024$`WARN Received Date`, format = \"%m/%d/%Y\")\n# WARN_2005_2024$`Effective Date` &lt;- as.POSIXct(WARN_2005_2024$`Effective Date`, format = \"%m/%d/%Y\")\n\n# Variables\nW05_24_V &lt;- WARN_2005_2024[ ,-c(8,9,10,13)]\n\n\n# Unique values\nsort(unique(WARN_2005_2024$`Company`))\nsort(unique(WARN_2005_2024$`City`))\nunique(WARN_2005_2024$`Notice Type`)\nsort(unique(WARN_2005_2024$`County`))\n\n\n\n\nHealth\nWe believe that there are some indirect correlations between health facilities and social capitals, especially the establishments and closures of health facilities in some specific areas leading to changes in capitals.\nThat’s why we collect and analyse data sources regarding nursing homes. We have 3 datasets:\n\nNursing Homes from CMS, consisting of 100 columns and 14,860 observations\nIowa Medicaid Payments with 9 columns and 98,305 observations representing the Medicaid reports\nNursing Facility Closures includes data for facilities that closed in 2023\n\nand 9 datasets for nursing homes from 2015 to 2022, which will be used to identify the facility closures.\nIllustrations:\n\ncms_nursinghome_df = read.csv(\"Data/CMS_Nursing_Homes.csv\")\ncolnames(cms_nursinghome_df) &lt;- gsub(\"\\\\.\", \" \", colnames(cms_nursinghome_df))\nhead(cms_nursinghome_df)\n\n\n\n\nElephant\n\n\n\nmedicaid_df = read.csv(\"Data/Iowa_Medicaid_Payments.csv\")\ncolnames(medicaid_df) &lt;- gsub(\"\\\\.\", \" \", colnames(medicaid_df))\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Name\"] &lt;- \"Provider Name\"\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Number\"] &lt;- \"Provider Number\"\nhead(medicaid_df)\n\n\n\n\nElephant\n\n\n\nclosure_df = readxl::read_excel(\"Data/Nursing_Facility_Closures.xlsx\")\nhead(closure_df)\n\n\n\n\nElephant\n\n\nFirst approach: We want to identify the opening and closing dates for each provider, so our first approach is to utilize the “Report Date” column in the medicaid dataset. Whenever a payment is made to a provider, a report will be recorded. So we first used the most recent report date and the oldest report date as estimates for the opening and closing dates, but…\n\nmedicaid_df_latest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_closing = max(`Report Date`))\nmedicaid_df_oldest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_opening = min(`Report Date`))\nopening_closing_medicaid &lt;- medicaid_df_latest_filtered %&gt;%\n                              full_join(medicaid_df_oldest_filtered, by = \"Provider Name\") %&gt;%\n                              select(`Provider Name`, `estimate_opening`, `estimate_closing`)\nopening_closing_medicaid\n\n\n\n\nElephant\n\n\nSecond approach: We collect 9 additional datasets regarding active providers from 2015 to 2022, and compare the consecutive years to estimate the year a provider closes. Illustrations are below: \nSo by looking at this planned dataframe, we can estimate the provider with ID 1506000 closed in 2018 and use that insight to identify the effect of the closure on the community."
-  },
-  {
     "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
     "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
     "title": "Iowa Zoning Guide Week One",
@@ -817,6 +747,83 @@
     "title": "Iowa Zoning Guide Week One",
     "section": "Form Snippet",
     "text": "Form Snippet\nContains information about:\n\nDistrict type\n\n\nPermitted housing\n\n\nDetailed information of housing dimensions"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
+    "title": "Community Capitals Week One",
+    "section": "",
+    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
+    "title": "Community Capitals Week One",
+    "section": "",
+    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
+    "title": "Community Capitals Week One",
+    "section": "Community Capitals Project Introduction",
+    "text": "Community Capitals Project Introduction\n\nWhat is a Community and what is a Capital?\nCommunity: A healthy community has all three below\n\nGeography Based(cities, counties, neighborhoods)\nOrganized Based(school, work)\nIdentity Based(Hometown, vacation home)\n\nCapital: An asset that is “invested” to create resources.\n\n\nTypes of Community Capitals\n\nNatural Capital - The quality and quantity of natural and environmental resources existing in a community.\nCultural Capital - The values, norms, beliefs and traditions that people inherit from the family, school and community. Also includes material goods produced at a specific time and place (such as paintings, books) that have historical or cultural significance.\nHuman Capital - Attributes of individuals that provide them with the ability to earn a living, strengthen community, and otherwise contribute to community organizations, to their families, and to self- improvement (Flora et al. 2004). It includes access to education and knowledge development, training and skill building activities and efforts to build and expand local leadership.\nSocial Capital - Connections existing among people and organizations that help make things happen in the community. Includes close ties that build community cohesion (bonding) as well as weaker ties with local and outside people and organizations that help promote broad-based action on key matters (bridging).\nPolitical Capital - The ability to influence and enforce rules, regulations, and standards. Access to individuals and groups with the power to influence decisions. Participating in civic discourse on difficult public issues.\nFinancial Capital - The variety of financial resources available to invest in local projects or economic development initiatives. Efforts to build wealth to support community development activities.\nBuilt Capital - Represents the infrastructure of the community – the basic set of facilities, services and physical structures needed by a community.\n\n\n\nProject Goal\nCurrently, we are seeking measurements that might influence these forms of capital and reliable data sources for them. For example, a measurement could be the number of businesses per county, which could significantly impact financial capital.\nPrevious projects have identified numerous measures for capitals such as Built, Financial, and Natural, but have found limited measures for Social and Cultural capital. This is because social and cultural aspects are challenging to quantify and collect data on, unlike Financial capital, which is inherently numerical.\nGoal in the future, gather diverse measurements and data sets for each type of capital, we aim to develop an index value representing each capital for each county in Iowa to visualize."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
+    "title": "Community Capitals Week One",
+    "section": "Social & Cultural Capitals",
+    "text": "Social & Cultural Capitals\n\nBeginning\nThroughout this week we have been brainstorming ways that we can measure Social and Cultural Capital. We read articles and looked at websites to gain knowledge on potential measures. As we started our research, we wrote down measure ideas along the way. We discussed some of our ideas and talked about our concerns of the project so far. Our biggest concern was finding cultural measures.\n\n\nSocial Capitals:\n\nVolunteering rates\nParticipation in Civic Acts/Election turnout\nParticipation frequency in Clubs/ Communities\nCrime rates\nNumber of visits to the public library and the programs\nDonations to local candidate committees and ballot issue committees\n\n\n\nCultural Capitals:\n\nArt festival/ cultural events turnout\nMembership of cultural organizations\nNumber of distinct religions represented\nFrequency of attendance at religion services\n\n\n\nFindings\nWe found that it is much easier to think of social capitals compared to cultural capitals. The tricky part about Cultural Capitals is being able to find datasets for our measures. For example, a community could have a lot of cultural capital due to holding cultural events but there is very little or no data for us to look at.\nSome of the sources that we have found so far are:\n\nAmeriCorps\n\nInformation about volunteering and civic life\n\nSocial Capital Atlas\n\nInformation about economic connectedness, cohesiveness, and civic engagement\n\nIowa Campaign Contributions Received\n\nInformation about political campaigns (committee, contribution amount, city)\n\nIowa Public Library Statistics\n\nInformation about the public libraries in Iowa counties"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
+    "title": "Community Capitals Week One",
+    "section": "Events Database",
+    "text": "Events Database\n\nFEMA Dataset\nThe Federal Management Agency(FEMA) disasters dataset includes various disasters/events that have taken place throughout the United States over the years. These datasets also include all the grants and funding approved by various organizations.\n\nArea Dataset\n\n# import pandas as pd\n# areas_df = pd.read_csv(\"Data/Updated_FEMA_Disaster_Areas.csv\")\n# areas_df\n\nArea Dataset Feature Selection:\n\nid: Not needed\ndisasterNumber: Might be important, will keep it for now.\nprogramTypeCode: Redundant, this info is available in programTypeDescription\nprogramTypeDescription: Will keep\nstateCode: Will either keep this or stateName but will drop one of them\nstateNames: Same as stateCode\nplaceCode: Keep for now\nplaceName: Most seems to be based on county but need to get rid of the ‘(county)’ part.\ndesignatedDate: Convert to Date type and clean up\nentryDate: Convert to Date type and clean up\nupdateDate: Convert to Date type and clean up\ncloseoutDate: Convert to Date type and clean up\nhash: not needed\nlastRefresh: Not important\n\n\n\nAmounts & Declarations Dataset\nSimilar feature selection process was applied to these datasets as well.\nAmounts Dataset\n\n# import pandas as pd\n# amounts_df = pd.read_csv(\"Data/FEMA_Disaster_Amounts.csv\")\n# amounts_df\n\nDeclarations Dataset\n\n# dec_df = pd.read_csv(\"Data/FEMA_Disaster_Declarations.csv\")\n\n\n#Dropping mostly dates, state and county code which are available in the Areas dataset\n# decColumnsToDrop = dec_df.columns[[0,2,3,4,5,7,12,13,14,16,17,20,21,22,23,24]]\n# dec_df = dec_df.drop(columns=decColumnsToDrop)\n# dec_df\n\nGoal next week:\nSince all three datasets include the column ‘districtNumber’ that match with each other, I plan to join these datasets into a new datasets which will follow a similar format.\n\n\n\n\nEmployment Shocks\nWe will be working with the Employment Shocks Data. The data is from workforce iowa.gov and LayoffData.com. The purpose of looking at employment shocks can help explain a communities well being. For example in the Tyson Food plants closure in Parry, Iowa will have a huge impact on it’s community. 1,276 people will be losing their job. As we started to look the datasets we found that there are three different notice types: Amendment, Mass Layoff, Closing, and Workforce reduction. we found that there were some miss spellings or slight character differences between the name of the companies and cities. Her next steps are to continue cleaning the data, fix the values so that they match up with each other, and start making visualizations.\n\n# Read in the data set\nWARN_2005_2024 &lt;- read.csv(\"Data/WARN_2005_2024.csv\")\n# WARN_2005_2024$`WARN Received Date` &lt;- as.POSIXct(WARN_2005_2024$`WARN Received Date`, format = \"%m/%d/%Y\")\n# WARN_2005_2024$`Effective Date` &lt;- as.POSIXct(WARN_2005_2024$`Effective Date`, format = \"%m/%d/%Y\")\n\n# Variables\nW05_24_V &lt;- WARN_2005_2024[ ,-c(8,9,10,13)]\n\n\n# Unique values\nsort(unique(WARN_2005_2024$`Company`))\nsort(unique(WARN_2005_2024$`City`))\nunique(WARN_2005_2024$`Notice Type`)\nsort(unique(WARN_2005_2024$`County`))\n\n\n\n\nHealth\nWe believe that there are some indirect correlations between health facilities and social capitals, especially the establishments and closures of health facilities in some specific areas leading to changes in capitals.\nThat’s why we collect and analyse data sources regarding nursing homes. We have 3 datasets:\n\nNursing Homes from CMS, consisting of 100 columns and 14,860 observations\nIowa Medicaid Payments with 9 columns and 98,305 observations representing the Medicaid reports\nNursing Facility Closures includes data for facilities that closed in 2023\n\nand 9 datasets for nursing homes from 2015 to 2022, which will be used to identify the facility closures.\nIllustrations:\n\ncms_nursinghome_df = read.csv(\"Data/CMS_Nursing_Homes.csv\")\ncolnames(cms_nursinghome_df) &lt;- gsub(\"\\\\.\", \" \", colnames(cms_nursinghome_df))\nhead(cms_nursinghome_df)\n\n\n\n\nElephant\n\n\n\nmedicaid_df = read.csv(\"Data/Iowa_Medicaid_Payments.csv\")\ncolnames(medicaid_df) &lt;- gsub(\"\\\\.\", \" \", colnames(medicaid_df))\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Name\"] &lt;- \"Provider Name\"\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Number\"] &lt;- \"Provider Number\"\nhead(medicaid_df)\n\n\n\n\nElephant\n\n\n\nclosure_df = readxl::read_excel(\"Data/Nursing_Facility_Closures.xlsx\")\nhead(closure_df)\n\n\n\n\nElephant\n\n\nFirst approach: We want to identify the opening and closing dates for each provider, so our first approach is to utilize the “Report Date” column in the medicaid dataset. Whenever a payment is made to a provider, a report will be recorded. So we first used the most recent report date and the oldest report date as estimates for the opening and closing dates, but…\n\nmedicaid_df_latest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_closing = max(`Report Date`))\nmedicaid_df_oldest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_opening = min(`Report Date`))\nopening_closing_medicaid &lt;- medicaid_df_latest_filtered %&gt;%\n                              full_join(medicaid_df_oldest_filtered, by = \"Provider Name\") %&gt;%\n                              select(`Provider Name`, `estimate_opening`, `estimate_closing`)\nopening_closing_medicaid\n\n\n\n\nElephant\n\n\nSecond approach: We collect 9 additional datasets regarding active providers from 2015 to 2022, and compare the consecutive years to estimate the year a provider closes. Illustrations are below: \nSo by looking at this planned dataframe, we can estimate the provider with ID 1506000 closed in 2018 and use that insight to identify the effect of the closure on the community."
+  },
+  {
+    "objectID": "allBlogs.html",
+    "href": "allBlogs.html",
+    "title": "Project Blogs",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 7, 2024\n\n\nIowa Zoning Guide Week Two\n\n\nIowa Zoning Guide\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+    "title": "Housing and AI Week One",
+    "section": "",
+    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
+    "title": "Housing and AI Week One",
+    "section": "",
+    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
+    "title": "Housing and AI Week One",
+    "section": "Image-Processing Activity:",
+    "text": "Image-Processing Activity:\nBased on our Data Camp Training our Graduate lead Karthik has assigned us a Image Processing activity to work with.\nWe were given an image of a Waterloo Sanborn map to experiment with the image processing techniques we’ve learned.\n\nInitially, we converted the original RGB image into a gray-scale image. Subsequently, we applied various techniques that I learned during the Data Camp sessions. For instance, we implemented Sobel edge detection to highlight edges within the image. we also explored morphological operations to produce an eroded version of the image, which helps in understanding structural elements. Additionally, we generated a gray-scale histogram to analyze the intensity distribution and applied a global threshold to segment the image based on intensity values.\nEdge Detection:\n\nContour and Object Extracted:\n\n\nWe have provided the github link to Image-Processing Activity : https://github.com/NehaTiru/Image_Processing/blob/main/Untitled2.ipynb"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
+    "title": "Housing and AI Week One",
+    "section": "Data Exploration",
+    "text": "Data Exploration\nFor our project we started by trying to find how small of data we could go for population data in terms of density, senior citizens, and income bracket. The idea is we want to be gather data at the smallest level we can with hopes of going down to the household level if possible. To do this we looked at two communities of varying sizes to see what level of data is available, Des Moines and Clear Lake.\nStarting with population density this week, we started off at the city level using Census data from the ACS-5 year (2022) to make sure data was available and the results are displayed in the graph below.\n\nSource: US Census ACS-5 (2022)\nFrom there we moved on to see if data was available at the block group and block level, which data was found for population but coming up with density would be a bit time intensive especially in Des Moines. Below is the population density of the block groups in Clear Lake as well as the block layout of Des Moines in which the process of getting population density would be similar yet time consuming.\nClear Lake Block Group Population Density\n Source: US Census ACS-5 (2022)\nDes Moines Block Population\n Source: Us Census 2020 Decennial Data\n\n\n#|echo = FALSE\npopulation_elderly2 &lt;- readRDS(file = \"Data/populationElderly2.RDS\")\n\n\nMoving forward we could look into remote sensing as a possibility to get even smaller data using machine learning. Similar to research that was done at the Nanjing University of Information Science and Technology for finding population density in Beijing City.\nFor More Information: https://www.mdpi.com/2072-4292/12/12/1910\n\nSources:\n\nThe demographic statistical atlas of the united states—Statistical atlas. (n.d.). Retrieved May 31, 2024, from https://statisticalatlas.com/place/Iowa/Des-Moines/Population\nHe, M., Xu, Y., & Li, N. (2020). Population spatialization in beijing city based on machine learning and multisource remote sensing data. Remote Sensing, 12(12), 1910. https://doi.org/10.3390/rs12121910\nGrid view: Table b09020—Census reporter. Retrieved May 31, 2024, from https://censusreporter.org/data/table/?table=B09020&geo_ids=16000US1921000,150%7C16000US1921000&primary_geo_id=16000US1921000#valueType%7Cestimate\nCensus tabulation detail: Total Population. Census Reporter. Retrieved May 31, 2024, from https://censusreporter.org/tables/B01003/"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
+    "title": "Iowa Zoning Guide Week Two",
+    "section": "",
+    "text": "Looking Forward\n\n\nIn the future, we will continue to catalogue zoning data for 330 cities in Iowa. Additionally, we hope to scrape data from Redfin and download Iowa County Assessor Data so that we can take that information and use it to answer some of the questions to which we want to find answers."
   },
   {
     "objectID": "index.html",
@@ -861,6 +868,27 @@
     "text": "Overleaf LateX Guide"
   },
   {
+    "objectID": "resources.html#packages-and-modules",
+    "href": "resources.html#packages-and-modules",
+    "title": "Resources",
+    "section": "Packages and Modules",
+    "text": "Packages and Modules"
+  },
+  {
+    "objectID": "resources.html#data-manipulation",
+    "href": "resources.html#data-manipulation",
+    "title": "Resources",
+    "section": "Data Manipulation",
+    "text": "Data Manipulation\nPandas\ndask"
+  },
+  {
+    "objectID": "resources.html#visualization",
+    "href": "resources.html#visualization",
+    "title": "Resources",
+    "section": "Visualization",
+    "text": "Visualization\nMatplotlib\nSeaborn"
+  },
+  {
     "objectID": "resources.html#books",
     "href": "resources.html#books",
     "title": "Resources",
@@ -872,7 +900,7 @@
     "href": "resources.html#packages",
     "title": "Resources",
     "section": "Packages",
-    "text": "Packages\nPackage Cheatsheets\n\n\nData Manipulation\ndplyr\ntidycensus\nstringr\nreadr\nscales\n\n\n\nVisualizations\nggplot2\n\n\n\nTable Manipulation\nGT\nflextable\n\n\n\nSpatial\nsf\nleaflet\nmapview\n\n\n\nDashboarding\nshiny\nflexdashboard"
+    "text": "Packages\nPackage Cheatsheets\n\n\nData Manipulation\ndplyr\ntidycensus\nstringr\nreadr\nscales\npurrr\nfurrr\n\n\n\nVisualizations\nggplot2\n\n\n\nTable Manipulation\nGT\nflextable\n\n\n\nSpatial\nsf\nleaflet\nmapview\n\n\n\nDashboarding\nshiny\nflexdashboard\n\n\n\nPython Integration\nReticulate"
   },
   {
     "objectID": "resources.html#tidycensus",
@@ -985,12 +1013,5 @@
     "title": "Tabassum Zaman",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nTabassum’s Introduction\n\n\nTabassum Zaman\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
-    "title": "Community Capitals Week One",
-    "section": "Community Capitals Project Introduction",
-    "text": "Community Capitals Project Introduction\n\nWhat is a Community and what is a Capital?\nCommunity: A healthy community has all three below\n\nGeography Based(cities, counties, neighborhoods)\nOrganized Based(school, work)\nIdentity Based(Hometown, vacation home)\n\nCapital: An asset that is “invested” to create resources.\n\n\nTypes of Community Capitals\n\nNatural Capital - The quality and quantity of natural and environmental resources existing in a community.\nCultural Capital - The values, norms, beliefs and traditions that people inherit from the family, school and community. Also includes material goods produced at a specific time and place (such as paintings, books) that have historical or cultural significance.\nHuman Capital - Attributes of individuals that provide them with the ability to earn a living, strengthen community, and otherwise contribute to community organizations, to their families, and to self- improvement (Flora et al. 2004). It includes access to education and knowledge development, training and skill building activities and efforts to build and expand local leadership.\nSocial Capital - Connections existing among people and organizations that help make things happen in the community. Includes close ties that build community cohesion (bonding) as well as weaker ties with local and outside people and organizations that help promote broad-based action on key matters (bridging).\nPolitical Capital - The ability to influence and enforce rules, regulations, and standards. Access to individuals and groups with the power to influence decisions. Participating in civic discourse on difficult public issues.\nFinancial Capital - The variety of financial resources available to invest in local projects or economic development initiatives. Efforts to build wealth to support community development activities.\nBuilt Capital - Represents the infrastructure of the community – the basic set of facilities, services and physical structures needed by a community.\n\n\n\nProject Goal\nCurrently, we are seeking measurements that might influence these forms of capital and reliable data sources for them. For example, a measurement could be the number of businesses per county, which could significantly impact financial capital.\nPrevious projects have identified numerous measures for capitals such as Built, Financial, and Natural, but have found limited measures for Social and Cultural capital. This is because social and cultural aspects are challenging to quantify and collect data on, unlike Financial capital, which is inherently numerical.\nGoal in the future, gather diverse measurements and data sets for each type of capital, we aim to develop an index value representing each capital for each county in Iowa to visualize."
   }
 ]

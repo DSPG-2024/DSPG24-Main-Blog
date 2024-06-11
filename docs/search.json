@@ -707,6 +707,20 @@
     "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
   },
   {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
+    "title": "Housing and AI Week Two",
+    "section": "",
+    "text": "This week we continued looking for data for the smallest unit of area we could.\nOn the side of population density, we were able to find data down to the house/parcel level for Des Moines and we were able to go ahead and display them along with the census block groups and all residential zones in the Des Moines area as shown in the figure below. We can do the same with the blocks as well.\n\nFrom here we wanted to see if we could find data of the same variety for smaller communities rather than just larger cities so our eventual model isn’t biased. Luckily, the Des Moines Data Portal stretches across the entire Des Moines Metropolitan Area which meant we could get data for smaller communities such as Ackworth that has a population of 115.\n\n\nHowever, we realized we don’t just want communities around the Des Moines Metro and still wanted to reach smaller community data. After some research we found that Iowa has a free GIS database (https://www.iowagisdata.org/) that contains information for numerous counties and cities down to the parcel and building level. One county that we found may be helpful is Winneshiek County as it is in a more rural area of the state away from most metro and micropolitan areas.\n\nThe image above is showing all residential buildings in Decorah, but the database has access to so many more communities and levels of data that will continued to be explored.\nWe were also able to get a way to calculate population density of our blocks and block groups using tidycensus.\n\nWe also wanted to look into transportation data, however outside of getting routes and stops we couldn’t find much. Additionally, after talking to Omar Padilla this makes sense as most people just don’t prefer to use public transit compared to their own car in Iowa even in the bigger cities like Des Moines which is why much data isn’t available"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html#data-exploration-for-population-density",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html#data-exploration-for-population-density",
+    "title": "Housing and AI Week Two",
+    "section": "",
+    "text": "This week we continued looking for data for the smallest unit of area we could.\nOn the side of population density, we were able to find data down to the house/parcel level for Des Moines and we were able to go ahead and display them along with the census block groups and all residential zones in the Des Moines area as shown in the figure below. We can do the same with the blocks as well.\n\nFrom here we wanted to see if we could find data of the same variety for smaller communities rather than just larger cities so our eventual model isn’t biased. Luckily, the Des Moines Data Portal stretches across the entire Des Moines Metropolitan Area which meant we could get data for smaller communities such as Ackworth that has a population of 115.\n\n\nHowever, we realized we don’t just want communities around the Des Moines Metro and still wanted to reach smaller community data. After some research we found that Iowa has a free GIS database (https://www.iowagisdata.org/) that contains information for numerous counties and cities down to the parcel and building level. One county that we found may be helpful is Winneshiek County as it is in a more rural area of the state away from most metro and micropolitan areas.\n\nThe image above is showing all residential buildings in Decorah, but the database has access to so many more communities and levels of data that will continued to be explored.\nWe were also able to get a way to calculate population density of our blocks and block groups using tidycensus.\n\nWe also wanted to look into transportation data, however outside of getting routes and stops we couldn’t find much. Additionally, after talking to Omar Padilla this makes sense as most people just don’t prefer to use public transit compared to their own car in Iowa even in the bigger cities like Des Moines which is why much data isn’t available"
+  },
+  {
     "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
     "href": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
     "title": "Iowa Zoning Guide Week One",
@@ -788,7 +802,7 @@
     "href": "allBlogs.html",
     "title": "Project Blogs",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 7, 2024\n\n\nIowa Zoning Guide Week Two\n\n\nIowa Zoning Guide\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 7, 2024\n\n\nCommunity Capitals Week Two\n\n\nCommunity Capitals\n\n\n\n\nJun 7, 2024\n\n\nHousing and AI Week Two\n\n\nHousing and AI\n\n\n\n\nJun 7, 2024\n\n\nIowa Zoning Guide Week Two\n\n\nIowa Zoning Guide\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
@@ -819,11 +833,46 @@
     "text": "Data Exploration\nFor our project we started by trying to find how small of data we could go for population data in terms of density, senior citizens, and income bracket. The idea is we want to be gather data at the smallest level we can with hopes of going down to the household level if possible. To do this we looked at two communities of varying sizes to see what level of data is available, Des Moines and Clear Lake.\nStarting with population density this week, we started off at the city level using Census data from the ACS-5 year (2022) to make sure data was available and the results are displayed in the graph below.\n\nSource: US Census ACS-5 (2022)\nFrom there we moved on to see if data was available at the block group and block level, which data was found for population but coming up with density would be a bit time intensive especially in Des Moines. Below is the population density of the block groups in Clear Lake as well as the block layout of Des Moines in which the process of getting population density would be similar yet time consuming.\nClear Lake Block Group Population Density\n Source: US Census ACS-5 (2022)\nDes Moines Block Population\n Source: Us Census 2020 Decennial Data\n\n\n#|echo = FALSE\npopulation_elderly2 &lt;- readRDS(file = \"Data/populationElderly2.RDS\")\n\n\nMoving forward we could look into remote sensing as a possibility to get even smaller data using machine learning. Similar to research that was done at the Nanjing University of Information Science and Technology for finding population density in Beijing City.\nFor More Information: https://www.mdpi.com/2072-4292/12/12/1910\n\nSources:\n\nThe demographic statistical atlas of the united states—Statistical atlas. (n.d.). Retrieved May 31, 2024, from https://statisticalatlas.com/place/Iowa/Des-Moines/Population\nHe, M., Xu, Y., & Li, N. (2020). Population spatialization in beijing city based on machine learning and multisource remote sensing data. Remote Sensing, 12(12), 1910. https://doi.org/10.3390/rs12121910\nGrid view: Table b09020—Census reporter. Retrieved May 31, 2024, from https://censusreporter.org/data/table/?table=B09020&geo_ids=16000US1921000,150%7C16000US1921000&primary_geo_id=16000US1921000#valueType%7Cestimate\nCensus tabulation detail: Total Population. Census Reporter. Retrieved May 31, 2024, from https://censusreporter.org/tables/B01003/"
   },
   {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
+    "title": "Community Capitals Week Two",
+    "section": "",
+    "text": "print(\"First some R Code\")\n\n[1] \"First some R Code\"\n# Check for virtual environment, if it doesn't exist, create the venv, if it exists\n# then use the venv called \"r-python\"\n\nif (virtualenv_exists(\"r-python\")) {\n  use_virtualenv(\"r-python\")\n} else {\n  virtualenv_create(\"r-python\")\n  use_virtualenv(\"r-python\")\n}\n# Installing dependencies for the python virtualenv\n\nvirtualenv_install(envname = \"r-python\", packages = c(\"numpy\", \"pandas\", \"scikit-learn\"), all = TRUE)\n\nUsing virtual environment \"r-python\" ...\n\n\n+ \"C:/Users/harun/Documents/.virtualenvs/r-python/Scripts/python.exe\" -m pip install --upgrade --no-user numpy pandas scikit-learn\nimport pandas as pd\nprint(\"Currently using Pandas Version:\", pd.__version__)\n\nCurrently using Pandas Version: 2.2.2"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#event-database-continuation",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#event-database-continuation",
+    "title": "Community Capitals Week Two",
+    "section": "Event Database Continuation",
+    "text": "Event Database Continuation\nThis week we continued our work looking at datasets for different events regarding health facilities, employment shocks and disasters. Our work consisted of cleaning the datasets, combining several datasets, and creating a event_magnitude unit value that can summarize each event."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#fema-disaster",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#fema-disaster",
+    "title": "Community Capitals Week Two",
+    "section": "FEMA Disaster",
+    "text": "FEMA Disaster"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#employment-shocks",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#employment-shocks",
+    "title": "Community Capitals Week Two",
+    "section": "Employment Shocks",
+    "text": "Employment Shocks"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#health-facilities",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#health-facilities",
+    "title": "Community Capitals Week Two",
+    "section": "Health Facilities",
+    "text": "Health Facilities"
+  },
+  {
     "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
     "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
     "title": "Iowa Zoning Guide Week Two",
     "section": "",
-    "text": "Looking Forward\n\n\nIn the future, we will continue to catalogue zoning data for 330 cities in Iowa. Additionally, we hope to scrape data from Redfin and download Iowa County Assessor Data so that we can take that information and use it to answer some of the questions to which we want to find answers."
+    "text": "Looking Forward\n\n\nMoving forwards, we plan to continue to catalogue zoning data for 330 cities in Iowa. Additionally, we hope to scrape data from Redfin and download Iowa County Assessor Data so that we can take that information and use it to answer some of the questions to which we want to find answers.\n\n\nSources\n\n\nWe primarily worked with data we collected from the county zoning form we have been filling out, but some data was also taken from tidycensus. Redfin and county assessor data will be valuable resources in the future."
   },
   {
     "objectID": "index.html",
@@ -844,7 +893,7 @@
     "href": "index.html#projects",
     "title": "Data Science for Public Good 2024",
     "section": "Projects",
-    "text": "Projects\n\nIowa Zoning Guide\nDescription to be placed here\nProject Sponsor: IEDA\nProject Advisers: Jay Maxwell, Chris Seeger\nGraduate Fellows and Interns: Tabassum Zaman\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nCommunity Capitals\nDescription to be placed here\nProject Sponsor: Sponsor\nProject Advisers: Matthew Voss\nGraduate Fellows and Interns: Solomon Eshun\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nHousing and AI\nDescription to be placed here\nProject Sponsor: AI Institute for Resilient Agriculture (AIIRA)\nProject Advisers: Liesl Eathington, Rakesh Shah\nGraduate Fellows and Interns: Karthik Hanumanthaiah\nFinal Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube"
+    "text": "Projects\n\nIowa Zoning Guide\nDescription to be placed here\nProject Sponsor: IEDA\nProject Advisers: Jay Maxwell, Chris Seeger\nGraduate Fellows: Tabassum Zaman\nUndergraduate Scholars: Joseph Betti, Blake Underwood, Naomi Mauss Final Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nCommunity Capitals\nDescription to be placed here\nProject Sponsor: Sponsor\nProject Advisers: Matthew Voss\nGraduate Fellows: Solomon Eshun\nUndergraduate Scholars: Manjul Balayar, Lily Christenson, Anh Le Final Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube\n\n\nHousing and AI\nDescription to be placed here\nProject Sponsor: AI Institute for Resilient Agriculture (AIIRA)\nProject Advisers: Liesl Eathington, Rakesh Shah\nGraduate Fellows: Karthik Hanumanthaiah\nUndergraduate Scholars: Neha Tirunagiri, Cael Leistikow, Alister Gan Final Presentation Teaser:\nGitHub: Repository\nProject Blog Pages\nFinal Presentation Video: YouTube"
   },
   {
     "objectID": "resources.html",

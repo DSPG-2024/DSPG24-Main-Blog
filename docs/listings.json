@@ -1,13 +1,64 @@
 [
   {
+    "listing": "/studentBlogs/tabassum.html",
+    "items": [
+      "/studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/solomon.html",
+    "items": [
+      "/studentBlogs/solomon/student-introductions/Solomon_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/nhat.html",
+    "items": [
+      "/studentBlogs/nhat/student-introductions/Nhat_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/lily.html",
+    "items": [
+      "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/karthik.html",
+    "items": [
+      "/studentBlogs/karthik/student-introductions/Karthik.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/joseph.html",
+    "items": [
+      "/studentBlogs/joseph/student-introductions/Betti_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/harun.html",
+    "items": [
+      "/studentBlogs/harun/student-introductions/harun_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/cael.html",
+    "items": [
+      "/studentBlogs/cael/student-introductions/Cael_Introduction.html"
+    ]
+  },
+  {
     "listing": "/allBlogs.html",
     "items": [
-      "/blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
-      "/blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
-      "/blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
-      "/blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
       "/blogs2024/welcome/index.html"
     ]
   },
@@ -21,36 +72,6 @@
     "listing": "/studentBlogs/blake.html",
     "items": [
       "/studentBlogs/blake/student-introductions/Blake_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/cael.html",
-    "items": [
-      "/studentBlogs/cael/student-introductions/Cael_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/harun.html",
-    "items": [
-      "/studentBlogs/harun/student-introductions/harun_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/joseph.html",
-    "items": [
-      "/studentBlogs/joseph/student-introductions/Betti_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/karthik.html",
-    "items": [
-      "/studentBlogs/karthik/student-introductions/Karthik.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/lily.html",
-    "items": [
-      "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
     ]
   },
   {
@@ -69,24 +90,6 @@
     "listing": "/studentBlogs/neha.html",
     "items": [
       "/studentBlogs/neha/student-introductions/Neha_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/nhat.html",
-    "items": [
-      "/studentBlogs/nhat/student-introductions/Nhat_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/solomon.html",
-    "items": [
-      "/studentBlogs/solomon/student-introductions/Solomon_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/tabassum.html",
-    "items": [
-      "/studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html"
     ]
   }
 ]

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.554">
+<meta name="generator" content="quarto-1.5.45">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,7 +10,7 @@
 <meta name="dcterms.date" content="2024-05-16">
 <meta name="description" content="Learn about me here.">
 
-<title>DSPG 2024 - Naomi’s Introduction</title>
+<title>Naomi’s Introduction – DSPG 2024</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -87,7 +87,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Project Blogs</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-student-blogs" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-student-blogs" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Student Blogs</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-student-blogs">    
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -189,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
@@ -257,9 +257,11 @@ The basics
 <img src="imgs\\Chattanooga.png" alt="Aerial photo of Chattanooga, Tennessee during the summertime">
 </div>
 
-
+</div>
 
 </div>
+
+</main></div>
 <div>
 <div class="header">
 My goals
@@ -277,12 +279,14 @@ My goals
 <li>I don’t have much experience working solely in data science, but I am currently in a computational linguistics lab. I have also worked in a computational biochemical lab with a focus on using AI for predictive modeling of protein synthesis. In both of those labs, I routinely used Excel or Python to work with large data sets.
 </li></ul></div>
 
+</div>
+
 
 
 <div>
 <img src="imgs\\RainbowDecorin.png" alt="Image of an AI generated model of the decorin protein">
 </div>
-</div>
+
 <div>
 <div class="header">
 Hobbies
@@ -296,11 +300,12 @@ Hobbies
 <li>I’m very interested in learning - anything and everything is fun to learn about. I’ve spent hours in Parks Library’s stacks, getting lost in books on the history of Iowa State’s water system (the water system originally had slightly higher calcium levels than ideal. That book is in the highest stack and has a coupon for 99 cent pizza and a drink. Unfortunately, the coupon expired in 1995) or, if you look at the mining data on the 3rd stack, you can learn that Quebec produced 450 thousand tons of Asbestos in 1941. It’s so cool how much there is to learn in the stacks!
 </li></ul></div>
 
+</div>
 
 <div>
 <img src="imgs\\Casey'sPizza.png" alt="1995 Coupon for pizza and a drink">
 </div>
-</div>
+
 <div>
 <div class="header">
 Skills, Future Goals, and Looking Forward
@@ -331,11 +336,15 @@ Skills, Future Goals, and Looking Forward
 <li>I plan to take detailed documentation on every process I follow (not so detailed that it distracts from the work, but detailed enough that I’ll be able to retrace my steps and better remember what I did).
 </li></ul></div>
 
-
-
-
-
 </div>
+
+
+
+
+
+
+
+
 <div>
 <div class="header">
 The End
@@ -353,7 +362,7 @@ Or, some of my coding projects are hosted on my <a href="https://linkedin.comin/
 <img src="imgs\\NaomiMauss.png" alt="Naomi Mauss wearing a green jacket standing in front of a waterfall">
 </div>
 </div>
-</div>
+
 <div style="text-align:center">
 As the world becomes increasingly complex, I believe it is important to have tools that can explain this complexity in such a way that people who have to make decisions are able to fully understand the topics they’re making decisions about. I want to be someone who knows how to weild those tools in order to make the world a better place.
 </div>
@@ -386,7 +395,11 @@ As the world becomes increasingly complex, I believe it is important to have too
 
 
 
-</main> <!-- /main -->
+
+
+
+
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -422,18 +435,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -465,7 +467,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -473,7 +497,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -796,7 +820,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-</div> <!-- /content -->
+ <!-- /content -->
 
 
 

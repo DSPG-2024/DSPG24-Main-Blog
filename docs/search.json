@@ -1,94 +1,199 @@
 [
   {
-    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
-    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
-    "title": "Tabassum’s Introduction",
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
+    "title": "Community Capitals Week Two",
     "section": "",
-    "text": "This is my favorite part THE INTRODUCTION. The ‘Why’ of this will answer my commitment for DSPG program and gratitude to be able to spend my summer with you all bright minds.\nOn the first day, while we were having this little personality test for grouping in My Creative Type I got THE ADVENTURER"
+    "text": "print(\"First some R Code\")\n\n[1] \"First some R Code\"\n# Check for virtual environment, if it doesn't exist, create the venv, if it exists\n# then use the venv called \"r-python\"\n\nif (virtualenv_exists(\"r-python\")) {\n  use_virtualenv(\"r-python\")\n} else {\n  virtualenv_create(\"r-python\")\n  use_virtualenv(\"r-python\")\n}\n# Installing dependencies for the python virtualenv\n\nvirtualenv_install(envname = \"r-python\", packages = c(\"numpy\", \"pandas\", \"scikit-learn\"), all = TRUE)\n\nUsing virtual environment \"r-python\" ...\n\n\n+ \"C:/Users/harun/Documents/.virtualenvs/r-python/Scripts/python.exe\" -m pip install --upgrade --no-user numpy pandas scikit-learn\nimport pandas as pd\nprint(\"Currently using Pandas Version:\", pd.__version__)\n\nCurrently using Pandas Version: 2.2.2"
   },
   {
-    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
-    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
-    "title": "Tabassum’s Introduction",
-    "section": "My identity",
-    "text": "My identity\n\nCountry\nI, Tabassum Zaman, come from a Southasian country named “Bangladesh”. Which has got some amazing stories to tell people about itself to tell the world. But I will keep it short today to be focused on the objective of this blog.\n\n\n\n\nBangladesh with its surrounding countries\n\n\n\n\n\nA view of Dhaka city (capital of Bangladesh)\n\n\n\n\n\nAcamedics\nDepartment: Community and Regional Planning\nProgram: Masters\nInstitution: Iowa State University\nI completed my undergrad in ‘Urban and Regional Planning’ from my dream university in Bangladesh which was ‘BUET [Bangladesh University of Engineering and Technology]’. I have been always interested in the Transportation problem surrounding me, may be because that’s all I saw. But with time as I am exploring more, I am finding my new interested areas in spatial problems like, housing, accessibility. I am hoping to be focused down in a very near future, as I finished up my semester of masters program this Spring 2024.\n\n\n\nMy Undergrad Convocation from BUET in Urban and Regional Planning\n\n\n\n\nWhat got me into Data Science\nAfter completing my undergrad I had the opportunity to work in the real world for more than a couple of years, in transportation, health care and commodity industry back home. There I got to know the power of data and story telling. You can influence decision through your stories but it has to be backed by data and presented in a comprehensible format and your one little presentation can really changes lives. I can go on giving a number of examples to show how it has motivated me, but I will stop here, and keep my Focus.\nSo, my encounter of Data Science is through excel (you can do a lot of stuff there too) and for spatial one if through GIS (Geographic Information System). I know some basics of SQL, R, Python, but not enough to score good in quiz. But I am betting on my time here and the aim is to have the most productive time this summer 2024 and see the result after 10 weeks. I will come back to share the updates!\n\n\nMy Leisure\nI do not really have any particular talents apart from the academics one, but apart from sleep and watching tv, I love a good conversation of getting to know new people, good food, some cooking, travelling, a little bit of gardening and reading fictions. Pretty ordinary things!"
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#event-database-continuation",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#event-database-continuation",
+    "title": "Community Capitals Week Two",
+    "section": "Event Database Continuation",
+    "text": "Event Database Continuation\nThis week we continued our work looking at datasets for different events regarding health facilities, employment shocks and disasters. Our work consisted of cleaning the datasets, combining several datasets, and creating a event_magnitude unit value that can summarize each event."
   },
   {
-    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
-    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
-    "title": "Tabassum’s Introduction",
-    "section": "“NEVER STOP LEARNING”",
-    "text": "“NEVER STOP LEARNING”"
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#fema-disaster",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#fema-disaster",
+    "title": "Community Capitals Week Two",
+    "section": "FEMA Disaster",
+    "text": "FEMA Disaster"
   },
   {
-    "objectID": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
-    "href": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
-    "title": "Solomon’s Introduction",
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#employment-shocks",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#employment-shocks",
+    "title": "Community Capitals Week Two",
+    "section": "Employment Shocks",
+    "text": "Employment Shocks"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#health-facilities",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#health-facilities",
+    "title": "Community Capitals Week Two",
+    "section": "Health Facilities",
+    "text": "Health Facilities"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
+    "title": "Community Capitals Week One",
     "section": "",
-    "text": "Hi! My name is Solomon Eshun. You can call me Solomon (he/him/his). I am from Ghana, West Africa, and I’m pursuing a PhD in Applied Mathematics at Iowa State University (as of Spring 2024).\n\nResearch Interests\n\nCausal Inference\nInfectious Disease\nData Integration\n\n\n\nEducation\n\nPhD Applied Mathematics, Iowa State University (08/2023 - 05/2024)\nMSc Applied Stats. & Data Science, University of Texas Rio Grande Valley (UTRGV) (08/2021 - 05/2023)\nBSc Mathematics, University of Mines and Technology (UMaT), Ghana (09/2016 - 08/2020)\n\n\n\nExperience\n\nGraduate Fellow, Data Science for the Public Good, Iowa State (05/2024 - Present)\nGraduate Teaching Assistant, Department of Mathematics, Iowa State (08/2023 - 05/2023)\nSustainability Research Fellow, Office for Sustainability, UTRGV (08/2022 - 05/2023)\nGraduate Teaching Assistant, School of Math. & Stats. Sciences, UTRGV (08/2021 - 05/2023)\nComputational Science Intern, Los Alamos National Lab, Los Alamos NM (05 - 08/2022)\nTeaching Assistant, Department of Mathematical Sciences, UMaT (09/2020 - 08/2021)\nData Production Intern, Ghana Statistical Service, Accra (05 - 08/2019)\n\n\n\nSomething interesting about myself, and what I hope to learn\nI take pride in my strong analytical and computational skills, tenacity, and dedication to continuous improvement. As I embark on the DSPG program, I seek to improve my leadership and mentoring capabilities, alongside acquiring new technical expertise. An important goal for me is to refine my communication skills to effectively convey data-driven insights to non-technical stakeholders. Additionally, I aim to master the management and extraction of value from extensive real-world datasets, leveraging these skills to make impactful decisions and contributions.\nIn my leisure time, I enjoy listening to music, watching soccer games and playing video games.\n\n\nWhy I Care about Data Science\nI remember the moment I became interested in advanced research in Data Science. It was during my master’s research, where I evaluated the effect of sodium-glucose co-transporter-2 (SGLT2) inhibitors on chronic kidney disease (CKD). I used propensity score matching to address differences in patient characteristics that might influence SGLT2 prescription. Additionally, I utilized machine learning models to predict CKD cases. Since the dataset was imbalanced, I applied balanced bagging with bootstrapping and synthetic minority oversampling to balance the distribution of CKD and non-CKD cases in the training data. This aimed to facilitate improved learning on the training dataset and enhance predictions on the testing data. The analysis revealed that individuals taking SGLT2 had fewer CKD cases than those who did not, highlighting the protective effect of SGLT2 on CKD. This shows the potential of statistics and data science in extracting meaningful insights from healthcare data.\nHowever, amidst this revelation, a significant issue surfaced - the absence of reliable data for marginalized populations, resulting in disproportionately worse health outcomes. Since then, my focus evolved from merely using models to make predictions to understanding the “why” and “what-if” behind those predictions. I realized that relying solely on supervised models was insufficient for this purpose, prompting me to develop methods that could integrate machine learning and causal approaches to address and explain predictions in imbalanced datasets.\n\n\n\nFigure Reference (Causality for Machine Learning)\n\n\nAs a consequence, I aim to leverage machine learning with causal methods to understand the influence of policies and interventions on diseases outcomes across various data sources. I seek to move from prediction-based models to learning independent causal models in areas like transfer and meta-learning. This approach will aid in integrating diverse healthcare datasets, often compounded by heterogeneous patient characteristics and medical protocols, ensuring the generalizability of my findings against external datasets. Additionally, I aim to create models capable of scaling up datasets to better reflect the diversity of the population. My goal is to enhance model interpretability through counterfactual reasoning and mitigate algorithmic biases for fair and equitable outcomes, ensuring the reliability of healthcare research across different demographics."
+    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
   },
   {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
-    "title": "Nhat’s Introduction",
-    "section": "Majors",
-    "text": "Majors\nA first-year student in the Iowa State honors program, struggling with a triple major in computer science, data science and applied mathematics. :("
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
-    "title": "Nhat’s Introduction",
-    "section": "Data Science with Me",
-    "text": "Data Science with Me\nWhy data science? Imagine a world where every second brings new data and endless opportunities to uncover hidden patterns. Sounds like a interesting version of a treasure hunt, right? That means, becoming a data scientist guarantees that I’ll never run out of puzzles to solve, and let’s face it, puzzles are way more fun than Sudoku."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
-    "title": "Nhat’s Introduction",
-    "section": "Prior Experience?",
-    "text": "Prior Experience?\nMy passion for mathematics and logical challenges naturally drew me to the fascinating world of AI and data science. I don’t have much coding experience regarding these two areas, but I strongly believe my statistical and mathematical foundation is a great plus during my journey."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
-    "title": "Nhat’s Introduction",
-    "section": "Hobbies",
-    "text": "Hobbies\nOutside of my academic endeavors, I enjoy participating in mathematics competitions (because who doesn’t love a good brain workout?), developing software projects, and staying up-to-date with the latest tech trends. I also have a passion for leadership and community involvement, which has seen me take on various extracurricular activities.\n\n\n\n\nGertrude Herr Adamson Award ($1,000)\n\n\n\n\n\n\n\n\nIowa Collegiate Math Competition (1st Place)"
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
-    "title": "Nhat’s Introduction",
-    "section": "Academic and Professional Goals",
-    "text": "Academic and Professional Goals\nI’m on a quest to climb the academic ladder, aiming for a Ph.D. degree after graduating. My current mission is to absorb as many advanced courses as possible and utilize online platforms like Coursera to build a robust foundation in machine learning. Also, I want to join a research, where I can leverage my skills to prepare for an intensive study in machine learning."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
-    "title": "Nhat’s Introduction",
-    "section": "Skills and Development",
-    "text": "Skills and Development\n\nValued Skills\n\nAnalytical thinking and problem-solving (a.k.a. being a data detective)\nProficiency in programming languages like Python\nStrong foundation in mathematical concepts and their applications (because math is the language of the universe, and who doesn’t want to speak universe?)\n\n\n\nSkills to Develop\n\nData exploration and visualization (turning data into beautiful, insightful art)\nData cleaning (because even data needs a good scrub sometimes)\nData processing (preparing data for the ultimate transformation)\nBasics of AI and machine learning knowledge (unlocking the secrets of smart machines) \n\n\n\nPursuing These Skills\nThese skills are essential to be well-prepared for future internships and professional jobs. Mastering them will allow me to tackle complex problems, effectively communicate insights, and stay competitive in the rapidly evolving field of data science."
-  },
-  {
-    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
-    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
-    "title": "Nhat’s Introduction",
-    "section": "Interesting Fact",
-    "text": "Interesting Fact\nAn interesting fact about me is that I thrive on challenges and enjoy stepping out of my comfort zone. My background and experiences have shaped my academic journey and fueled my passion for machine learning and data science. I look forward to sharing my knowledge and learning from my peers at Iowa State.\nP.S. If you ever need a teammate for any development projects, I’m your person. Just bring some coffee."
-  },
-  {
-    "objectID": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
-    "href": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
-    "title": "Neha’s Introduction",
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
+    "title": "Community Capitals Week One",
     "section": "",
-    "text": "Personal Introduction\n\nOrigin: I am from Andhra Pradesh, India.\nAcademic Year: I will be junior in the coming fall semester.\nDegree Pursuits: I am majoring in Computer Science and minoring in Data Science. My interest in these fields was sparked by an inspiring Computer Science professor during my high school years.\nCareer Aspirations: I aim to become a software developer at a FANG company, leveraging my degrees to build a solid foundation in technology.\nInterest in Data Science: Data science fascinates me because of its power to solve complex problems and its potential to drive innovation across various industries.\nData Science Experience: I have basic knowledge in data science, familiar with tools like R and Pandas, though I am still in the early stages of my data science education.\nHobbies and Extracurricular Activities: My free time is often spent playing badminton and cricket with friends. I am also an active participant in dance programs organized by the Indian Student Association (ISA).\n\n \n\n\nPersonal Learning Objectives for DSPG\n\nValued Skills: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.\nSkills to Develop:\n\nReal-world problem-solving: Learning to navigate and address complex real-world challenges.\nClient requirement fulfillment: Understanding and meeting client expectations effectively.\nIndustry readiness: Preparing myself to seamlessly transition into a professional environment.\n\nMotivation for These Skills: These skills are essential for me to have a successful career in software development, especially in a competitive and dynamic field like tech industry.\nImprovement Strategy: To enhance these skills, I plan to engage deeply with in my project at DSPG, ensuring I have a clear understanding of the underlying principles and actively seeking feedback to refine my approach."
+    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
+    "title": "Community Capitals Week One",
+    "section": "Community Capitals Project Introduction",
+    "text": "Community Capitals Project Introduction\n\nWhat is a Community and what is a Capital?\nCommunity: A healthy community has all three below\n\nGeography Based(cities, counties, neighborhoods)\nOrganized Based(school, work)\nIdentity Based(Hometown, vacation home)\n\nCapital: An asset that is “invested” to create resources.\n\n\nTypes of Community Capitals\n\nNatural Capital - The quality and quantity of natural and environmental resources existing in a community.\nCultural Capital - The values, norms, beliefs and traditions that people inherit from the family, school and community. Also includes material goods produced at a specific time and place (such as paintings, books) that have historical or cultural significance.\nHuman Capital - Attributes of individuals that provide them with the ability to earn a living, strengthen community, and otherwise contribute to community organizations, to their families, and to self- improvement (Flora et al. 2004). It includes access to education and knowledge development, training and skill building activities and efforts to build and expand local leadership.\nSocial Capital - Connections existing among people and organizations that help make things happen in the community. Includes close ties that build community cohesion (bonding) as well as weaker ties with local and outside people and organizations that help promote broad-based action on key matters (bridging).\nPolitical Capital - The ability to influence and enforce rules, regulations, and standards. Access to individuals and groups with the power to influence decisions. Participating in civic discourse on difficult public issues.\nFinancial Capital - The variety of financial resources available to invest in local projects or economic development initiatives. Efforts to build wealth to support community development activities.\nBuilt Capital - Represents the infrastructure of the community – the basic set of facilities, services and physical structures needed by a community.\n\n\n\nProject Goal\nCurrently, we are seeking measurements that might influence these forms of capital and reliable data sources for them. For example, a measurement could be the number of businesses per county, which could significantly impact financial capital.\nPrevious projects have identified numerous measures for capitals such as Built, Financial, and Natural, but have found limited measures for Social and Cultural capital. This is because social and cultural aspects are challenging to quantify and collect data on, unlike Financial capital, which is inherently numerical.\nGoal in the future, gather diverse measurements and data sets for each type of capital, we aim to develop an index value representing each capital for each county in Iowa to visualize."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
+    "title": "Community Capitals Week One",
+    "section": "Social & Cultural Capitals",
+    "text": "Social & Cultural Capitals\n\nBeginning\nThroughout this week we have been brainstorming ways that we can measure Social and Cultural Capital. We read articles and looked at websites to gain knowledge on potential measures. As we started our research, we wrote down measure ideas along the way. We discussed some of our ideas and talked about our concerns of the project so far. Our biggest concern was finding cultural measures.\n\n\nSocial Capitals:\n\nVolunteering rates\nParticipation in Civic Acts/Election turnout\nParticipation frequency in Clubs/ Communities\nCrime rates\nNumber of visits to the public library and the programs\nDonations to local candidate committees and ballot issue committees\n\n\n\nCultural Capitals:\n\nArt festival/ cultural events turnout\nMembership of cultural organizations\nNumber of distinct religions represented\nFrequency of attendance at religion services\n\n\n\nFindings\nWe found that it is much easier to think of social capitals compared to cultural capitals. The tricky part about Cultural Capitals is being able to find datasets for our measures. For example, a community could have a lot of cultural capital due to holding cultural events but there is very little or no data for us to look at.\nSome of the sources that we have found so far are:\n\nAmeriCorps\n\nInformation about volunteering and civic life\n\nSocial Capital Atlas\n\nInformation about economic connectedness, cohesiveness, and civic engagement\n\nIowa Campaign Contributions Received\n\nInformation about political campaigns (committee, contribution amount, city)\n\nIowa Public Library Statistics\n\nInformation about the public libraries in Iowa counties"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
+    "title": "Community Capitals Week One",
+    "section": "Events Database",
+    "text": "Events Database\n\nFEMA Dataset\nThe Federal Management Agency(FEMA) disasters dataset includes various disasters/events that have taken place throughout the United States over the years. These datasets also include all the grants and funding approved by various organizations.\n\nArea Dataset\n\n# import pandas as pd\n# areas_df = pd.read_csv(\"Data/Updated_FEMA_Disaster_Areas.csv\")\n# areas_df\n\nArea Dataset Feature Selection:\n\nid: Not needed\ndisasterNumber: Might be important, will keep it for now.\nprogramTypeCode: Redundant, this info is available in programTypeDescription\nprogramTypeDescription: Will keep\nstateCode: Will either keep this or stateName but will drop one of them\nstateNames: Same as stateCode\nplaceCode: Keep for now\nplaceName: Most seems to be based on county but need to get rid of the ‘(county)’ part.\ndesignatedDate: Convert to Date type and clean up\nentryDate: Convert to Date type and clean up\nupdateDate: Convert to Date type and clean up\ncloseoutDate: Convert to Date type and clean up\nhash: not needed\nlastRefresh: Not important\n\n\n\nAmounts & Declarations Dataset\nSimilar feature selection process was applied to these datasets as well.\nAmounts Dataset\n\n# import pandas as pd\n# amounts_df = pd.read_csv(\"Data/FEMA_Disaster_Amounts.csv\")\n# amounts_df\n\nDeclarations Dataset\n\n# dec_df = pd.read_csv(\"Data/FEMA_Disaster_Declarations.csv\")\n\n\n#Dropping mostly dates, state and county code which are available in the Areas dataset\n# decColumnsToDrop = dec_df.columns[[0,2,3,4,5,7,12,13,14,16,17,20,21,22,23,24]]\n# dec_df = dec_df.drop(columns=decColumnsToDrop)\n# dec_df\n\nGoal next week:\nSince all three datasets include the column ‘districtNumber’ that match with each other, I plan to join these datasets into a new datasets which will follow a similar format.\n\n\n\n\nEmployment Shocks\nWe will be working with the Employment Shocks Data. The data is from workforce iowa.gov and LayoffData.com. The purpose of looking at employment shocks can help explain a communities well being. For example in the Tyson Food plants closure in Parry, Iowa will have a huge impact on it’s community. 1,276 people will be losing their job. As we started to look the datasets we found that there are three different notice types: Amendment, Mass Layoff, Closing, and Workforce reduction. we found that there were some miss spellings or slight character differences between the name of the companies and cities. Her next steps are to continue cleaning the data, fix the values so that they match up with each other, and start making visualizations.\n\n# Read in the data set\nWARN_2005_2024 &lt;- read.csv(\"Data/WARN_2005_2024.csv\")\n# WARN_2005_2024$`WARN Received Date` &lt;- as.POSIXct(WARN_2005_2024$`WARN Received Date`, format = \"%m/%d/%Y\")\n# WARN_2005_2024$`Effective Date` &lt;- as.POSIXct(WARN_2005_2024$`Effective Date`, format = \"%m/%d/%Y\")\n\n# Variables\nW05_24_V &lt;- WARN_2005_2024[ ,-c(8,9,10,13)]\n\n\n# Unique values\nsort(unique(WARN_2005_2024$`Company`))\nsort(unique(WARN_2005_2024$`City`))\nunique(WARN_2005_2024$`Notice Type`)\nsort(unique(WARN_2005_2024$`County`))\n\n\n\n\nHealth\nWe believe that there are some indirect correlations between health facilities and social capitals, especially the establishments and closures of health facilities in some specific areas leading to changes in capitals.\nThat’s why we collect and analyse data sources regarding nursing homes. We have 3 datasets:\n\nNursing Homes from CMS, consisting of 100 columns and 14,860 observations\nIowa Medicaid Payments with 9 columns and 98,305 observations representing the Medicaid reports\nNursing Facility Closures includes data for facilities that closed in 2023\n\nand 9 datasets for nursing homes from 2015 to 2022, which will be used to identify the facility closures.\nIllustrations:\n\ncms_nursinghome_df = read.csv(\"Data/CMS_Nursing_Homes.csv\")\ncolnames(cms_nursinghome_df) &lt;- gsub(\"\\\\.\", \" \", colnames(cms_nursinghome_df))\nhead(cms_nursinghome_df)\n\n\n\n\nElephant\n\n\n\nmedicaid_df = read.csv(\"Data/Iowa_Medicaid_Payments.csv\")\ncolnames(medicaid_df) &lt;- gsub(\"\\\\.\", \" \", colnames(medicaid_df))\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Name\"] &lt;- \"Provider Name\"\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Number\"] &lt;- \"Provider Number\"\nhead(medicaid_df)\n\n\n\n\nElephant\n\n\n\nclosure_df = readxl::read_excel(\"Data/Nursing_Facility_Closures.xlsx\")\nhead(closure_df)\n\n\n\n\nElephant\n\n\nFirst approach: We want to identify the opening and closing dates for each provider, so our first approach is to utilize the “Report Date” column in the medicaid dataset. Whenever a payment is made to a provider, a report will be recorded. So we first used the most recent report date and the oldest report date as estimates for the opening and closing dates, but…\n\nmedicaid_df_latest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_closing = max(`Report Date`))\nmedicaid_df_oldest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_opening = min(`Report Date`))\nopening_closing_medicaid &lt;- medicaid_df_latest_filtered %&gt;%\n                              full_join(medicaid_df_oldest_filtered, by = \"Provider Name\") %&gt;%\n                              select(`Provider Name`, `estimate_opening`, `estimate_closing`)\nopening_closing_medicaid\n\n\n\n\nElephant\n\n\nSecond approach: We collect 9 additional datasets regarding active providers from 2015 to 2022, and compare the consecutive years to estimate the year a provider closes. Illustrations are below: \nSo by looking at this planned dataframe, we can estimate the provider with ID 1506000 closed in 2018 and use that insight to identify the effect of the closure on the community."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
+    "title": "Housing and AI Week Two",
+    "section": "",
+    "text": "This week we continued looking for data for the smallest unit of area we could.\nOn the side of population density, we were able to find data down to the house/parcel level for Des Moines and we were able to go ahead and display them along with the census block groups and all residential zones in the Des Moines area as shown in the figure below. We can do the same with the blocks as well.\n\nFrom here we wanted to see if we could find data of the same variety for smaller communities rather than just larger cities so our eventual model isn’t biased. Luckily, the Des Moines Data Portal stretches across the entire Des Moines Metropolitan Area which meant we could get data for smaller communities such as Ackworth that has a population of 115.\n\n\nHowever, we realized we don’t just want communities around the Des Moines Metro and still wanted to reach smaller community data. After some research we found that Iowa has a free GIS database (https://www.iowagisdata.org/) that contains information for numerous counties and cities down to the parcel and building level. One county that we found may be helpful is Winneshiek County as it is in a more rural area of the state away from most metro and micropolitan areas.\n\nThe image above is showing all residential buildings in Decorah, but the database has access to so many more communities and levels of data that will continued to be explored.\nWe were also able to get a way to calculate population density of our blocks and block groups using tidycensus.\n\nWe also wanted to look into transportation data, however outside of getting routes and stops we couldn’t find much. Additionally, after talking to Omar Padilla this makes sense as most people just don’t prefer to use public transit compared to their own car in Iowa even in the bigger cities like Des Moines which is why much data isn’t available"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html#data-exploration-for-population-density",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html#data-exploration-for-population-density",
+    "title": "Housing and AI Week Two",
+    "section": "",
+    "text": "This week we continued looking for data for the smallest unit of area we could.\nOn the side of population density, we were able to find data down to the house/parcel level for Des Moines and we were able to go ahead and display them along with the census block groups and all residential zones in the Des Moines area as shown in the figure below. We can do the same with the blocks as well.\n\nFrom here we wanted to see if we could find data of the same variety for smaller communities rather than just larger cities so our eventual model isn’t biased. Luckily, the Des Moines Data Portal stretches across the entire Des Moines Metropolitan Area which meant we could get data for smaller communities such as Ackworth that has a population of 115.\n\n\nHowever, we realized we don’t just want communities around the Des Moines Metro and still wanted to reach smaller community data. After some research we found that Iowa has a free GIS database (https://www.iowagisdata.org/) that contains information for numerous counties and cities down to the parcel and building level. One county that we found may be helpful is Winneshiek County as it is in a more rural area of the state away from most metro and micropolitan areas.\n\nThe image above is showing all residential buildings in Decorah, but the database has access to so many more communities and levels of data that will continued to be explored.\nWe were also able to get a way to calculate population density of our blocks and block groups using tidycensus.\n\nWe also wanted to look into transportation data, however outside of getting routes and stops we couldn’t find much. Additionally, after talking to Omar Padilla this makes sense as most people just don’t prefer to use public transit compared to their own car in Iowa even in the bigger cities like Des Moines which is why much data isn’t available"
+  },
+  {
+    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
+    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
+    "title": "Lily’s Introduction",
+    "section": "",
+    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+  },
+  {
+    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
+    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
+    "title": "Lily’s Introduction",
+    "section": "",
+    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+  },
+  {
+    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
+    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
+    "title": "Blake’s Introduction",
+    "section": "",
+    "text": "this is me"
+  },
+  {
+    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
+    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
+    "title": "Blake’s Introduction",
+    "section": "Part 2",
+    "text": "Part 2\n\n\nWhat skills do you value and appreciate about yourself?\n\n\n\nI really value my guitar skills and my coding skills.\n\n\n\nI’ve spent so many hours in the last couple years playing guitar trying to learn every song I enjoy listening to.\nPre chatgpt being popular I spent alot of time learning to code and do multiple coding online courses and like 200 coding problems on Leetcode, looking back now most of what I learned became irrelevant due to chat gpt but I still developed a skill that has been deteriorating the more I use GPT unfortunately.\n\n\n\n\nDS skills\n\n\n\nI scored “The thinker” on the personality test we all took on day one, and I do think that represents me well. I enjoy coming up with new ideas for solving problems. Not giving up on finding actually meaningful results that can have a postive impact.\n\n\n\nthree skills you want to develop\n\n\n\nPython and R are extremely important skills for data science and I have been working with the long enough to know how valuable they can be. I also really like using Tableau, I think it’s popular for a reason, for being as high level as it is it can do some pretty complex things such as being able to use SQL to manipulate data while in tableau.\n\n\n\nwhy these skills?\n\n\n\nI’m pursuing these skills because I believe they are the best tools for data sciences to become successful. It’s a safer bet to say that in Python and R will still be relevant in 10 years but some of the higher level skills may be replaces by ai or somethings even higher level.\n\n\n\nhow are you going to improve skills?\n\n\n\nWork on them everyday. The more I work with these technologies the more comfortable I will get with them overtime and the faster I can get things done with them."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "",
+    "text": "First, I plotted vacant housing data for all 330 target places we want to track in Iowa.\n\n\n\nI then calculated the acceptable Margin of Error (MOE) for vacant housing units, and plotted those places.\n\n\n\nGiven that there was extremely limited data on vacant housing units by place with an acceptable MOE, I then found the county data on vacant housing units with an acceptable MOE. This time, there were only three counties with unacceptable MOEs."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#plotting-vacant-housing-units",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#plotting-vacant-housing-units",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "",
+    "text": "First, I plotted vacant housing data for all 330 target places we want to track in Iowa.\n\n\n\nI then calculated the acceptable Margin of Error (MOE) for vacant housing units, and plotted those places.\n\n\n\nGiven that there was extremely limited data on vacant housing units by place with an acceptable MOE, I then found the county data on vacant housing units with an acceptable MOE. This time, there were only three counties with unacceptable MOEs."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#redfin-data",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#redfin-data",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "Redfin Data",
+    "text": "Redfin Data\n\nAfter spending time looking for and web scraping Redfin data, I was able to access a 6.8 GB document on realtor data in the US by place (city) between 2012 and May 2024.\n\n\nThis data is good to have, so now I’m working on cleaning the data.\n\n\n\nI am using Sublime Text to view and edit this document. Sublime Text is specifically designed to handle large text files, which makes this a good editor for this specific dataset. Between VS Code, Excel, and RStudio, this is the only editor that did not immediately crash when I tried to load the file. It did take approximately 3 hours to load, but overall, I am happy with this editor’s capabilities."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#encoding",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#encoding",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "Encoding",
+    "text": "Encoding\nWe have encoded 25 cities completely as of 6/14/2024.\n\n42% of CIRTPA\n8% of Iowa cities included in the zoning guide\n.25% of cities in the world*\n\nAt this rate, we would finish encoding the world in 23 years.\n*Cities in the world defined as having a population of over 50,000. We are not using that definition for cities in Iowa."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#collecting-gis-data",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#collecting-gis-data",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "Collecting GIS Data",
+    "text": "Collecting GIS Data\nThis week, we gathered basic data for future analysis in ArcGIS Pro. As of now, we can use this information to make comparisons between cities and gain a general overview of city demographics and economics. The data collected is from the ACS.\n\nData Collected\n\n\n\nEmployment status\nArmed Forces status\nMedian income\nMedian age by sex\nPopulation\nMedian Gross Rent\nMedian monthly housing costs\n\nFor those with and without mortgages\n\nHousing occupancy status\n\n\nExamples:"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#beginning-stages-of-a-housing-analyses.",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#beginning-stages-of-a-housing-analyses.",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "beginning stages of a housing analyses.",
+    "text": "beginning stages of a housing analyses."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#lets-take-a-look-at-the-future-for-ames-home-owners.",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#lets-take-a-look-at-the-future-for-ames-home-owners.",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "Let’s take a look at the future for Ames home-owners.",
+    "text": "Let’s take a look at the future for Ames home-owners.\nVideo\n\nIt appears that suburban areas of Ames have been growing faster in household income then “urban” area’s. But this analysis begs a new question, is the cost of rents increasing in the same area’s? (later will calculate cost of living)\n\nVideo\n\nWe see a different picture when it comes to rent cost. Rent costs seemed to grow evenly across Ames from 2010 - 2020, but 2020-2022 costs around Iowa State have increased a noticeably faster rate then the suburban areas… I started college in 2020!\n\n\nThese two trends bring up many questions about the Ames renting market.\n\n\nA question this may bring up “what is Ames and household income going to look like in 2030?”\n\nVideo\n\nBy looking at my household income forecast map we can see that its likely that the suburban area’s will continue to grow at a faster rate than areas around ISU."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#where-to-from-here",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html#where-to-from-here",
+    "title": "Iowa Zoning Guide Week Three",
+    "section": "Where to from here?",
+    "text": "Where to from here?\n\nThis is just a start of a much needed furthur analysis of the city of Ames housing market, but I will create a forecast rent costs map that goes tell year 2030, in order to continue to compare these two variables. I also plan to find an value for overall cost of living and overall personal income and use those variables to determine what area’s will be affordable in the future and what area’s will likely not be affordable for the average person."
+  },
+  {
+    "objectID": "studentBlogs/tabassum.html",
+    "href": "studentBlogs/tabassum.html",
+    "title": "Tabassum Zaman",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nTabassum’s Introduction\n\n\nTabassum Zaman\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "studentBlogs/solomon.html",
+    "href": "studentBlogs/solomon.html",
+    "title": "Solomon Eshun",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nSolomon’s Introduction\n\n\nSolomon Eshun\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "studentBlogs/nhat.html",
+    "href": "studentBlogs/nhat.html",
+    "title": "Nhat Le",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nNhat’s Introduction\n\n\nNhat Le\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html",
     "href": "studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html",
     "title": "Naomi’s Introduction",
     "section": "",
-    "text": "The basics\n\n\n\nI am originally from Tennessee, but moved to Iowa so I could attend Iowa State.\n\n\n\nI will enter my 3rd year at Iowa State this fall.\n\n\n\nI am currently majoring in data science and linguistics. I enjoy studying data science because I like learning about how I can take data and apply code in order to learn new things about how the world works. I am studying linguistics because I enjoy it, and hope someday to work on NLP.\n\n\n\n\n\n\n\n\n\n\nMy goals\n\n\n\nAs I stated above, I would love to work on NLP. In addition, I hope to use my degrees to help people, so that the world becomes a better place because I was in it.\n\n\n\nI care about data science because it’s fun. It might be selfish of me, but I don’t think I would care half as much if I didn’t enjoy the puzzle of figuring out what code and formulas need to be inputted in order to find a solution.\n\n\n\nI don’t have much experience working solely in data science, but I am currently in a computational linguistics lab. I have also worked in a computational biochemical lab with a focus on using AI for predictive modeling of protein synthesis. In both of those labs, I routinely used Excel or Python to work with large data sets.\n\n\n\n\n\n\n\n\n\n\nHobbies\n\n\n\nIn my free time, I enjoy reading, crochet, and foraging. It’s legal to forage wild plants on public land in Iowa, and there’s a lot of really interesting food not sold in stores. I find that searching for new plants to try is a good exercise both mentally, in terms of improving my knowledge of plant identification, and physically because I get to go out and explore nature!\n\n\n\nI’m very interested in learning - anything and everything is fun to learn about. I’ve spent hours in Parks Library’s stacks, getting lost in books on the history of Iowa State’s water system (the water system originally had slightly higher calcium levels than ideal. That book is in the highest stack and has a coupon for 99 cent pizza and a drink. Unfortunately, the coupon expired in 1995) or, if you look at the mining data on the 3rd stack, you can learn that Quebec produced 450 thousand tons of Asbestos in 1941. It’s so cool how much there is to learn in the stacks!\n\n\n\n\n\n\n\n\n\nSkills, Future Goals, and Looking Forward\n\n\n\nI appreciate my ability to stay calm in a crisis. Additionally, I think I’m good at working consistently on longer projects.\n\n\n\n\nCurrently, I think I’m decent at determining potential trends in data before I work very much with it. I run into a lot of errors when I code, but that means I’ve become pretty good at debugging, which certainly isn’t the worst skill to have.\n\n\n\nI hope to broaden the scope of my python experience, better understand the specific methodologies and fields in which data science can be applied to improve the world, and improve my understanding of different data science software adn how they work together to form a project.\n\n\n\nI have skills in python, but the data I’ve worked with and the things I’ve done in the language aren’t quite the same as what I expect I will use during the course of this program.\n\n\n\nI want to better understand the industry and what part I could play.\n\n\n\nI plan to take detailed documentation on every process I follow (not so detailed that it distracts from the work, but detailed enough that I’ll be able to retrace my steps and better remember what I did).\n\n\n\n\n\n\n\n\n\nThe End\n\n\nThank you for looking at my presentation.\n\n\nTo learn more about me, feel free to find my LinkedIn.\n\n\nOr, some of my coding projects are hosted on my GitHub.\n\n\n\n\n\n\n\nAs the world becomes increasingly complex, I believe it is important to have tools that can explain this complexity in such a way that people who have to make decisions are able to fully understand the topics they’re making decisions about. I want to be someone who knows how to weild those tools in order to make the world a better place."
+    "text": "The basics\n\n\n\nI am originally from Tennessee, but moved to Iowa so I could attend Iowa State.\n\n\n\nI will enter my 3rd year at Iowa State this fall.\n\n\n\nI am currently majoring in data science and linguistics. I enjoy studying data science because I like learning about how I can take data and apply code in order to learn new things about how the world works. I am studying linguistics because I enjoy it, and hope someday to work on NLP."
   },
   {
     "objectID": "studentBlogs/manjul/student-introductions/Manjul_Introduction.html",
@@ -112,130 +217,39 @@
     "text": "Hobbies\n\n  Hackathons    Boxing    Trying New Cuisines \n\n\nWhy Software?\n\nHigh Demand and Security\n\nInitially, I was solely a Software Engineering major, but I declared my minor in Data Science last fall. My interest in AI began about a year ago, inspired by ChatGPT and a video by Google’s machine learning research team about a model for detecting cancerous cells.\n\n\n\n\nFuture Plans\nI aspire to work in the field of AI/ML. Many people don’t realize that AI and Data Science are closely related, with AI often considered a subset of Data Science. Before diving into models and algorithms, it’s crucial to understand data preprocessing, data visualization, feature engineering, statistics, etc. These skills are essential for building better models.\n\n\nMy Skills and Objectives\n\nPersonal Strengths\n\nGood communicator: An essential skill in any sector.\nAdaptability: I am a quick learner.\nOpen-mindedness: Being open-minded helps me adapt, learn, and grow in my field.\n\n\n\nData Science Skills\n\nExperience with data preprocessing\nFundamental knowledge of machine learning and deep learning\nProficiency in multiple programming languages, frameworks, and tools\n\n\n\nGoals at DSPG\n\nData Visualization: Mastering tools like seaborn, matplotlib, and Tableau, and understanding the significance of various graphs.\n\n\n\nMachine Learning Tools: Improving my proficiency with TensorFlow, Keras, PyTorch, Sci-kit Learn, and more.\n\n\n\nFeature Engineering: Learning to transform raw data into meaningful features.\n\n\nThese skills are crucial for my goal of working in AI and ML. Understanding and working with data is key to developing better models. I aim to improve through consistent practice and guidance from our graduate fellows and advisors."
   },
   {
-    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
-    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html",
-    "title": "Lily’s Introduction",
+    "objectID": "studentBlogs/lily.html",
+    "href": "studentBlogs/lily.html",
+    "title": "Lily Christenson",
     "section": "",
-    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nLily’s Introduction\n\n\nLily Christenson\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
-    "href": "studentBlogs/lily/student-introductions/Lily_Introduction.html#about-me",
-    "title": "Lily’s Introduction",
+    "objectID": "studentBlogs/karthik.html",
+    "href": "studentBlogs/karthik.html",
+    "title": "Karthik Hanumanthaiah",
     "section": "",
-    "text": "My name is Lily, and I am from Des Moines, Iowa. In fall 2024, I will be a senior majoring in statistics and minoring in general business. I chose a statistics major because I have always enjoyed math, particularly statistics. I chose to minor in business because I believe it would be useful when working with companies.\n\n\n\n\n\n\n\n\n\n\nMy plans are to get a job in data analytics/data science. Data science is important because it gives people and businesses valuable information and insight about data sets. Which in turn helps with decision-making.\n\n\n\n\n\nI have some prior data science knowledge from my previous statistics classes. I have learned how to analyze and make visuals from datasets using R. I also learned how to produce statistical outputs to help answer questions.\n\n\n\n\nSummary of Adverstising data\n\n\n\nMin.\n1st Qu.\nMedian\nMean\n3rd Qu.\nMax.\n\n\n\n\nTV\n1.0\n49.75\n97.50\n96.140\n143.25\n190\n\n\nNewspaper\n0.3\n12.75\n25.75\n30.554\n45.10\n114\n\n\nSales\n1.0\n31.75\n55.00\n58.370\n85.00\n121\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome extracurricular activities I enjoy are going to the gym, enjoying nature, playing with my dog, photography, watching movies and sports, and spending time with my friends and family. An interesting fact about me is that I can play 4 instruments.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkills that I value and appreciate about myself are that I am a very hard worker. When things get difficult, I don’t give up and try multiple ways to solve the issue. I have good communication, collaboration, and listening skills.\n\n\n\n\n\nThree skills I want to develop throughout DSPG are my coding and data analytics skills. I also want to learn how to use SQL and strengthen my skills in Python, and R. Some of my data science skills are analyzing statistical outputs and using R studio to make visualizations. I also am curious and believe that comes in handy with data science.\n\n\n\n\n\nI am pursuing these skills because I believe data science is important work. I will become a better data scientist and strengthen my analytical skills. With these skills I will be able to use them in future jobs. It will give me the skills and knowledge needed to create insights for data.\n\n\n\n\n\nI plan to improve these skills by taking courses on datacamp to strengthen my knowledge in certain software. I also will work with my peers to work through problems. I also can utilize LinkedIn Learnings to learn more about different software."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 17, 2024\n\n\nKarthik’s Introduction\n\n\nKarthik Hanumanthaiah\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html",
-    "title": "Karthik’s Introduction",
+    "objectID": "studentBlogs/joseph.html",
+    "href": "studentBlogs/joseph.html",
+    "title": "Joseph Betti",
     "section": "",
-    "text": "I’m from India and I’m currently pursuing my Master’s in Department of Computer Science, My research work is on Formal Verification & Machine Learning."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nJoseph’s Introduction\n\n\nJoseph Betti\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
-    "title": "Karthik’s Introduction",
-    "section": "My Work",
-    "text": "My Work\nIf you have some thoughts on how to verify some unknown mathematical function that works correctly, I would be happy to share my thoughts. If you sometimes wonder how to hack into a Machine learning model, I can also add something to it."
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
-    "title": "Karthik’s Introduction",
-    "section": "What’s up with DSPG?",
-    "text": "What’s up with DSPG?\nI like solving problems, so far data science has a lot of open problems and I see potential in data science solving a lot of real-world problems. I have designed software applications in the past, but this time with DSPG I’m planning to gain some insights into designing mathematical models for the data."
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
-    "title": "Karthik’s Introduction",
-    "section": "Hobby",
-    "text": "Hobby"
-  },
-  {
-    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
-    "href": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
-    "title": "Karthik’s Introduction",
-    "section": "Fun Facts",
-    "text": "Fun Facts\nRecently I got to know (credits to Tabassum), the word “karthik” closely relates to “Season & Farming” and I love Farming, Fun stuff!"
-  },
-  {
-    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
-    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
-    "title": "Joseph’s Introduction",
-    "section": "Personal Background",
-    "text": "Personal Background\n\nI am from Owatonna, Minnesota\nI am majoring in landscape architecture\nI am a senior\nI enjoy going on hikes\nI play guitar and bass\nI enjoy making art\nI make music and movies\n\n\nThe image to the right is a movie poster I made my Freshman year."
-  },
-  {
-    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
-    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
-    "title": "Joseph’s Introduction",
-    "section": "Goals and Objectives",
-    "text": "Goals and Objectives\nAs a designer, it is important to understand the effects that our designs have on society and the environment. An important tool for analyzing the effects we have on the world is data science. As a young scholar at DSPG, I aim to improve my GIS skills and gain new analytic tools. I don’t have much experience with data science, but I am excited to learn more.\n\nObjectives for the Summer\n\nImprove at GIS\nLearn more about statistics\nLearn how to program (R, Python, SQL, etc.)\nLearn how to apply data science as a Landscape Architect\nGain real-world experience\n\n\n\n\n\nCareer Objectives\n\nWork as a landscape architect\nImprove the sustainability of landscapes\nProduce Equitable and accessible designs\nDesign with the community in mind\nImprove my understanding of social issues\nLearn new perspectives about art and design\n\n\nThe image to the right is a set of maps by Ian McHarg, one of the first landscape architects to use data in decision-making."
-  },
-  {
-    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
-    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
-    "title": "Joseph’s Introduction",
-    "section": "Strengths and Areas of Improvement",
-    "text": "Strengths and Areas of Improvement\n\nStrengths\n\nCreativity\nCuriosity\nCompetence in ArcGIS Pro\nFast learner\nCritical Thinking Skills\nDesign-oriented\n\n\n\nAreas of Improvement\n\nProgramming\nGathering data\nAnalyzing data\nStatistics\nGIS\nand much, much more!"
-  },
-  {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html",
-    "title": "Harun’s Introduction",
+    "objectID": "studentBlogs/harun.html",
+    "href": "studentBlogs/harun.html",
+    "title": "Harun Celik",
     "section": "",
-    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
+    "text": "Harun’s Introduction\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\nHarun Celik\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
-    "title": "Harun’s Introduction",
+    "objectID": "studentBlogs/cael.html",
+    "href": "studentBlogs/cael.html",
+    "title": "Cael Leistikow",
     "section": "",
-    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
-  },
-  {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
-    "title": "Harun’s Introduction",
-    "section": "My DSPG Experience",
-    "text": "My DSPG Experience\nAs an additional degree, I’ve completed the Graduate GIS Certificate Program at ISU and sought for ways to practice these skills on projects that had some public influence. This is how I stumbled across the DSPG program and applied to be a graduate fellow for summer of 2022. I enjoyed the experience so much that I wanted to rejoin the following summer in 2023 with a couple of additional responsibilities. After sharing my ideas with the Community and Economic Development Extension team, I was lucky to get an assistantship that focused on improving the DSPG program with the responses we’ve received from past participants through our surveys.\nI really enjoy the DSPG program for a multitude of reasons, but here a couple of my favorites.\n\nThe program supports communal and personal learning.\n\nParticipants to the program come from varying levels of education, from first year students to PhD candidates. This usually means that everyone comes in at different skill levels and uses that to either develop the skills that they already know or learn new ones.\n\nProjects are quite varied in their goals and flexible for hands-on learning\n\nDifferent clients expect different results and for a lot of the projects, it is the exploration conducted by students that shapes the final deliverable of the projects.\n\nThe program address real questions by clients interested in learning from data.\n\nThe DSPG projects address complex and real questions about the social world making the application of data science skills extremely practical for real-world scenarios."
-  },
-  {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
-    "title": "Harun’s Introduction",
-    "section": "My DSPG Expectations This Year",
-    "text": "My DSPG Expectations This Year\nBeing the coordinator of the program for the first time, my main objectives are to make sure that the DSPG experience is enjoyable and informative for everyone involved. I have yet to solidify all my thoughts but here is a mindmap of what I expect will be my top three goals for this summer.\n\n\n\nMindmap of Harun’s DSPG Objectives"
-  },
-  {
-    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
-    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
-    "title": "Harun’s Introduction",
-    "section": "Fun Fact",
-    "text": "Fun Fact\nI play the bass guitar and I love to explore different genres of music, especially ones where the bass guitar has a prominent or unique role. I’d be happy to take any recommendations if you have any favorite albums or songs.\nLately I’ve been listening to Lugares Comunes by Inti-Illimari."
-  },
-  {
-    "objectID": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
-    "href": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
-    "title": "Cael’s Introduction",
-    "section": "",
-    "text": "Hello, My name is Cael Leistikow\n\nWhere are you from?\nI grew up in Frederika, Iowa which is about 30 minutes north of Waterloo and I attended New Hampton High School.\n\n\nWhat’s your current academic year?\nI am currently a Senior at Iowa State going into my fourth year with intentions of graduating next Spring.\n\n\nWhat degrees are you studying?\nI am majoring in Data science with a minor in Economics\n\n\nWhy did you choose your degrees?\nI chose these degree because I had always been fascinated by statistics, especially sports statistics, and as I went through high school I began to grow an interest in programming as well and when I discovered that Iowa State offered a degree that was a mixture of the two, I knew that it was what I wanted to pursue.\n\n\nWhat are your plans with your degree(s)?\nMy plans for after college is to use my degrees as a Data Analyst or Data Scientist within the business sector and having my Economics degree as well to be able to apply my knowledge towards making informative business decisions. After a few years I would consider to go for my dream job of working as a sports data analyst for a professional US sports team, preferably in baseball or football.\n\n\nWhy do you care about data science?\nI care about data science cause I firmly believe that it is the future towards optimizing and maximizing everything that we do in society. Everything that we do can be put into data and being able to understand how to work with and interpret that data is very valuable. Although it comes with a lot of power that can be manipulated if the owner so desires.\n\n\n\nDo you have any prior experience with data science?\nI have taken numerous data science courses here at Iowa State. I have had an internship with Kingland Systems as a Data Research Analyst. Finally, I have been a Statistician when I was playing under levels of athletics for the varsity team in high school.\n\n\nWhat kinds of extracurricular activities/hobbies do you care about?\nMy extracurricular activities are the Sports Analytics Club, Data Science Club, and Intramural sports.\nMy favorite hobbies are playing basketball, watching sports and going to games, hanging out with friends, listening to music, cooking, and travel.\n\n\nWhat do you want your peers to know about you?\n\nAn interesting fact about me is I have visited 24 of the 50 states as well as DC and Canada. Obviously I like to travel. My favorite trip being to Colorado. Additionally, my most desired place to travel next would be Hawaii as I haven’t gone outside on the intercontinental US or Canada.\n\n\nList some skills in data science that you feel you do well?\nI feel I do very well in data visualization, statistical analysis, machine learning/modeling, R programming as it is my more preferred programming language, and finally SQL and database management.\n\n\nList at least three skills you would like to learn or develop during the DSPG program.\nI would like to develop during the DSPG program is AI development as AI is going to continue to integrated itself in everyday life. Another skill I would like to learn is GIS as I have seen a lot of employers looking for candidates who are able to effectively use GIS. Finally, the last thing I would like to learn is how the data science process works in a real-world scenario that I could then apply in the future.\n\n\nWhy are you pursuing these skills? Why do they matter to you?\nThe reason I’m pursuing these skills and why the matter to me is because I want to be able to put myself in the best position I can for when I’m beginning to look for my full-time career. Being a senior this coming year I need to refine and learn any skills that I can to help me stand out as a candidate to make sure I position myself for the job I want and to have a successful life.\n\n\nHow do you hope to improve these skills?\nI hope to learn and improve these skills through Datacamp as a tutorial for GIS or AI to help create a foundational understanding and then from there apply it to the projects to help use this knowledge on a real-world issue. Additionally, learning from the project leaders and the lunch talks during the program will help me see from other people’s perspective and ask questions to grow my understanding further."
-  },
-  {
-    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
-    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html",
-    "title": "Blake’s Introduction",
-    "section": "",
-    "text": "this is me"
-  },
-  {
-    "objectID": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
-    "href": "studentBlogs/blake/student-introductions/Blake_Introduction.html#part-2",
-    "title": "Blake’s Introduction",
-    "section": "Part 2",
-    "text": "Part 2\n\n\nWhat skills do you value and appreciate about yourself?\n\n\n\nI really value my guitar skills and my coding skills.\n\n\n\nI’ve spent so many hours in the last couple years playing guitar trying to learn every song I enjoy listening to.\nPre chatgpt being popular I spent alot of time learning to code and do multiple coding online courses and like 200 coding problems on Leetcode, looking back now most of what I learned became irrelevant due to chat gpt but I still developed a skill that has been deteriorating the more I use GPT unfortunately.\n\n\n\n\nDS skills\n\n\n\nI scored “The thinker” on the personality test we all took on day one, and I do think that represents me well. I enjoy coming up with new ideas for solving problems. Not giving up on finding actually meaningful results that can have a postive impact.\n\n\n\nthree skills you want to develop\n\n\n\nPython and R are extremely important skills for data science and I have been working with the long enough to know how valuable they can be. I also really like using Tableau, I think it’s popular for a reason, for being as high level as it is it can do some pretty complex things such as being able to use SQL to manipulate data while in tableau.\n\n\n\nwhy these skills?\n\n\n\nI’m pursuing these skills because I believe they are the best tools for data sciences to become successful. It’s a safer bet to say that in Python and R will still be relevant in 10 years but some of the higher level skills may be replaces by ai or somethings even higher level.\n\n\n\nhow are you going to improve skills?\n\n\n\nWork on them everyday. The more I work with these technologies the more comfortable I will get with them overtime and the faster I can get things done with them."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nCael’s Introduction\n\n\nCael Leistikow\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "studentBlogs/alister/student-introductions/Alister_Introduction.html",
@@ -445,35 +459,35 @@
     "href": "schedule.html#june-17th---monday",
     "title": "Weekly Schedule",
     "section": "June 17th - Monday",
-    "text": "June 17th - Monday\n\nLocation\n\nEast Hall 311"
+    "text": "June 17th - Monday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 9:00: Last Week’s Team Blog & Personal Blog Completion\n9:00 - 12:00: ITAG Presentation Work\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-18th---tuesday",
     "href": "schedule.html#june-18th---tuesday",
     "title": "Weekly Schedule",
     "section": "June 18th - Tuesday",
-    "text": "June 18th - Tuesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 18th - Tuesday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 9:45: Graphics Activity\n9:45 - 12:00: ITAG Presentation Work\nRest of Day: Continue Project Work"
   },
   {
     "objectID": "schedule.html#june-19th---wednesday",
     "href": "schedule.html#june-19th---wednesday",
     "title": "Weekly Schedule",
     "section": "June 19th - Wednesday",
-    "text": "June 19th - Wednesday\n\nLocation\n\nEast Hall 311"
+    "text": "June 19th - Wednesday\n\nLocation\n\nEast Hall 311\n\n\n\n8:00 - 12:00: Continue Project Work\n12:00 - 1:00: Lunch Break\n2:00 - 3:00: ITAG Mock Presentations"
   },
   {
     "objectID": "schedule.html#june-20th---thursday",
     "href": "schedule.html#june-20th---thursday",
     "title": "Weekly Schedule",
     "section": "June 20th - Thursday",
-    "text": "June 20th - Thursday\n\nLocation\n\nEast Hall 311"
+    "text": "June 20th - Thursday\n\nLocation\n\nMeet Across Lake Laverne at 7:00AM\n\n\n\nAll Day: ITAG"
   },
   {
     "objectID": "schedule.html#june-21st---friday",
     "href": "schedule.html#june-21st---friday",
     "title": "Weekly Schedule",
     "section": "June 21st - Friday",
-    "text": "June 21st - Friday\n\nLocation\n\nCarver 0268"
+    "text": "June 21st - Friday\n\nLocation\n\nCarver 0268\n\n\n\n8:00 - 9:00: Data Science Trivia\n9:00 - 12:00: Complete Project Work\n12:00 - 1:00: Lunch Break\n1:00 - 3:00: Complete Weekly Team Blogs\n3:00 - 4:00: Present Team Blogs"
   },
   {
     "objectID": "schedule.html#june-24th---monday",
@@ -658,67 +672,18 @@
     "text": "Program Leader\n\nChristopher J. Seeger, Professor, Landscape Architecture; Extension Specialist in Geospatial Technologies\n\nProgram Coordinator\n\nHarun Çelik, History and Graduate GIS Certificate\n\nProject Advisers\n\nLisa Bates, Assistant Director, Community and Economic Development\nLiesl Eathington, Research Scientist III\nMatthew Voss, Rural Policy Data Analyst at Public Science Collaborative\nJay Maxwell, Data Analyst in Community and Economic Development Extension\n\nProgram Advisers\n\nAdisak Sukul, Ph.D. Associate Teaching Professor\nHeike Hoffman, Professor\nTodd Abraham, Research Scientist\n\nGraduate Fellows\n\nKarthik Hanumanthaiah, Computer Science\nTabassum Zaman, Community and Regional Planning\nSolomon Eshun, Applied Mathematics\n\nUndergraduate Interns\n\nAlister Gan, Data Science\nBlake Underwood, Data Science and Economics\nCael Leistikow, Landscape Architecture\nLily Christenson, Business and Statistics\nNaomi Mauss, Data Science\nNhat Le, Data Science, Math, and Computer Science\nManjul Balayar, Computer Science"
   },
   {
-    "objectID": "blogs2024/welcome/index.html",
-    "href": "blogs2024/welcome/index.html",
-    "title": "Blog Writing Guidelines",
+    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
+    "title": "Iowa Zoning Guide Week Two",
     "section": "",
-    "text": "Welcome to the DSPG Quarto blog. This post will be a demonstration of some of the capabilities of a quarto doc and some basics of dos and don’ts as you’re writing your own blogs throughout the DSPG program."
+    "text": "Looking Forward\n\n\nMoving forwards, we plan to continue to catalogue zoning data for 330 cities in Iowa. Additionally, we hope to scrape data from Redfin and download Iowa County Assessor Data so that we can take that information and use it to answer some of the questions to which we want to find answers.\n\n\nSources\n\n\nWe primarily worked with data we collected from the county zoning form we have been filling out, but some data was also taken from tidycensus. Redfin and county assessor data will be valuable resources in the future."
   },
   {
-    "objectID": "blogs2024/welcome/index.html#rmarkdown-and-quarto-markdown",
-    "href": "blogs2024/welcome/index.html#rmarkdown-and-quarto-markdown",
-    "title": "Blog Writing Guidelines",
-    "section": "RMarkdown and Quarto Markdown",
-    "text": "RMarkdown and Quarto Markdown\nThese blogs are generated using Quarto Markdown (.qmd). Markdown is a special type of text format that is both legible with and without its rendering. Quarto Markdown follows the syntax of basic Markdown and has some additional features for use as well. The Markdown Basics guide on the Quarto page will be a great resource to view how you can format your texts."
-  },
-  {
-    "objectID": "blogs2024/welcome/index.html#yaml-headers",
-    "href": "blogs2024/welcome/index.html#yaml-headers",
-    "title": "Blog Writing Guidelines",
-    "section": "Yaml Headers",
-    "text": "Yaml Headers\nEach blog has its own yaml style metadata section at the top of the file. This one has a metadata section that looks something like this in the source code.\n---\ntitle: \"Blog Writing Guidelines\"  # The title of your post\nauthor: \"Harun Celik\"             # The author associated with the blog post\ndate: \"2024-05-05\"                # The date in Year-Month-Day format\ncategories: [blog tutorial]       # The categories associated with the blog\n---\nThere are additional options for the yaml that you can check out through the Quarto documentation page."
-  },
-  {
-    "objectID": "blogs2024/welcome/index.html#linking-pages-and-images",
-    "href": "blogs2024/welcome/index.html#linking-pages-and-images",
-    "title": "Blog Writing Guidelines",
-    "section": "Linking Pages and Images",
-    "text": "Linking Pages and Images\nYou can link items in your files by using the following syntax [Text of Link](Link Reference - URL). Referencing also works for adding images into your blogs. The syntax is very similar, but requires an ! in the front. So an example would be ![Stock Photo of a Data Cat](imgs/Data_Cat.png)\n\n\n\nStock Photo of a Data Cat\n\n\nSince this post doesn’t specify an explicit image in the yaml, the first image in the post will be used as the thumbnail of the post. A couple of things to remember with linking images.\n\nPlace your images in the imgs directory. This helps prevent clutter and makes it easier to find the files.\nName your images explicitly. Don’t call them \"image_1.jpg\" but instead something like \"age_scatterplot_1\".\nDon’t save file names with any spaces. Add an _ or use camelCaseNaming. Spaces will prevent the blog from properly rendering!\nMake sure you follow copyright guidelines on images. Don’t add images you would not be permitted to share in any professional environment."
-  },
-  {
-    "objectID": "blogs2024/welcome/index.html#running-code",
-    "href": "blogs2024/welcome/index.html#running-code",
-    "title": "Blog Writing Guidelines",
-    "section": "Running Code",
-    "text": "Running Code\n\nCode Chunks\nOne of the coolest features of the Quarto blogs is the ability to integrate code chunks and have them render. Let’s check out how this works. Here is an example of what a code chunk looks like in the source code.\n\nprint(\"I would like for this text to print.\")\n\n[1] \"I would like for this text to print.\"\n\n\nUsing different markdown arguments, we can customize our code chunks to prevent them from running, displaying, or rendering messages. You can check out some of those options through the R Markdown Reference Guide.\nSome useful ones are below.\neval=TRUE      # If FALSE, knitr will not run the code in the code chunk.\ninclude=TRUE   # If FALSE, knitr will run the chunk but not include the chunk in the final document.\necho=TRUE      # If FALSE, knitr will not display the code in the code chunk above it’s results in the final document.\nmessage=TRUE   # If FALSE, knitr will not display any messages generated by the code.\nwarning=TRUE   # If FALSE, knitr will not display any warning messages generated by the code\n\n\nUsing Data\nMost of the time, you’ll want to run some code that generates a table or a visual of your data. To do this, quarto will need a local reference to your data and that’s why your blogs also come with a directory labelled data\\. If you are working within R, it is advisable to use the .RDS format for saving any data you want to use for displaying code. Let’s look at an example.\n\n# Let's create a data frame to use\n\n## Generate pay grades as factors\nGrades &lt;- c(\"Grade A\", \"Grade B\", \"Grade C\", \"Grade D\", \"Grade E\")\nGrades_Factor &lt;- factor(Grades, levels = c(\"Grade A\", \"Grade B\", \"Grade C\", \"Grade D\", \"Grade E\"))\n\n# Create randomized vectors of size 50\nGender &lt;- sample(x = c(\"Woman\", \"Man\", \"Transgender\", \"Non-binary/non-conforming\", \"Prefer not to respond\"), size=50, replace = TRUE)\nID &lt;- sample(x = 1000:3000, size=50)\nPay &lt;- sample(x = Grades_Factor, size=50, replace=TRUE)\n\n# Create data frame\ndf &lt;- data.frame(Gender, ID, Pay)\n\nIn our example here we’ve created the data in our blog environment, but often this will not be the case. We are going to pretend that our data is stored in the data directory. We will first save the data we created.\n\n# Saving our dataset\nsaveRDS(df, file = \"data/PayData.RDS\")\n\nNow we can load it in as Pay_DF.\n\nPay_DF &lt;- readRDS(\"data/PayData.RDS\")\n\nLet’s write some code with ggplot2 to create a visual.\n\nlibrary(ggplot2)\n\npay_colors &lt;- c(\"Grade A\" = \"#1f78b4\", \"Grade B\" = \"#33a02c\", \"Grade C\" = \"#e31a1c\", \"Grade D\" = \"#ff7f00\", \"Grade E\" = \"#6a3d9a\")\n\nggplot(Pay_DF, aes(x = Gender, fill = Pay)) +\n  geom_bar() +\n  labs(x = \"Gender\", y = \"Count\", title = \"Distribution of Pay Grades Across Genders\") +\n  scale_fill_manual(values = pay_colors) +\n  theme_minimal() +\n  coord_flip()\n\n\n\n\n\n\n\n\n\n\nData Guidelines\nHere are some important things to consider when you’re using data sets in your blogs.\n\nVERY IMPORTANT: All data saved in the data directory is publicly visible. Don’t share data that is private into your blogs.\nBe mindful of the size of your data. The larger the data, the longer it will take to render. GitHub also limits commit sizes so keep this in mind."
-  },
-  {
-    "objectID": "blogs2024/welcome/index.html#using-other-languages",
-    "href": "blogs2024/welcome/index.html#using-other-languages",
-    "title": "Blog Writing Guidelines",
-    "section": "Using Other Languages",
-    "text": "Using Other Languages\nThe last thing we will look at is displaying code for languages other than R. RMarkdown files have the ability to change the rendering engine so that other languages can also be used. To run Python, you will have to have the reticulate library installed and configured. When you’ve created a code chunk, you will want to switch the section that is typically in the form of {r} to {python} or whatever other supported language you wish to use.\nHere is a Python code block.\n\nimport platform\n\nprint(\"This code is run using python version\", platform.python_version())\n\nThis code is run using python version 3.9.18"
-  },
-  {
-    "objectID": "blogs2024/welcome/index.html#resources",
-    "href": "blogs2024/welcome/index.html#resources",
-    "title": "Blog Writing Guidelines",
-    "section": "Resources",
-    "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html",
-    "title": "Housing and AI Week Two",
+    "objectID": "allBlogs.html",
+    "href": "allBlogs.html",
+    "title": "Project Blogs",
     "section": "",
-    "text": "This week we continued looking for data for the smallest unit of area we could.\nOn the side of population density, we were able to find data down to the house/parcel level for Des Moines and we were able to go ahead and display them along with the census block groups and all residential zones in the Des Moines area as shown in the figure below. We can do the same with the blocks as well.\n\nFrom here we wanted to see if we could find data of the same variety for smaller communities rather than just larger cities so our eventual model isn’t biased. Luckily, the Des Moines Data Portal stretches across the entire Des Moines Metropolitan Area which meant we could get data for smaller communities such as Ackworth that has a population of 115.\n\n\nHowever, we realized we don’t just want communities around the Des Moines Metro and still wanted to reach smaller community data. After some research we found that Iowa has a free GIS database (https://www.iowagisdata.org/) that contains information for numerous counties and cities down to the parcel and building level. One county that we found may be helpful is Winneshiek County as it is in a more rural area of the state away from most metro and micropolitan areas.\n\nThe image above is showing all residential buildings in Decorah, but the database has access to so many more communities and levels of data that will continued to be explored.\nWe were also able to get a way to calculate population density of our blocks and block groups using tidycensus.\n\nWe also wanted to look into transportation data, however outside of getting routes and stops we couldn’t find much. Additionally, after talking to Omar Padilla this makes sense as most people just don’t prefer to use public transit compared to their own car in Iowa even in the bigger cities like Des Moines which is why much data isn’t available"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html#data-exploration-for-population-density",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-housing-ai/Weekly_Team_Blog.html#data-exploration-for-population-density",
-    "title": "Housing and AI Week Two",
-    "section": "",
-    "text": "This week we continued looking for data for the smallest unit of area we could.\nOn the side of population density, we were able to find data down to the house/parcel level for Des Moines and we were able to go ahead and display them along with the census block groups and all residential zones in the Des Moines area as shown in the figure below. We can do the same with the blocks as well.\n\nFrom here we wanted to see if we could find data of the same variety for smaller communities rather than just larger cities so our eventual model isn’t biased. Luckily, the Des Moines Data Portal stretches across the entire Des Moines Metropolitan Area which meant we could get data for smaller communities such as Ackworth that has a population of 115.\n\n\nHowever, we realized we don’t just want communities around the Des Moines Metro and still wanted to reach smaller community data. After some research we found that Iowa has a free GIS database (https://www.iowagisdata.org/) that contains information for numerous counties and cities down to the parcel and building level. One county that we found may be helpful is Winneshiek County as it is in a more rural area of the state away from most metro and micropolitan areas.\n\nThe image above is showing all residential buildings in Decorah, but the database has access to so many more communities and levels of data that will continued to be explored.\nWe were also able to get a way to calculate population density of our blocks and block groups using tidycensus.\n\nWe also wanted to look into transportation data, however outside of getting routes and stops we couldn’t find much. Additionally, after talking to Omar Padilla this makes sense as most people just don’t prefer to use public transit compared to their own car in Iowa even in the bigger cities like Des Moines which is why much data isn’t available"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 14, 2024\n\n\nIowa Zoning Guide Week Three\n\n\nIowa Zoning Guide\n\n\n\n\nJun 14, 2024\n\n\nHousing and AI Week Three\n\n\nHousing and AI\n\n\n\n\nJun 14, 2024\n\n\nCommunity Capitals Week Three\n\n\nCommunity Capitals\n\n\n\n\nJun 7, 2024\n\n\nIowa Zoning Guide Week Two\n\n\nIowa Zoning Guide\n\n\n\n\nJun 7, 2024\n\n\nHousing and AI Week Two\n\n\nHousing and AI\n\n\n\n\nJun 7, 2024\n\n\nCommunity Capitals Week Two\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-iowa-zoning-guide/Weekly_Team_Blog.html#introduction",
@@ -761,118 +726,6 @@
     "title": "Iowa Zoning Guide Week One",
     "section": "Form Snippet",
     "text": "Form Snippet\nContains information about:\n\nDistrict type\n\n\nPermitted housing\n\n\nDetailed information of housing dimensions"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html",
-    "title": "Community Capitals Week One",
-    "section": "",
-    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#datacamp-training",
-    "title": "Community Capitals Week One",
-    "section": "",
-    "text": "We are using R as our main programming language for complicated data analysis steps, so we have completed courses in terms of data manipulation, visualization, exploration and data processing.\n\n\n\nElephant\n\n\nEven though our project deals with much more complicated datasets and those courses may not be sufficient for all data analysis procedures, they are essential fundamentals for us to move on effectively."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#community-capitals-project-introduction",
-    "title": "Community Capitals Week One",
-    "section": "Community Capitals Project Introduction",
-    "text": "Community Capitals Project Introduction\n\nWhat is a Community and what is a Capital?\nCommunity: A healthy community has all three below\n\nGeography Based(cities, counties, neighborhoods)\nOrganized Based(school, work)\nIdentity Based(Hometown, vacation home)\n\nCapital: An asset that is “invested” to create resources.\n\n\nTypes of Community Capitals\n\nNatural Capital - The quality and quantity of natural and environmental resources existing in a community.\nCultural Capital - The values, norms, beliefs and traditions that people inherit from the family, school and community. Also includes material goods produced at a specific time and place (such as paintings, books) that have historical or cultural significance.\nHuman Capital - Attributes of individuals that provide them with the ability to earn a living, strengthen community, and otherwise contribute to community organizations, to their families, and to self- improvement (Flora et al. 2004). It includes access to education and knowledge development, training and skill building activities and efforts to build and expand local leadership.\nSocial Capital - Connections existing among people and organizations that help make things happen in the community. Includes close ties that build community cohesion (bonding) as well as weaker ties with local and outside people and organizations that help promote broad-based action on key matters (bridging).\nPolitical Capital - The ability to influence and enforce rules, regulations, and standards. Access to individuals and groups with the power to influence decisions. Participating in civic discourse on difficult public issues.\nFinancial Capital - The variety of financial resources available to invest in local projects or economic development initiatives. Efforts to build wealth to support community development activities.\nBuilt Capital - Represents the infrastructure of the community – the basic set of facilities, services and physical structures needed by a community.\n\n\n\nProject Goal\nCurrently, we are seeking measurements that might influence these forms of capital and reliable data sources for them. For example, a measurement could be the number of businesses per county, which could significantly impact financial capital.\nPrevious projects have identified numerous measures for capitals such as Built, Financial, and Natural, but have found limited measures for Social and Cultural capital. This is because social and cultural aspects are challenging to quantify and collect data on, unlike Financial capital, which is inherently numerical.\nGoal in the future, gather diverse measurements and data sets for each type of capital, we aim to develop an index value representing each capital for each county in Iowa to visualize."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#social-cultural-capitals",
-    "title": "Community Capitals Week One",
-    "section": "Social & Cultural Capitals",
-    "text": "Social & Cultural Capitals\n\nBeginning\nThroughout this week we have been brainstorming ways that we can measure Social and Cultural Capital. We read articles and looked at websites to gain knowledge on potential measures. As we started our research, we wrote down measure ideas along the way. We discussed some of our ideas and talked about our concerns of the project so far. Our biggest concern was finding cultural measures.\n\n\nSocial Capitals:\n\nVolunteering rates\nParticipation in Civic Acts/Election turnout\nParticipation frequency in Clubs/ Communities\nCrime rates\nNumber of visits to the public library and the programs\nDonations to local candidate committees and ballot issue committees\n\n\n\nCultural Capitals:\n\nArt festival/ cultural events turnout\nMembership of cultural organizations\nNumber of distinct religions represented\nFrequency of attendance at religion services\n\n\n\nFindings\nWe found that it is much easier to think of social capitals compared to cultural capitals. The tricky part about Cultural Capitals is being able to find datasets for our measures. For example, a community could have a lot of cultural capital due to holding cultural events but there is very little or no data for us to look at.\nSome of the sources that we have found so far are:\n\nAmeriCorps\n\nInformation about volunteering and civic life\n\nSocial Capital Atlas\n\nInformation about economic connectedness, cohesiveness, and civic engagement\n\nIowa Campaign Contributions Received\n\nInformation about political campaigns (committee, contribution amount, city)\n\nIowa Public Library Statistics\n\nInformation about the public libraries in Iowa counties"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-community-capitals-1/Weekly_Team_Blog.html#events-database",
-    "title": "Community Capitals Week One",
-    "section": "Events Database",
-    "text": "Events Database\n\nFEMA Dataset\nThe Federal Management Agency(FEMA) disasters dataset includes various disasters/events that have taken place throughout the United States over the years. These datasets also include all the grants and funding approved by various organizations.\n\nArea Dataset\n\n# import pandas as pd\n# areas_df = pd.read_csv(\"Data/Updated_FEMA_Disaster_Areas.csv\")\n# areas_df\n\nArea Dataset Feature Selection:\n\nid: Not needed\ndisasterNumber: Might be important, will keep it for now.\nprogramTypeCode: Redundant, this info is available in programTypeDescription\nprogramTypeDescription: Will keep\nstateCode: Will either keep this or stateName but will drop one of them\nstateNames: Same as stateCode\nplaceCode: Keep for now\nplaceName: Most seems to be based on county but need to get rid of the ‘(county)’ part.\ndesignatedDate: Convert to Date type and clean up\nentryDate: Convert to Date type and clean up\nupdateDate: Convert to Date type and clean up\ncloseoutDate: Convert to Date type and clean up\nhash: not needed\nlastRefresh: Not important\n\n\n\nAmounts & Declarations Dataset\nSimilar feature selection process was applied to these datasets as well.\nAmounts Dataset\n\n# import pandas as pd\n# amounts_df = pd.read_csv(\"Data/FEMA_Disaster_Amounts.csv\")\n# amounts_df\n\nDeclarations Dataset\n\n# dec_df = pd.read_csv(\"Data/FEMA_Disaster_Declarations.csv\")\n\n\n#Dropping mostly dates, state and county code which are available in the Areas dataset\n# decColumnsToDrop = dec_df.columns[[0,2,3,4,5,7,12,13,14,16,17,20,21,22,23,24]]\n# dec_df = dec_df.drop(columns=decColumnsToDrop)\n# dec_df\n\nGoal next week:\nSince all three datasets include the column ‘districtNumber’ that match with each other, I plan to join these datasets into a new datasets which will follow a similar format.\n\n\n\n\nEmployment Shocks\nWe will be working with the Employment Shocks Data. The data is from workforce iowa.gov and LayoffData.com. The purpose of looking at employment shocks can help explain a communities well being. For example in the Tyson Food plants closure in Parry, Iowa will have a huge impact on it’s community. 1,276 people will be losing their job. As we started to look the datasets we found that there are three different notice types: Amendment, Mass Layoff, Closing, and Workforce reduction. we found that there were some miss spellings or slight character differences between the name of the companies and cities. Her next steps are to continue cleaning the data, fix the values so that they match up with each other, and start making visualizations.\n\n# Read in the data set\nWARN_2005_2024 &lt;- read.csv(\"Data/WARN_2005_2024.csv\")\n# WARN_2005_2024$`WARN Received Date` &lt;- as.POSIXct(WARN_2005_2024$`WARN Received Date`, format = \"%m/%d/%Y\")\n# WARN_2005_2024$`Effective Date` &lt;- as.POSIXct(WARN_2005_2024$`Effective Date`, format = \"%m/%d/%Y\")\n\n# Variables\nW05_24_V &lt;- WARN_2005_2024[ ,-c(8,9,10,13)]\n\n\n# Unique values\nsort(unique(WARN_2005_2024$`Company`))\nsort(unique(WARN_2005_2024$`City`))\nunique(WARN_2005_2024$`Notice Type`)\nsort(unique(WARN_2005_2024$`County`))\n\n\n\n\nHealth\nWe believe that there are some indirect correlations between health facilities and social capitals, especially the establishments and closures of health facilities in some specific areas leading to changes in capitals.\nThat’s why we collect and analyse data sources regarding nursing homes. We have 3 datasets:\n\nNursing Homes from CMS, consisting of 100 columns and 14,860 observations\nIowa Medicaid Payments with 9 columns and 98,305 observations representing the Medicaid reports\nNursing Facility Closures includes data for facilities that closed in 2023\n\nand 9 datasets for nursing homes from 2015 to 2022, which will be used to identify the facility closures.\nIllustrations:\n\ncms_nursinghome_df = read.csv(\"Data/CMS_Nursing_Homes.csv\")\ncolnames(cms_nursinghome_df) &lt;- gsub(\"\\\\.\", \" \", colnames(cms_nursinghome_df))\nhead(cms_nursinghome_df)\n\n\n\n\nElephant\n\n\n\nmedicaid_df = read.csv(\"Data/Iowa_Medicaid_Payments.csv\")\ncolnames(medicaid_df) &lt;- gsub(\"\\\\.\", \" \", colnames(medicaid_df))\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Name\"] &lt;- \"Provider Name\"\ncolnames(medicaid_df)[colnames(medicaid_df) == \"Vendor Number\"] &lt;- \"Provider Number\"\nhead(medicaid_df)\n\n\n\n\nElephant\n\n\n\nclosure_df = readxl::read_excel(\"Data/Nursing_Facility_Closures.xlsx\")\nhead(closure_df)\n\n\n\n\nElephant\n\n\nFirst approach: We want to identify the opening and closing dates for each provider, so our first approach is to utilize the “Report Date” column in the medicaid dataset. Whenever a payment is made to a provider, a report will be recorded. So we first used the most recent report date and the oldest report date as estimates for the opening and closing dates, but…\n\nmedicaid_df_latest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_closing = max(`Report Date`))\nmedicaid_df_oldest_filtered &lt;- medicaid_df %&gt;%\n                          group_by(`Provider Name`) %&gt;%\n                          summarise(estimate_opening = min(`Report Date`))\nopening_closing_medicaid &lt;- medicaid_df_latest_filtered %&gt;%\n                              full_join(medicaid_df_oldest_filtered, by = \"Provider Name\") %&gt;%\n                              select(`Provider Name`, `estimate_opening`, `estimate_closing`)\nopening_closing_medicaid\n\n\n\n\nElephant\n\n\nSecond approach: We collect 9 additional datasets regarding active providers from 2015 to 2022, and compare the consecutive years to estimate the year a provider closes. Illustrations are below: \nSo by looking at this planned dataframe, we can estimate the provider with ID 1506000 closed in 2018 and use that insight to identify the effect of the closure on the community."
-  },
-  {
-    "objectID": "allBlogs.html",
-    "href": "allBlogs.html",
-    "title": "Project Blogs",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 7, 2024\n\n\nCommunity Capitals Week Two\n\n\nCommunity Capitals\n\n\n\n\nJun 7, 2024\n\n\nHousing and AI Week Two\n\n\nHousing and AI\n\n\n\n\nJun 7, 2024\n\n\nIowa Zoning Guide Week Two\n\n\nIowa Zoning Guide\n\n\n\n\nMay 31, 2024\n\n\nCommunity Capitals Week One\n\n\nCommunity Capitals\n\n\n\n\nMay 31, 2024\n\n\nHousing and AI Week One\n\n\nHousing and AI\n\n\n\n\nMay 31, 2024\n\n\nIowa Zoning Guide Week One\n\n\nIowa Zoning Guide\n\n\n\n\nMay 6, 2024\n\n\nBlog Writing Guidelines\n\n\nHarun Celik\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
-    "title": "Housing and AI Week One",
-    "section": "",
-    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
-    "title": "Housing and AI Week One",
-    "section": "",
-    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
-    "title": "Housing and AI Week One",
-    "section": "Image-Processing Activity:",
-    "text": "Image-Processing Activity:\nBased on our Data Camp Training our Graduate lead Karthik has assigned us a Image Processing activity to work with.\nWe were given an image of a Waterloo Sanborn map to experiment with the image processing techniques we’ve learned.\n\nInitially, we converted the original RGB image into a gray-scale image. Subsequently, we applied various techniques that I learned during the Data Camp sessions. For instance, we implemented Sobel edge detection to highlight edges within the image. we also explored morphological operations to produce an eroded version of the image, which helps in understanding structural elements. Additionally, we generated a gray-scale histogram to analyze the intensity distribution and applied a global threshold to segment the image based on intensity values.\nEdge Detection:\n\nContour and Object Extracted:\n\n\nWe have provided the github link to Image-Processing Activity : https://github.com/NehaTiru/Image_Processing/blob/main/Untitled2.ipynb"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
-    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
-    "title": "Housing and AI Week One",
-    "section": "Data Exploration",
-    "text": "Data Exploration\nFor our project we started by trying to find how small of data we could go for population data in terms of density, senior citizens, and income bracket. The idea is we want to be gather data at the smallest level we can with hopes of going down to the household level if possible. To do this we looked at two communities of varying sizes to see what level of data is available, Des Moines and Clear Lake.\nStarting with population density this week, we started off at the city level using Census data from the ACS-5 year (2022) to make sure data was available and the results are displayed in the graph below.\n\nSource: US Census ACS-5 (2022)\nFrom there we moved on to see if data was available at the block group and block level, which data was found for population but coming up with density would be a bit time intensive especially in Des Moines. Below is the population density of the block groups in Clear Lake as well as the block layout of Des Moines in which the process of getting population density would be similar yet time consuming.\nClear Lake Block Group Population Density\n Source: US Census ACS-5 (2022)\nDes Moines Block Population\n Source: Us Census 2020 Decennial Data\n\n\n#|echo = FALSE\npopulation_elderly2 &lt;- readRDS(file = \"Data/populationElderly2.RDS\")\n\n\nMoving forward we could look into remote sensing as a possibility to get even smaller data using machine learning. Similar to research that was done at the Nanjing University of Information Science and Technology for finding population density in Beijing City.\nFor More Information: https://www.mdpi.com/2072-4292/12/12/1910\n\nSources:\n\nThe demographic statistical atlas of the united states—Statistical atlas. (n.d.). Retrieved May 31, 2024, from https://statisticalatlas.com/place/Iowa/Des-Moines/Population\nHe, M., Xu, Y., & Li, N. (2020). Population spatialization in beijing city based on machine learning and multisource remote sensing data. Remote Sensing, 12(12), 1910. https://doi.org/10.3390/rs12121910\nGrid view: Table b09020—Census reporter. Retrieved May 31, 2024, from https://censusreporter.org/data/table/?table=B09020&geo_ids=16000US1921000,150%7C16000US1921000&primary_geo_id=16000US1921000#valueType%7Cestimate\nCensus tabulation detail: Total Population. Census Reporter. Retrieved May 31, 2024, from https://censusreporter.org/tables/B01003/"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html",
-    "title": "Community Capitals Week Two",
-    "section": "",
-    "text": "print(\"First some R Code\")\n\n[1] \"First some R Code\"\n# Check for virtual environment, if it doesn't exist, create the venv, if it exists\n# then use the venv called \"r-python\"\n\nif (virtualenv_exists(\"r-python\")) {\n  use_virtualenv(\"r-python\")\n} else {\n  virtualenv_create(\"r-python\")\n  use_virtualenv(\"r-python\")\n}\n# Installing dependencies for the python virtualenv\n\nvirtualenv_install(envname = \"r-python\", packages = c(\"numpy\", \"pandas\", \"scikit-learn\"), all = TRUE)\n\nUsing virtual environment \"r-python\" ...\n\n\n+ \"C:/Users/harun/Documents/.virtualenvs/r-python/Scripts/python.exe\" -m pip install --upgrade --no-user numpy pandas scikit-learn\nimport pandas as pd\nprint(\"Currently using Pandas Version:\", pd.__version__)\n\nCurrently using Pandas Version: 2.2.2"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#event-database-continuation",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#event-database-continuation",
-    "title": "Community Capitals Week Two",
-    "section": "Event Database Continuation",
-    "text": "Event Database Continuation\nThis week we continued our work looking at datasets for different events regarding health facilities, employment shocks and disasters. Our work consisted of cleaning the datasets, combining several datasets, and creating a event_magnitude unit value that can summarize each event."
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#fema-disaster",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#fema-disaster",
-    "title": "Community Capitals Week Two",
-    "section": "FEMA Disaster",
-    "text": "FEMA Disaster"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#employment-shocks",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#employment-shocks",
-    "title": "Community Capitals Week Two",
-    "section": "Employment Shocks",
-    "text": "Employment Shocks"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#health-facilities",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-community-capitals-1/Weekly_Team_Blog.html#health-facilities",
-    "title": "Community Capitals Week Two",
-    "section": "Health Facilities",
-    "text": "Health Facilities"
-  },
-  {
-    "objectID": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
-    "href": "blogs2024/Team_Blog_Two/dspg-weekly-team-blog-two-iowa-zoning-guide/Weekly_Team_Blog.html",
-    "title": "Iowa Zoning Guide Week Two",
-    "section": "",
-    "text": "Looking Forward\n\n\nMoving forwards, we plan to continue to catalogue zoning data for 330 cities in Iowa. Additionally, we hope to scrape data from Redfin and download Iowa County Assessor Data so that we can take that information and use it to answer some of the questions to which we want to find answers.\n\n\nSources\n\n\nWe primarily worked with data we collected from the county zoning form we have been filling out, but some data was also taken from tidycensus. Redfin and county assessor data will be valuable resources in the future."
   },
   {
     "objectID": "index.html",
@@ -987,39 +840,102 @@
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 5, 2024\n\n\nBlake’s Introduction\n\n\nBlake Underwood\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/cael.html",
-    "href": "studentBlogs/cael.html",
-    "title": "Cael Leistikow",
+    "objectID": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
+    "href": "studentBlogs/cael/student-introductions/Cael_Introduction.html",
+    "title": "Cael’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nCael’s Introduction\n\n\nCael Leistikow\n\n\n\n\n\nNo matching items"
+    "text": "Hello, My name is Cael Leistikow\n\nWhere are you from?\nI grew up in Frederika, Iowa which is about 30 minutes north of Waterloo and I attended New Hampton High School.\n\n\nWhat’s your current academic year?\nI am currently a Senior at Iowa State going into my fourth year with intentions of graduating next Spring.\n\n\nWhat degrees are you studying?\nI am majoring in Data science with a minor in Economics\n\n\nWhy did you choose your degrees?\nI chose these degree because I had always been fascinated by statistics, especially sports statistics, and as I went through high school I began to grow an interest in programming as well and when I discovered that Iowa State offered a degree that was a mixture of the two, I knew that it was what I wanted to pursue.\n\n\nWhat are your plans with your degree(s)?\nMy plans for after college is to use my degrees as a Data Analyst or Data Scientist within the business sector and having my Economics degree as well to be able to apply my knowledge towards making informative business decisions. After a few years I would consider to go for my dream job of working as a sports data analyst for a professional US sports team, preferably in baseball or football.\n\n\nWhy do you care about data science?\nI care about data science cause I firmly believe that it is the future towards optimizing and maximizing everything that we do in society. Everything that we do can be put into data and being able to understand how to work with and interpret that data is very valuable. Although it comes with a lot of power that can be manipulated if the owner so desires.\n\n\n\nDo you have any prior experience with data science?\nI have taken numerous data science courses here at Iowa State. I have had an internship with Kingland Systems as a Data Research Analyst. Finally, I have been a Statistician when I was playing under levels of athletics for the varsity team in high school.\n\n\nWhat kinds of extracurricular activities/hobbies do you care about?\nMy extracurricular activities are the Sports Analytics Club, Data Science Club, and Intramural sports.\nMy favorite hobbies are playing basketball, watching sports and going to games, hanging out with friends, listening to music, cooking, and travel.\n\n\nWhat do you want your peers to know about you?\n\nAn interesting fact about me is I have visited 24 of the 50 states as well as DC and Canada. Obviously I like to travel. My favorite trip being to Colorado. Additionally, my most desired place to travel next would be Hawaii as I haven’t gone outside on the intercontinental US or Canada.\n\n\nList some skills in data science that you feel you do well?\nI feel I do very well in data visualization, statistical analysis, machine learning/modeling, R programming as it is my more preferred programming language, and finally SQL and database management.\n\n\nList at least three skills you would like to learn or develop during the DSPG program.\nI would like to develop during the DSPG program is AI development as AI is going to continue to integrated itself in everyday life. Another skill I would like to learn is GIS as I have seen a lot of employers looking for candidates who are able to effectively use GIS. Finally, the last thing I would like to learn is how the data science process works in a real-world scenario that I could then apply in the future.\n\n\nWhy are you pursuing these skills? Why do they matter to you?\nThe reason I’m pursuing these skills and why the matter to me is because I want to be able to put myself in the best position I can for when I’m beginning to look for my full-time career. Being a senior this coming year I need to refine and learn any skills that I can to help me stand out as a candidate to make sure I position myself for the job I want and to have a successful life.\n\n\nHow do you hope to improve these skills?\nI hope to learn and improve these skills through Datacamp as a tutorial for GIS or AI to help create a foundational understanding and then from there apply it to the projects to help use this knowledge on a real-world issue. Additionally, learning from the project leaders and the lunch talks during the program will help me see from other people’s perspective and ask questions to grow my understanding further."
   },
   {
-    "objectID": "studentBlogs/harun.html",
-    "href": "studentBlogs/harun.html",
-    "title": "Harun Celik",
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html",
+    "title": "Harun’s Introduction",
     "section": "",
-    "text": "Harun’s Introduction\n\n\n\n\n\n\nIntroduction\n\n\n\n\n\n\n\n\n\nMay 12, 2024\n\n\nHarun Celik\n\n\n\n\n\n\nNo matching items"
+    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
   },
   {
-    "objectID": "studentBlogs/joseph.html",
-    "href": "studentBlogs/joseph.html",
-    "title": "Joseph Betti",
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#about-me",
+    "title": "Harun’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nJoseph’s Introduction\n\n\nJoseph Betti\n\n\n\n\n\nNo matching items"
+    "text": "My name is Harun Celik and I am an international student from Turkey getting my PhD Degree in History. History and data science might seem like polar opposites to a lot of people but for me, the disciplines not only intersect at interesting places, but compliment each other well. I find that historians are particularly good at viewing phenomena from multiple perspectives, and data scientists are particularly good at presenting data from different vantage points. These things are certainly similar but not the same.\n\n\n\nA Very Descriptive Venn Diagram\n\n\nI’m doing my PhD because I like to experiment. In particular, I care about experimenting with interdisciplinary methodologies to help approach questions in social disciplines by providing a different angle than what’s traditionally taken. I am pursuing my degree as a way to learn about the different ways that I can approach subjects I care deeply about. These include…\n\nDeveloping pedagogy around The Use of Technology in the Social Sciences.\nUsing Research to Develop Programs that Practice Experiential Learning.\nExperimenting with Data Science and Spatial Technology on Historical Data.\nReading about the Historical Development of Our Contemporary Urban Landscape."
   },
   {
-    "objectID": "studentBlogs/karthik.html",
-    "href": "studentBlogs/karthik.html",
-    "title": "Karthik Hanumanthaiah",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 17, 2024\n\n\nKarthik’s Introduction\n\n\nKarthik Hanumanthaiah\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-experience",
+    "title": "Harun’s Introduction",
+    "section": "My DSPG Experience",
+    "text": "My DSPG Experience\nAs an additional degree, I’ve completed the Graduate GIS Certificate Program at ISU and sought for ways to practice these skills on projects that had some public influence. This is how I stumbled across the DSPG program and applied to be a graduate fellow for summer of 2022. I enjoyed the experience so much that I wanted to rejoin the following summer in 2023 with a couple of additional responsibilities. After sharing my ideas with the Community and Economic Development Extension team, I was lucky to get an assistantship that focused on improving the DSPG program with the responses we’ve received from past participants through our surveys.\nI really enjoy the DSPG program for a multitude of reasons, but here a couple of my favorites.\n\nThe program supports communal and personal learning.\n\nParticipants to the program come from varying levels of education, from first year students to PhD candidates. This usually means that everyone comes in at different skill levels and uses that to either develop the skills that they already know or learn new ones.\n\nProjects are quite varied in their goals and flexible for hands-on learning\n\nDifferent clients expect different results and for a lot of the projects, it is the exploration conducted by students that shapes the final deliverable of the projects.\n\nThe program address real questions by clients interested in learning from data.\n\nThe DSPG projects address complex and real questions about the social world making the application of data science skills extremely practical for real-world scenarios."
   },
   {
-    "objectID": "studentBlogs/lily.html",
-    "href": "studentBlogs/lily.html",
-    "title": "Lily Christenson",
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#my-dspg-expectations-this-year",
+    "title": "Harun’s Introduction",
+    "section": "My DSPG Expectations This Year",
+    "text": "My DSPG Expectations This Year\nBeing the coordinator of the program for the first time, my main objectives are to make sure that the DSPG experience is enjoyable and informative for everyone involved. I have yet to solidify all my thoughts but here is a mindmap of what I expect will be my top three goals for this summer.\n\n\n\nMindmap of Harun’s DSPG Objectives"
+  },
+  {
+    "objectID": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
+    "href": "studentBlogs/harun/student-introductions/harun_Introduction.html#fun-fact",
+    "title": "Harun’s Introduction",
+    "section": "Fun Fact",
+    "text": "Fun Fact\nI play the bass guitar and I love to explore different genres of music, especially ones where the bass guitar has a prominent or unique role. I’d be happy to take any recommendations if you have any favorite albums or songs.\nLately I’ve been listening to Lugares Comunes by Inti-Illimari."
+  },
+  {
+    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
+    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#personal-background",
+    "title": "Joseph’s Introduction",
+    "section": "Personal Background",
+    "text": "Personal Background\n\nI am from Owatonna, Minnesota\nI am majoring in landscape architecture\nI am a senior\nI enjoy going on hikes\nI play guitar and bass\nI enjoy making art\nI make music and movies\n\n\nThe image to the right is a movie poster I made my Freshman year."
+  },
+  {
+    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
+    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#goals-and-objectives",
+    "title": "Joseph’s Introduction",
+    "section": "Goals and Objectives",
+    "text": "Goals and Objectives\nAs a designer, it is important to understand the effects that our designs have on society and the environment. An important tool for analyzing the effects we have on the world is data science. As a young scholar at DSPG, I aim to improve my GIS skills and gain new analytic tools. I don’t have much experience with data science, but I am excited to learn more.\n\nObjectives for the Summer\n\nImprove at GIS\nLearn more about statistics\nLearn how to program (R, Python, SQL, etc.)\nLearn how to apply data science as a Landscape Architect\nGain real-world experience\n\n\n\n\n\nCareer Objectives\n\nWork as a landscape architect\nImprove the sustainability of landscapes\nProduce Equitable and accessible designs\nDesign with the community in mind\nImprove my understanding of social issues\nLearn new perspectives about art and design\n\n\nThe image to the right is a set of maps by Ian McHarg, one of the first landscape architects to use data in decision-making."
+  },
+  {
+    "objectID": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
+    "href": "studentBlogs/joseph/student-introductions/Betti_Introduction.html#strengths-and-areas-of-improvement",
+    "title": "Joseph’s Introduction",
+    "section": "Strengths and Areas of Improvement",
+    "text": "Strengths and Areas of Improvement\n\nStrengths\n\nCreativity\nCuriosity\nCompetence in ArcGIS Pro\nFast learner\nCritical Thinking Skills\nDesign-oriented\n\n\n\nAreas of Improvement\n\nProgramming\nGathering data\nAnalyzing data\nStatistics\nGIS\nand much, much more!"
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html",
+    "title": "Karthik’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nLily’s Introduction\n\n\nLily Christenson\n\n\n\n\n\nNo matching items"
+    "text": "I’m from India and I’m currently pursuing my Master’s in Department of Computer Science, My research work is on Formal Verification & Machine Learning."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#my-work",
+    "title": "Karthik’s Introduction",
+    "section": "My Work",
+    "text": "My Work\nIf you have some thoughts on how to verify some unknown mathematical function that works correctly, I would be happy to share my thoughts. If you sometimes wonder how to hack into a Machine learning model, I can also add something to it."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#whats-up-with-dspg",
+    "title": "Karthik’s Introduction",
+    "section": "What’s up with DSPG?",
+    "text": "What’s up with DSPG?\nI like solving problems, so far data science has a lot of open problems and I see potential in data science solving a lot of real-world problems. I have designed software applications in the past, but this time with DSPG I’m planning to gain some insights into designing mathematical models for the data."
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#hobby",
+    "title": "Karthik’s Introduction",
+    "section": "Hobby",
+    "text": "Hobby"
+  },
+  {
+    "objectID": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
+    "href": "studentBlogs/karthik/student-introductions/Karthik.html#fun-facts",
+    "title": "Karthik’s Introduction",
+    "section": "Fun Facts",
+    "text": "Fun Facts\nRecently I got to know (credits to Tabassum), the word “karthik” closely relates to “Season & Farming” and I love Farming, Fun stuff!"
   },
   {
     "objectID": "studentBlogs/manjul.html",
@@ -1043,24 +959,227 @@
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nNeha’s Introduction\n\n\nNeha Tirunagiri\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "studentBlogs/nhat.html",
-    "href": "studentBlogs/nhat.html",
-    "title": "Nhat Le",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 16, 2024\n\n\nNhat’s Introduction\n\n\nNhat Le\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#majors",
+    "title": "Nhat’s Introduction",
+    "section": "Majors",
+    "text": "Majors\nA first-year student in the Iowa State honors program, struggling with a triple major in computer science, data science and applied mathematics. :("
   },
   {
-    "objectID": "studentBlogs/solomon.html",
-    "href": "studentBlogs/solomon.html",
-    "title": "Solomon Eshun",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nSolomon’s Introduction\n\n\nSolomon Eshun\n\n\n\n\n\nNo matching items"
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#data-science-with-me",
+    "title": "Nhat’s Introduction",
+    "section": "Data Science with Me",
+    "text": "Data Science with Me\nWhy data science? Imagine a world where every second brings new data and endless opportunities to uncover hidden patterns. Sounds like a interesting version of a treasure hunt, right? That means, becoming a data scientist guarantees that I’ll never run out of puzzles to solve, and let’s face it, puzzles are way more fun than Sudoku."
   },
   {
-    "objectID": "studentBlogs/tabassum.html",
-    "href": "studentBlogs/tabassum.html",
-    "title": "Tabassum Zaman",
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#prior-experience",
+    "title": "Nhat’s Introduction",
+    "section": "Prior Experience?",
+    "text": "Prior Experience?\nMy passion for mathematics and logical challenges naturally drew me to the fascinating world of AI and data science. I don’t have much coding experience regarding these two areas, but I strongly believe my statistical and mathematical foundation is a great plus during my journey."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#hobbies",
+    "title": "Nhat’s Introduction",
+    "section": "Hobbies",
+    "text": "Hobbies\nOutside of my academic endeavors, I enjoy participating in mathematics competitions (because who doesn’t love a good brain workout?), developing software projects, and staying up-to-date with the latest tech trends. I also have a passion for leadership and community involvement, which has seen me take on various extracurricular activities.\n\n\n\n\nGertrude Herr Adamson Award ($1,000)\n\n\n\n\n\n\n\n\nIowa Collegiate Math Competition (1st Place)"
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#academic-and-professional-goals",
+    "title": "Nhat’s Introduction",
+    "section": "Academic and Professional Goals",
+    "text": "Academic and Professional Goals\nI’m on a quest to climb the academic ladder, aiming for a Ph.D. degree after graduating. My current mission is to absorb as many advanced courses as possible and utilize online platforms like Coursera to build a robust foundation in machine learning. Also, I want to join a research, where I can leverage my skills to prepare for an intensive study in machine learning."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#skills-and-development",
+    "title": "Nhat’s Introduction",
+    "section": "Skills and Development",
+    "text": "Skills and Development\n\nValued Skills\n\nAnalytical thinking and problem-solving (a.k.a. being a data detective)\nProficiency in programming languages like Python\nStrong foundation in mathematical concepts and their applications (because math is the language of the universe, and who doesn’t want to speak universe?)\n\n\n\nSkills to Develop\n\nData exploration and visualization (turning data into beautiful, insightful art)\nData cleaning (because even data needs a good scrub sometimes)\nData processing (preparing data for the ultimate transformation)\nBasics of AI and machine learning knowledge (unlocking the secrets of smart machines) \n\n\n\nPursuing These Skills\nThese skills are essential to be well-prepared for future internships and professional jobs. Mastering them will allow me to tackle complex problems, effectively communicate insights, and stay competitive in the rapidly evolving field of data science."
+  },
+  {
+    "objectID": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
+    "href": "studentBlogs/nhat/student-introductions/Nhat_Introduction.html#interesting-fact",
+    "title": "Nhat’s Introduction",
+    "section": "Interesting Fact",
+    "text": "Interesting Fact\nAn interesting fact about me is that I thrive on challenges and enjoy stepping out of my comfort zone. My background and experiences have shaped my academic journey and fueled my passion for machine learning and data science. I look forward to sharing my knowledge and learning from my peers at Iowa State.\nP.S. If you ever need a teammate for any development projects, I’m your person. Just bring some coffee."
+  },
+  {
+    "objectID": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
+    "href": "studentBlogs/solomon/student-introductions/Solomon_Introduction.html",
+    "title": "Solomon’s Introduction",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nMay 17, 2024\n\n\nTabassum’s Introduction\n\n\nTabassum Zaman\n\n\n\n\n\nNo matching items"
+    "text": "Hi! My name is Solomon Eshun. You can call me Solomon (he/him/his). I am from Ghana, West Africa, and I’m pursuing a PhD in Applied Mathematics at Iowa State University (as of Spring 2024).\n\nResearch Interests\n\nCausal Inference\nInfectious Disease\nData Integration\n\n\n\nEducation\n\nPhD Applied Mathematics, Iowa State University (08/2023 - 05/2024)\nMSc Applied Stats. & Data Science, University of Texas Rio Grande Valley (UTRGV) (08/2021 - 05/2023)\nBSc Mathematics, University of Mines and Technology (UMaT), Ghana (09/2016 - 08/2020)\n\n\n\nExperience\n\nGraduate Fellow, Data Science for the Public Good, Iowa State (05/2024 - Present)\nGraduate Teaching Assistant, Department of Mathematics, Iowa State (08/2023 - 05/2023)\nSustainability Research Fellow, Office for Sustainability, UTRGV (08/2022 - 05/2023)\nGraduate Teaching Assistant, School of Math. & Stats. Sciences, UTRGV (08/2021 - 05/2023)\nComputational Science Intern, Los Alamos National Lab, Los Alamos NM (05 - 08/2022)\nTeaching Assistant, Department of Mathematical Sciences, UMaT (09/2020 - 08/2021)\nData Production Intern, Ghana Statistical Service, Accra (05 - 08/2019)\n\n\n\nSomething interesting about myself, and what I hope to learn\nI take pride in my strong analytical and computational skills, tenacity, and dedication to continuous improvement. As I embark on the DSPG program, I seek to improve my leadership and mentoring capabilities, alongside acquiring new technical expertise. An important goal for me is to refine my communication skills to effectively convey data-driven insights to non-technical stakeholders. Additionally, I aim to master the management and extraction of value from extensive real-world datasets, leveraging these skills to make impactful decisions and contributions.\nIn my leisure time, I enjoy listening to music, watching soccer games and playing video games.\n\n\nWhy I Care about Data Science\nI remember the moment I became interested in advanced research in Data Science. It was during my master’s research, where I evaluated the effect of sodium-glucose co-transporter-2 (SGLT2) inhibitors on chronic kidney disease (CKD). I used propensity score matching to address differences in patient characteristics that might influence SGLT2 prescription. Additionally, I utilized machine learning models to predict CKD cases. Since the dataset was imbalanced, I applied balanced bagging with bootstrapping and synthetic minority oversampling to balance the distribution of CKD and non-CKD cases in the training data. This aimed to facilitate improved learning on the training dataset and enhance predictions on the testing data. The analysis revealed that individuals taking SGLT2 had fewer CKD cases than those who did not, highlighting the protective effect of SGLT2 on CKD. This shows the potential of statistics and data science in extracting meaningful insights from healthcare data.\nHowever, amidst this revelation, a significant issue surfaced - the absence of reliable data for marginalized populations, resulting in disproportionately worse health outcomes. Since then, my focus evolved from merely using models to make predictions to understanding the “why” and “what-if” behind those predictions. I realized that relying solely on supervised models was insufficient for this purpose, prompting me to develop methods that could integrate machine learning and causal approaches to address and explain predictions in imbalanced datasets.\n\n\n\nFigure Reference (Causality for Machine Learning)\n\n\nAs a consequence, I aim to leverage machine learning with causal methods to understand the influence of policies and interventions on diseases outcomes across various data sources. I seek to move from prediction-based models to learning independent causal models in areas like transfer and meta-learning. This approach will aid in integrating diverse healthcare datasets, often compounded by heterogeneous patient characteristics and medical protocols, ensuring the generalizability of my findings against external datasets. Additionally, I aim to create models capable of scaling up datasets to better reflect the diversity of the population. My goal is to enhance model interpretability through counterfactual reasoning and mitigate algorithmic biases for fair and equitable outcomes, ensuring the reliability of healthcare research across different demographics."
+  },
+  {
+    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
+    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html",
+    "title": "Tabassum’s Introduction",
+    "section": "",
+    "text": "This is my favorite part THE INTRODUCTION. The ‘Why’ of this will answer my commitment for DSPG program and gratitude to be able to spend my summer with you all bright minds.\nOn the first day, while we were having this little personality test for grouping in My Creative Type I got THE ADVENTURER"
+  },
+  {
+    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
+    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#my-identity",
+    "title": "Tabassum’s Introduction",
+    "section": "My identity",
+    "text": "My identity\n\nCountry\nI, Tabassum Zaman, come from a Southasian country named “Bangladesh”. Which has got some amazing stories to tell people about itself to tell the world. But I will keep it short today to be focused on the objective of this blog.\n\n\n\n\nBangladesh with its surrounding countries\n\n\n\n\n\nA view of Dhaka city (capital of Bangladesh)\n\n\n\n\n\nAcamedics\nDepartment: Community and Regional Planning\nProgram: Masters\nInstitution: Iowa State University\nI completed my undergrad in ‘Urban and Regional Planning’ from my dream university in Bangladesh which was ‘BUET [Bangladesh University of Engineering and Technology]’. I have been always interested in the Transportation problem surrounding me, may be because that’s all I saw. But with time as I am exploring more, I am finding my new interested areas in spatial problems like, housing, accessibility. I am hoping to be focused down in a very near future, as I finished up my semester of masters program this Spring 2024.\n\n\n\nMy Undergrad Convocation from BUET in Urban and Regional Planning\n\n\n\n\nWhat got me into Data Science\nAfter completing my undergrad I had the opportunity to work in the real world for more than a couple of years, in transportation, health care and commodity industry back home. There I got to know the power of data and story telling. You can influence decision through your stories but it has to be backed by data and presented in a comprehensible format and your one little presentation can really changes lives. I can go on giving a number of examples to show how it has motivated me, but I will stop here, and keep my Focus.\nSo, my encounter of Data Science is through excel (you can do a lot of stuff there too) and for spatial one if through GIS (Geographic Information System). I know some basics of SQL, R, Python, but not enough to score good in quiz. But I am betting on my time here and the aim is to have the most productive time this summer 2024 and see the result after 10 weeks. I will come back to share the updates!\n\n\nMy Leisure\nI do not really have any particular talents apart from the academics one, but apart from sleep and watching tv, I love a good conversation of getting to know new people, good food, some cooking, travelling, a little bit of gardening and reading fictions. Pretty ordinary things!"
+  },
+  {
+    "objectID": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
+    "href": "studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html#never-stop-learning",
+    "title": "Tabassum’s Introduction",
+    "section": "“NEVER STOP LEARNING”",
+    "text": "“NEVER STOP LEARNING”"
+  },
+  {
+    "objectID": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
+    "href": "studentBlogs/neha/student-introductions/Neha_Introduction.html",
+    "title": "Neha’s Introduction",
+    "section": "",
+    "text": "Personal Introduction\n\nOrigin: I am from Andhra Pradesh, India.\nAcademic Year: I will be junior in the coming fall semester.\nDegree Pursuits: I am majoring in Computer Science and minoring in Data Science. My interest in these fields was sparked by an inspiring Computer Science professor during my high school years.\nCareer Aspirations: I aim to become a software developer at a FANG company, leveraging my degrees to build a solid foundation in technology.\nInterest in Data Science: Data science fascinates me because of its power to solve complex problems and its potential to drive innovation across various industries.\nData Science Experience: I have basic knowledge in data science, familiar with tools like R and Pandas, though I am still in the early stages of my data science education.\nHobbies and Extracurricular Activities: My free time is often spent playing badminton and cricket with friends. I am also an active participant in dance programs organized by the Indian Student Association (ISA).\n\n \n\n\nPersonal Learning Objectives for DSPG\n\nValued Skills: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.\nSkills to Develop:\n\nReal-world problem-solving: Learning to navigate and address complex real-world challenges.\nClient requirement fulfillment: Understanding and meeting client expectations effectively.\nIndustry readiness: Preparing myself to seamlessly transition into a professional environment.\n\nMotivation for These Skills: These skills are essential for me to have a successful career in software development, especially in a competitive and dynamic field like tech industry.\nImprovement Strategy: To enhance these skills, I plan to engage deeply with in my project at DSPG, ensuring I have a clear understanding of the underlying principles and actively seeking feedback to refine my approach."
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html",
+    "href": "blogs2024/welcome/index.html",
+    "title": "Blog Writing Guidelines",
+    "section": "",
+    "text": "Welcome to the DSPG Quarto blog. This post will be a demonstration of some of the capabilities of a quarto doc and some basics of dos and don’ts as you’re writing your own blogs throughout the DSPG program."
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html#rmarkdown-and-quarto-markdown",
+    "href": "blogs2024/welcome/index.html#rmarkdown-and-quarto-markdown",
+    "title": "Blog Writing Guidelines",
+    "section": "RMarkdown and Quarto Markdown",
+    "text": "RMarkdown and Quarto Markdown\nThese blogs are generated using Quarto Markdown (.qmd). Markdown is a special type of text format that is both legible with and without its rendering. Quarto Markdown follows the syntax of basic Markdown and has some additional features for use as well. The Markdown Basics guide on the Quarto page will be a great resource to view how you can format your texts."
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html#yaml-headers",
+    "href": "blogs2024/welcome/index.html#yaml-headers",
+    "title": "Blog Writing Guidelines",
+    "section": "Yaml Headers",
+    "text": "Yaml Headers\nEach blog has its own yaml style metadata section at the top of the file. This one has a metadata section that looks something like this in the source code.\n---\ntitle: \"Blog Writing Guidelines\"  # The title of your post\nauthor: \"Harun Celik\"             # The author associated with the blog post\ndate: \"2024-05-05\"                # The date in Year-Month-Day format\ncategories: [blog tutorial]       # The categories associated with the blog\n---\nThere are additional options for the yaml that you can check out through the Quarto documentation page."
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html#linking-pages-and-images",
+    "href": "blogs2024/welcome/index.html#linking-pages-and-images",
+    "title": "Blog Writing Guidelines",
+    "section": "Linking Pages and Images",
+    "text": "Linking Pages and Images\nYou can link items in your files by using the following syntax [Text of Link](Link Reference - URL). Referencing also works for adding images into your blogs. The syntax is very similar, but requires an ! in the front. So an example would be ![Stock Photo of a Data Cat](imgs/Data_Cat.png)\n\n\n\nStock Photo of a Data Cat\n\n\nSince this post doesn’t specify an explicit image in the yaml, the first image in the post will be used as the thumbnail of the post. A couple of things to remember with linking images.\n\nPlace your images in the imgs directory. This helps prevent clutter and makes it easier to find the files.\nName your images explicitly. Don’t call them \"image_1.jpg\" but instead something like \"age_scatterplot_1\".\nDon’t save file names with any spaces. Add an _ or use camelCaseNaming. Spaces will prevent the blog from properly rendering!\nMake sure you follow copyright guidelines on images. Don’t add images you would not be permitted to share in any professional environment."
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html#running-code",
+    "href": "blogs2024/welcome/index.html#running-code",
+    "title": "Blog Writing Guidelines",
+    "section": "Running Code",
+    "text": "Running Code\n\nCode Chunks\nOne of the coolest features of the Quarto blogs is the ability to integrate code chunks and have them render. Let’s check out how this works. Here is an example of what a code chunk looks like in the source code.\n\nprint(\"I would like for this text to print.\")\n\n[1] \"I would like for this text to print.\"\n\n\nUsing different markdown arguments, we can customize our code chunks to prevent them from running, displaying, or rendering messages. You can check out some of those options through the R Markdown Reference Guide.\nSome useful ones are below.\neval=TRUE      # If FALSE, knitr will not run the code in the code chunk.\ninclude=TRUE   # If FALSE, knitr will run the chunk but not include the chunk in the final document.\necho=TRUE      # If FALSE, knitr will not display the code in the code chunk above it’s results in the final document.\nmessage=TRUE   # If FALSE, knitr will not display any messages generated by the code.\nwarning=TRUE   # If FALSE, knitr will not display any warning messages generated by the code\n\n\nUsing Data\nMost of the time, you’ll want to run some code that generates a table or a visual of your data. To do this, quarto will need a local reference to your data and that’s why your blogs also come with a directory labelled data\\. If you are working within R, it is advisable to use the .RDS format for saving any data you want to use for displaying code. Let’s look at an example.\n\n# Let's create a data frame to use\n\n## Generate pay grades as factors\nGrades &lt;- c(\"Grade A\", \"Grade B\", \"Grade C\", \"Grade D\", \"Grade E\")\nGrades_Factor &lt;- factor(Grades, levels = c(\"Grade A\", \"Grade B\", \"Grade C\", \"Grade D\", \"Grade E\"))\n\n# Create randomized vectors of size 50\nGender &lt;- sample(x = c(\"Woman\", \"Man\", \"Transgender\", \"Non-binary/non-conforming\", \"Prefer not to respond\"), size=50, replace = TRUE)\nID &lt;- sample(x = 1000:3000, size=50)\nPay &lt;- sample(x = Grades_Factor, size=50, replace=TRUE)\n\n# Create data frame\ndf &lt;- data.frame(Gender, ID, Pay)\n\nIn our example here we’ve created the data in our blog environment, but often this will not be the case. We are going to pretend that our data is stored in the data directory. We will first save the data we created.\n\n# Saving our dataset\nsaveRDS(df, file = \"data/PayData.RDS\")\n\nNow we can load it in as Pay_DF.\n\nPay_DF &lt;- readRDS(\"data/PayData.RDS\")\n\nLet’s write some code with ggplot2 to create a visual.\n\nlibrary(ggplot2)\n\npay_colors &lt;- c(\"Grade A\" = \"#1f78b4\", \"Grade B\" = \"#33a02c\", \"Grade C\" = \"#e31a1c\", \"Grade D\" = \"#ff7f00\", \"Grade E\" = \"#6a3d9a\")\n\nggplot(Pay_DF, aes(x = Gender, fill = Pay)) +\n  geom_bar() +\n  labs(x = \"Gender\", y = \"Count\", title = \"Distribution of Pay Grades Across Genders\") +\n  scale_fill_manual(values = pay_colors) +\n  theme_minimal() +\n  coord_flip()\n\n\n\n\n\n\n\n\n\n\nData Guidelines\nHere are some important things to consider when you’re using data sets in your blogs.\n\nVERY IMPORTANT: All data saved in the data directory is publicly visible. Don’t share data that is private into your blogs.\nBe mindful of the size of your data. The larger the data, the longer it will take to render. GitHub also limits commit sizes so keep this in mind."
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html#using-other-languages",
+    "href": "blogs2024/welcome/index.html#using-other-languages",
+    "title": "Blog Writing Guidelines",
+    "section": "Using Other Languages",
+    "text": "Using Other Languages\nThe last thing we will look at is displaying code for languages other than R. RMarkdown files have the ability to change the rendering engine so that other languages can also be used. To run Python, you will have to have the reticulate library installed and configured. When you’ve created a code chunk, you will want to switch the section that is typically in the form of {r} to {python} or whatever other supported language you wish to use.\nHere is a Python code block.\n\nimport platform\n\nprint(\"This code is run using python version\", platform.python_version())\n\nThis code is run using python version 3.9.18"
+  },
+  {
+    "objectID": "blogs2024/welcome/index.html#resources",
+    "href": "blogs2024/welcome/index.html#resources",
+    "title": "Blog Writing Guidelines",
+    "section": "Resources",
+    "text": "Resources\n\nQuarto Tutorials\nQuarto Websites/Blogs\nQuarto Markdown Reference Guide\nRMarkdown Reference Guide"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html",
+    "title": "Housing and AI Week One",
+    "section": "",
+    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#datacamp",
+    "title": "Housing and AI Week One",
+    "section": "",
+    "text": "DataCamp has been an incredible platform for acquiring new skills. Recently, we’ve made significant progress in learning about image processing and deep learning using Python and PyTorch—areas we were eager to explore.\nIn the Image Processing Chapter, I’ve delved into several powerful techniques:\n\nGlobal Thresholding\nEdge Detection\nTransformations\nImage Restoration\nSuperpixel & Segmentation\nFinding Contours\nMorphology, etc\n\nTurning to PyTorch, I’ve really broadened my set of practical skills in:\n\nCreating tensors from Numpy arrays\nThe Sigmoid and Softmax functions\nCalculating cross entropy loss\nUsing the MSELoss\nImplementing leaky Relu\nCalculating accuracy using Torchmetrics\nBuilding a forecasting RNN\nLSTM and GRU network, and lot more!\n\nOur learning experience with DataCamp has been incredibly rewarding, giving us the chance to deepening our understanding of the technologies."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#image-processing-activity",
+    "title": "Housing and AI Week One",
+    "section": "Image-Processing Activity:",
+    "text": "Image-Processing Activity:\nBased on our Data Camp Training our Graduate lead Karthik has assigned us a Image Processing activity to work with.\nWe were given an image of a Waterloo Sanborn map to experiment with the image processing techniques we’ve learned.\n\nInitially, we converted the original RGB image into a gray-scale image. Subsequently, we applied various techniques that I learned during the Data Camp sessions. For instance, we implemented Sobel edge detection to highlight edges within the image. we also explored morphological operations to produce an eroded version of the image, which helps in understanding structural elements. Additionally, we generated a gray-scale histogram to analyze the intensity distribution and applied a global threshold to segment the image based on intensity values.\nEdge Detection:\n\nContour and Object Extracted:\n\n\nWe have provided the github link to Image-Processing Activity : https://github.com/NehaTiru/Image_Processing/blob/main/Untitled2.ipynb"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
+    "href": "blogs2024/Team_Blog_One/weekly-blog-one-housing-ai/Weekly_Team_Blog.html#data-exploration",
+    "title": "Housing and AI Week One",
+    "section": "Data Exploration",
+    "text": "Data Exploration\nFor our project we started by trying to find how small of data we could go for population data in terms of density, senior citizens, and income bracket. The idea is we want to be gather data at the smallest level we can with hopes of going down to the household level if possible. To do this we looked at two communities of varying sizes to see what level of data is available, Des Moines and Clear Lake.\nStarting with population density this week, we started off at the city level using Census data from the ACS-5 year (2022) to make sure data was available and the results are displayed in the graph below.\n\nSource: US Census ACS-5 (2022)\nFrom there we moved on to see if data was available at the block group and block level, which data was found for population but coming up with density would be a bit time intensive especially in Des Moines. Below is the population density of the block groups in Clear Lake as well as the block layout of Des Moines in which the process of getting population density would be similar yet time consuming.\nClear Lake Block Group Population Density\n Source: US Census ACS-5 (2022)\nDes Moines Block Population\n Source: Us Census 2020 Decennial Data\n\n\n#|echo = FALSE\npopulation_elderly2 &lt;- readRDS(file = \"Data/populationElderly2.RDS\")\n\n\nMoving forward we could look into remote sensing as a possibility to get even smaller data using machine learning. Similar to research that was done at the Nanjing University of Information Science and Technology for finding population density in Beijing City.\nFor More Information: https://www.mdpi.com/2072-4292/12/12/1910\n\nSources:\n\nThe demographic statistical atlas of the united states—Statistical atlas. (n.d.). Retrieved May 31, 2024, from https://statisticalatlas.com/place/Iowa/Des-Moines/Population\nHe, M., Xu, Y., & Li, N. (2020). Population spatialization in beijing city based on machine learning and multisource remote sensing data. Remote Sensing, 12(12), 1910. https://doi.org/10.3390/rs12121910\nGrid view: Table b09020—Census reporter. Retrieved May 31, 2024, from https://censusreporter.org/data/table/?table=B09020&geo_ids=16000US1921000,150%7C16000US1921000&primary_geo_id=16000US1921000#valueType%7Cestimate\nCensus tabulation detail: Total Population. Census Reporter. Retrieved May 31, 2024, from https://censusreporter.org/tables/B01003/"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html",
+    "title": "Housing and AI Week Three",
+    "section": "",
+    "text": "At the start of this week we were able to get a better dataset for the residential parcels in Polk county that does a better job of depicting which parcels actually contain housing units and how many units there actually are. It also helps divide the types of builds better ranging from single-family homes to apartments to nursing homes.\n\n\n\n\n\n\n\n\n\n\nHomes\n\n\n\n\n\n\n\nCondos\n\n\n\n\n\nThe other major project we are focusing on is parcel extraction/segmentation using the Prithvi model. The idea is that Prithvi is an object identification model that was trained on NASA’s satellite HSL data and then uses that to segment various objects. The good thing is that the “backbone” of this model can be downloaded and is pretrained. What we need to do is create a head and neck that can take our images and data that we have been gathering and then embed the image so it can be fed into the model and then turn it into a segmented mask that we can overlay on top of our images with the predicted parcels. This is so we can get around having to get every county’s assessor data and being able to apply it also for places that lack parcel level data.\nSome work that has been done that we can base our model on comes in regards to flood detection on a satellite image."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#tax-parcel-and-model-extractionsegmentation",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#tax-parcel-and-model-extractionsegmentation",
+    "title": "Housing and AI Week Three",
+    "section": "",
+    "text": "At the start of this week we were able to get a better dataset for the residential parcels in Polk county that does a better job of depicting which parcels actually contain housing units and how many units there actually are. It also helps divide the types of builds better ranging from single-family homes to apartments to nursing homes.\n\n\n\n\n\n\n\n\n\n\nHomes\n\n\n\n\n\n\n\nCondos\n\n\n\n\n\nThe other major project we are focusing on is parcel extraction/segmentation using the Prithvi model. The idea is that Prithvi is an object identification model that was trained on NASA’s satellite HSL data and then uses that to segment various objects. The good thing is that the “backbone” of this model can be downloaded and is pretrained. What we need to do is create a head and neck that can take our images and data that we have been gathering and then embed the image so it can be fed into the model and then turn it into a segmented mask that we can overlay on top of our images with the predicted parcels. This is so we can get around having to get every county’s assessor data and being able to apply it also for places that lack parcel level data.\nSome work that has been done that we can base our model on comes in regards to flood detection on a satellite image."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#more-data-visualization-using-leaflet",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#more-data-visualization-using-leaflet",
+    "title": "Housing and AI Week Three",
+    "section": "More Data Visualization using leaflet",
+    "text": "More Data Visualization using leaflet\n\nThis week, I worked more with Leaflet maps and tried different things. First, I made a map using block group level data and it was easy because I got the geojason format data from ACS.\nThen, I tried something harder: making maps for streets and small blocks. For the streets, I got data from HUD and used a tool called “Geocodio” to find their exact locations.\nFor small blocks, I looked at where majority of senior age groups live in Des Moines. I used something called Tiger Line to get the Geographic data, I converted the shp file to csv, and I only looked at Des Moines to keep it simple. Then, I combined all this data and used a tool called GeoPandas to organize it better and turn it into a type of map file called GeoJSON.\nNext week, I want to make one function that does all this work. This means when someone gives it data, it will automatically make a map for them. This will make everything much easier and quicker.\n\n\n\nStreet level map for Low-Income Housing Tax Credit data\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook\n\n\n\n\nSeniors Age Distributation map in Des Moines"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#llamaindex",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#llamaindex",
+    "title": "Housing and AI Week Three",
+    "section": "Llamaindex",
+    "text": "Llamaindex\n\nRouter Query Engine\n\nA custom query engine that select one of the several query engine candidates\n\nStep 1: Get the nodes (chunks of the document) and index them\n\nStep 2: Define query engines, and wrap them around the tools\nStep 3: Object index allows us to use our index data structures over objects, passed in to our agent for tool retrieving during query time\nResults:\n\n\n\nUsing vector query engine\n\n\n\n\n\nUsing summary query engine\n\n\n\n\nQuery Pipeline For Text To Pandas\n\nDealing with structured data (.csv, .xlx, etc)"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#to-be-continued",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#to-be-continued",
+    "title": "Housing and AI Week Three",
+    "section": "To be Continued:",
+    "text": "To be Continued:\n\nApplying Prompt Template (Instruction to be parsed) to be Query Pipeline to make sure the dataframe is correctly formatted\nIntegrate a function calling tool in the query pipeline to call the mapping function which in return will output a map of Iowa to showcase the attributes based on the query of the user"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#sources",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html#sources",
+    "title": "Housing and AI Week Three",
+    "section": "Sources",
+    "text": "Sources\n\nHugging Face Prithvi_100M: Hugging Face Team. (n.d.). IBM-NASA-geospatial/prithvi-100m · hugging face. ibm-nasa-geospatial/Prithvi-100M · Hugging Face. https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M"
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html",
+    "title": "Community Capitals Week Three",
+    "section": "",
+    "text": "This week we continued our work in the Community Capitals project and we are specifically still looking into the social and cultural capital measurements and datasets. Our goal this week was to transform raw datasets we collected for the measurements we came up with and transformed them so that we can use it as one of our indicators in the final data visualization web app. We then also looked at couple of other datasets that were already finalized by Solomon and we try to do some data exploratory and visualizations with them."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html#week-goals",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html#week-goals",
+    "title": "Community Capitals Week Three",
+    "section": "",
+    "text": "This week we continued our work in the Community Capitals project and we are specifically still looking into the social and cultural capital measurements and datasets. Our goal this week was to transform raw datasets we collected for the measurements we came up with and transformed them so that we can use it as one of our indicators in the final data visualization web app. We then also looked at couple of other datasets that were already finalized by Solomon and we try to do some data exploratory and visualizations with them."
+  },
+  {
+    "objectID": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html#social-and-cultural-capital-datasets",
+    "href": "blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html#social-and-cultural-capital-datasets",
+    "title": "Community Capitals Week Three",
+    "section": "Social and Cultural Capital Datasets",
+    "text": "Social and Cultural Capital Datasets\n\nFBI Crime Reports\nWe worked with the FBI Crime Reports dataset which consisted all the crimes reported in the year of 2021 for all offenses. There are a total of fifty different offenses in the dataset, but we primarily focused on four which were classified as the most violent crimes:\n\nMurder: 11(Non-negligent)\nForcible Rape: 20\nRobbery: 30\nAggravated Assault: 40\n\nWe believed that these four in particular could be a strong measure for social capital. High rates of such crimes might indicate low levels of social cohesion, trust, and mutual aid among community members, which are key components of social capital.\nThe dataset initially consisted over 78 columns, with a lot of redundant columns but also followed a ‘wide’ format which was very hard to read, especially when trying to see the demographics on who committed the crime.\n\nWe then transformed this from a wide format to a long format, and we kept the total crime count for each offense in each county, as well as the crime count per 10k population. This way we have much less columns, and we can extract important crime information for each offense in each county much easier.\n For most of our datasets, we are trying to follow a format where in each county level dataset we have all the 99 different counties in the ‘COUNTY’ column, this way, it is much easier when merging datasets for our final data visualization.\n\n\n\nSocial Capital Atlas\nAlong with the FBI Crime Reports dataset, we looked into Meta’s Social Capital Atlas dataset, a very cool website that shows the social engagement of a community on their social media platform.\nDifferent measures for social capital in this dataset:\n\nConnectedness: How people with different characteristics and backgrounds are friends with each other, this is a clear example of bridging social capital.\nCohesiveness: The degree to which friendship networks are clustered into cliques and whether friendships tend to be supported by mutual friends. This includes our clustering and support ratio measures.\nCivic Engagement: Indices of trust or participation in civic organizations. This includes our volunteering rate measure.\n\n\nEconomic Connectedness by County\n\nNext week goal: We have the same dataset but by zip code instead and we would like to generate maps for each variable by zip code.\n\n\nIowa Public Library Statistics\nWe looked at the Iowa Public Library Statistics for the fiscal year 2023, July 1, 2022 - Jun 30, 2023. There were 514 Libraries in the dataset and each library was set to a size range. The main sections that we looked at were expenditures, programs and activities, services, and transactions. This will tell us how involved a community is to their public library.\n\n\nProgram and Activities\n\n\n    City  Pop Size Prog1 Attend1 Prog2 Attend2 Prog3 Attend3 Prog4 Attend4 Prog5 Attend5 Prog6 Attend6 Num Programs per 10,000 People Num of Attend per Pop Total Kid Programs Num Kid Programs per 10,000 People Total Kid Programs Attend Num of Kid Programs Attend per 10,000 People\n1 Ackley 1699    C     5      28    46    1106     0       0    68     379    12     441   131    1954                       771.0418             1.1500883                 51                          300.17657                      1134                                     6674.514\n2  Adair  828    B     0       0     5     245     0       0     1      10     6     150    12     405                       144.9275             0.4891304                  5                           60.38647                       245                                     2958.937\n3   Adel 6090    E   143    2638    37     719    33     397   327    1902    35    1635   575    7291                       944.1708             1.1972085                180                          295.56650                      3357                                     5512.315\n4 Agency  463    B     0       0    11      56     0       0    12      40     0       0    23      96                       496.7603             0.2073434                 11                          237.58099                        56                                     1209.503\n5  Akron 1580    C    40     980    32    1353     4      72    55     407    25     878   156    3690                       987.3418             2.3354430                 72                          455.69620                      2333                                    14765.823\n\n\nIn this table we added columns to find out the number of programs and attendance per 10,000 people in each city. We also looked at just the kid programs. In this dataset kids are classified by the age range 0-5 and 6-11.\n\n\nServices\n\n\n    City  Pop Size Visits Visits Per Capita Internet PCs Internet Use Wireless Sessions Website Visits St. Ft. of Building Avg. Weekly Hours Open Visits Per 10,000 People Wireless Sessions Per 10,000 People Website Visits Per 10,000 People\n1 Ackley 1699    C  11000          6.474397            4          520              4183           2203                5300                     42                 64743.97                           24620.365                        12966.451\n2  Adair  828    B   1582          1.910628            2          146               319            290                3200                     13                 19106.28                            3852.657                         3502.415\n3   Adel 6090    E  62001         10.180788            7         1543             11756          22079               18000                     43                101807.88                           19303.777                        36254.516\n4 Agency  463    B   1716          3.706263            4           13               966            612                 357                     43                 37062.63                           20863.931                        13218.143\n5  Akron 1580    C  18342         11.608861            5          802              2076           2747                2412                     43                116088.61                           13139.241                        17386.076\n\n\nIn this table we were interested in the services that a library had for their community. We calculated the visits, wireless sessions, and website visits per 10,000 people.\n\n\n\n2022 General Election Turnout\nIn the General Election Turnout dataset we were given information about election day, absentee, and active voters in Iowa counties.\n\nElection Turnout\n\n\n     County   Pop Election Day Voters Absentee Voters Total Voters Active Voters as of 11/8/2022 % Active Voter Turnout Inactive Voters as of 11/8/2022 % Total Voter Turnout % Total Absentee Voters Total Voters per 10,000 people Active Voters per 10,000 people Election Day Voters per 10,000 people Absentee Voters per 10,000 people\n1     Adair  7479                2249             943         3192                          4707                 0.6781                             719                0.5882               0.2954261                       4267.950                        6293.622                              3007.087                          1260.864\n2     Adams  3680                1142             538         1680                          2446                 0.6868                             378                0.5949               0.3202381                       4565.217                        6646.739                              3103.261                          1461.957\n3 Allamakee 14046                3935            1915         5850                          8423                 0.6945                            1424                0.5940               0.3273504                       4164.887                        5996.725                              2801.509                          1363.377\n4 Appanoose 12279                3416            1319         4735                          7434                 0.6369                            1450                0.5329               0.2785639                       3856.177                        6054.239                              2781.986                          1074.192\n5   Audubon  5651                1746             739         2485                          3691                 0.6732                             529                0.5888               0.2973843                       4397.452                        6531.587                              3089.719                          1307.733\n\n\nIn this table we calculated the total amount of voters per 10,000 people in each county. We also calculated the election day, absentee, and active voters per 10,000 people in each county.\n\n\n\nExploration of Arts, Events, and Race\nWe started to explore the dataset about art, events, and race in Iowa cities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThese two plots show you the relationship between the city population and the Historic Sites that are less than 100.\n\nMap Exploration\n\nThis interactive map shows cities in Iowa with less than 100 historic sites per 10,000 people.\n![](imgs/Public_art_less.html{width=“600” height=“400”}\nThis interactive map shows cities in Iowa with less than 100 public art per 10,000 people.\n\nRace\n\n\n\nAncestry\n\n\n\nArt Sites\n\n\n\nHistoric Sites\n\n\n\nMuseums\n\nThis image shows 100 cities in Iowa with the highest race Simpson Index.\nThese treemaps show 100 cities in Iowa that have the highest Simpson Index race and ancestry, art sites, historic sites, and museums.\n\n\n\n\n3 ACS Datasets\n\nSingle Household Distribution across Cities\nWe started by collecting single household datasets from ACS\n\n\n    GEOID                NAME B11003_010E B11003_010M B11003_016E B11003_016M\n1 1900190   Ackley city, Iowa          10           9          41          28\n2 1900235 Ackworth city, Iowa           0          10           8           8\n3 1900370    Adair city, Iowa           0          10           8           9\n4 1900505     Adel city, Iowa           0          15          61          73\n5 1900595    Afton city, Iowa           1           3          15          12\n6 1900640   Agency city, Iowa           0          10          22          24\n\n\nBecause of population differences between cities, we fetched the total number of households within cities from ACS and calculated proportions of single households in cities.\n\n\n    GEOID     CITY B11003_010E B11003_010M B11003_016E B11003_016M estimate proportion_male proportion_female\n1 1900190   Ackley          10           9          41          28      413     0.024213075        0.09927361\n2 1900235 Ackworth           0          10           8           8       32     0.000000000        0.25000000\n3 1900370    Adair           0          10           8           9      185     0.000000000        0.04324324\n4 1900505     Adel           0          15          61          73     1525     0.000000000        0.04000000\n5 1900595    Afton           1           3          15          12      245     0.004081633        0.06122449\n6 1900640   Agency           0          10          22          24      135     0.000000000        0.16296296\n\n\n\n\nCommuting Time to Work\nFrom a bunch of datasets for means of transportations from ACS, we collected the dataset of people commuting to work over one hour every day.\n\n\n    GEOID                NAME   variable num_commuters moe\n1 1900190   Ackley city, Iowa B08134_010            29  21\n2 1900235 Ackworth city, Iowa B08134_010             0  10\n3 1900370    Adair city, Iowa B08134_010            34  24\n4 1900505     Adel city, Iowa B08134_010            23  35\n5 1900595    Afton city, Iowa B08134_010            35  24\n6 1900640   Agency city, Iowa B08134_010             2   4\n\n\nAlso because of the size differences, I collectd the total number of communters and then calculated the proportion of people commuting more than 1 hour to work.\n\n\n    GEOID     CITY   variable num_commuters moe estimate  proportion\n1 1900190   Ackley B08134_010            29  21      752 0.038563830\n2 1900235 Ackworth B08134_010             0  10       50 0.000000000\n3 1900370    Adair B08134_010            34  24      390 0.087179487\n4 1900505     Adel B08134_010            23  35     2674 0.008601346\n5 1900595    Afton B08134_010            35  24      500 0.070000000\n6 1900640   Agency B08134_010             2   4      199 0.010050251\n\n\n\n\nEnglish Proficiency Dataset\nEnglish proficiency also contributes to how society is established, expresses and communicates ideas.\n Also, to maintain good relativity to the city sizes, I calculate the proportions.\n\n\n      CITY proportion\n1   Ackley  0.9660912\n2 Ackworth  1.0000000\n3    Adair  1.0000000\n4     Adel  0.9799023\n5    Afton  0.9630332\n6   Agency  1.0000000\n\n\n\n\n\nMerge Datasets together\nThese three datasets will be valuable to measurer the social capitals at the end and we just care about the proportions. So I perform a merge.\n\n\n\nSocial Capital Measures\n\n\n\n\nRace & Ancestry Diversity Dataset\nRace and Ancestry are important measures for Cultural Capitals. I collected data about number of people with different races and ancestries within cities and merge them together.\n\n\n\nAncestry\n\n\n We then use Simpson Index to calculate the diversity within each city.\n\n\n    GEOID     CITY SimpsonIndex_race SimpsonIndex_ancestry\n1 1900190   Ackley        0.24674401             0.8196178\n2 1900235 Ackworth        0.17250674             0.8134410\n3 1900370    Adair        0.09779811             0.7921790\n4 1900505     Adel        0.17635778             0.8601441\n5 1900595    Afton        0.26618045             0.8464086\n6 1900640   Agency        0.08874089             0.8409283\n\n\n\n\nCultural Datasets\nWe process to some visualizations for some of the measures for cultural capitals\n\n\n\nCultural\n\n\n\nVisualizations\n\nHistoric Sites\n\n\n\nArts\n\n\n\nMuseums\n\n\n\nMonuments"
   }
 ]

@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -274,60 +274,42 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Introduction" data-listing-date-sort="1715922000000" data-listing-file-modified-sort="1718712885519" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="733">
+<div class="thumbnail">
+<p><a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external"></a></p><a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external">
+<p class="card-img-top"><img src="tabassum/student-introductions/imgs/DSPG_day_1.jpg"  class="thumbnail-image card-img"/></p>
+</a><p><a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external"></a></p>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-categories="Introduction" data-listing-date-sort="1715922000000" data-listing-file-modified-sort="1719152337317" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="733" data-listing-title-sort="Tabassum's Introduction" data-listing-filename-sort="Tabassum_Introduction.qmd">
-<td>
-<span class="listing-date">May 17, 2024</span>
-</td>
-<td>
-<a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="title listing-title">Tabassum’s Introduction</a>
-</td>
-<td>
-<span class="listing-author">Tabassum Zaman</span>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external">Tabassum’s Introduction</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Introduction'); return false;">
+Introduction
+</div>
+</div>
+<div class="listing-description">
+<a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external">This is my favorite part <code>THE INTRODUCTION</code>. The ‘Why’ of this will answer my commitment for DSPG program and gratitude to be able to spend my summer with you all bright minds.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html" class="no-external">
+<div class="listing-date">
+May 17, 2024
+</div>
+<div class="listing-author">
+Tabassum Zaman
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

@@ -1,25 +1,15 @@
 [
   {
-    "listing": "/studentBlogs/tabassum.html",
+    "listing": "/studentBlogs/neha.html",
     "items": [
-      "/studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/solomon.html",
-    "items": [
-      "/studentBlogs/solomon/student-introductions/Solomon_Introduction.html"
-    ]
-  },
-  {
-    "listing": "/studentBlogs/nhat.html",
-    "items": [
-      "/studentBlogs/nhat/student-introductions/Nhat_Introduction.html"
+      "/studentBlogs/neha/student-midpoint-blog-NehaTiru/Neha_Midpoint_Blog.html",
+      "/studentBlogs/neha/student-introductions/Neha_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/lily.html",
     "items": [
+      "/studentBlogs/lily/student-midpoint-blog-lilychristenson/Lily's_Midpoint_Blog.html",
       "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
     ]
   },
@@ -30,20 +20,16 @@
     ]
   },
   {
-    "listing": "/studentBlogs/joseph.html",
-    "items": [
-      "/studentBlogs/joseph/student-introductions/Betti_Introduction.html"
-    ]
-  },
-  {
     "listing": "/studentBlogs/harun.html",
     "items": [
+      "/studentBlogs/harun/student-midpoint/harun-midpoint.html",
       "/studentBlogs/harun/student-introductions/harun_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/cael.html",
     "items": [
+      "/studentBlogs/cael/student-midpoint-blog-caelliastate/Cael_Midpoint_Blog.html",
       "/studentBlogs/cael/student-introductions/Cael_Introduction.html"
     ]
   },
@@ -65,31 +51,55 @@
   {
     "listing": "/studentBlogs/alister.html",
     "items": [
+      "/studentBlogs/alister/student-midpoint-blog-Alister03USA/Alister_Midpoint_Blog.html",
       "/studentBlogs/alister/student-introductions/Alister_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/blake.html",
     "items": [
+      "/studentBlogs/blake/student-midpoint-blog-blakeunderwood/Blake_Midpoint_Blog.html",
       "/studentBlogs/blake/student-introductions/Blake_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/joseph.html",
+    "items": [
+      "/studentBlogs/joseph/student-introductions/Betti_Introduction.html",
+      "/studentBlogs/joseph/student-midpoint-blog-jsbetti/Joseph_Midpoint_Blog.html"
     ]
   },
   {
     "listing": "/studentBlogs/manjul.html",
     "items": [
+      "/studentBlogs/manjul/student-midpoint-blog-ManjulBalayar/Manjul_Midpoint_Blog.html",
       "/studentBlogs/manjul/student-introductions/Manjul_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/naomi.html",
     "items": [
+      "/studentBlogs/naomi/student-midpoint-blog-bootingabend/NaomiMauss_Midpoint_Blog.html",
       "/studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html"
     ]
   },
   {
-    "listing": "/studentBlogs/neha.html",
+    "listing": "/studentBlogs/nhat.html",
     "items": [
-      "/studentBlogs/neha/student-introductions/Neha_Introduction.html"
+      "/studentBlogs/nhat/student-introductions/Nhat_Introduction.html",
+      "/studentBlogs/nhat/student-midpoint-blog-im-anhat/Chris_Midpoint_Blog.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/solomon.html",
+    "items": [
+      "/studentBlogs/solomon/student-introductions/Solomon_Introduction.html"
+    ]
+  },
+  {
+    "listing": "/studentBlogs/tabassum.html",
+    "items": [
+      "/studentBlogs/tabassum/student-introductions/Tabassum_Introduction.html"
     ]
   }
 ]

@@ -7,16 +7,17 @@
     ]
   },
   {
-    "listing": "/studentBlogs/lily.html",
+    "listing": "/studentBlogs/naomi.html",
     "items": [
-      "/studentBlogs/lily/student-midpoint-blog-lilychristenson/Lily's_Midpoint_Blog.html",
-      "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
+      "/studentBlogs/naomi/student-midpoint-blog-bootingabend/NaomiMauss_Midpoint_Blog.html",
+      "/studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html"
     ]
   },
   {
-    "listing": "/studentBlogs/karthik.html",
+    "listing": "/studentBlogs/manjul.html",
     "items": [
-      "/studentBlogs/karthik/student-introductions/Karthik.html"
+      "/studentBlogs/manjul/student-midpoint-blog-ManjulBalayar/Manjul_Midpoint_Blog.html",
+      "/studentBlogs/manjul/student-introductions/Manjul_Introduction.html"
     ]
   },
   {
@@ -36,6 +37,9 @@
   {
     "listing": "/allBlogs.html",
     "items": [
+      "/blogs2024/Team_Blog_Four/dspg-weekly-team-blog-four-community-capitals-1/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Four/dspg-weekly-team-blog-four-iowa-zoning-guide/Weekly_Team_Blog.html",
+      "/blogs2024/Team_Blog_Four/dspg-weekly-team-blog-four-housing-ai/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-iowa-zoning-guide/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-housing-ai/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_Three/dspg-weekly-team-blog-three-community-capitals-1/Weekly_Team_Blog.html",
@@ -70,17 +74,16 @@
     ]
   },
   {
-    "listing": "/studentBlogs/manjul.html",
+    "listing": "/studentBlogs/karthik.html",
     "items": [
-      "/studentBlogs/manjul/student-midpoint-blog-ManjulBalayar/Manjul_Midpoint_Blog.html",
-      "/studentBlogs/manjul/student-introductions/Manjul_Introduction.html"
+      "/studentBlogs/karthik/student-introductions/Karthik.html"
     ]
   },
   {
-    "listing": "/studentBlogs/naomi.html",
+    "listing": "/studentBlogs/lily.html",
     "items": [
-      "/studentBlogs/naomi/student-midpoint-blog-bootingabend/NaomiMauss_Midpoint_Blog.html",
-      "/studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html"
+      "/studentBlogs/lily/student-midpoint-blog-lilychristenson/Lily's_Midpoint_Blog.html",
+      "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
     ]
   },
   {

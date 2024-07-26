@@ -14,48 +14,46 @@
   {
     "listing": "/studentBlogs/nhat.html",
     "items": [
-      "/studentBlogs/nhat/student-introductions/Nhat_Introduction.html",
-      "/studentBlogs/nhat/student-midpoint-blog-im-anhat/Chris_Midpoint_Blog.html"
+      "/studentBlogs/nhat/student-introductions/Nhat_Introduction.html"
     ]
   },
   {
-    "listing": "/studentBlogs/naomi.html",
+    "listing": "/studentBlogs/lily.html",
     "items": [
-      "/studentBlogs/naomi/student-midpoint-blog-bootingabend/NaomiMauss_Midpoint_Blog.html",
-      "/studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html"
+      "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
     ]
   },
   {
-    "listing": "/studentBlogs/manjul.html",
+    "listing": "/studentBlogs/karthik.html",
     "items": [
-      "/studentBlogs/manjul/student-midpoint-blog-ManjulBalayar/Manjul_Midpoint_Blog.html",
-      "/studentBlogs/manjul/student-introductions/Manjul_Introduction.html"
+      "/studentBlogs/karthik/student-introductions/Karthik.html"
     ]
   },
   {
     "listing": "/studentBlogs/joseph.html",
     "items": [
-      "/studentBlogs/joseph/student-introductions/Betti_Introduction.html",
-      "/studentBlogs/joseph/student-midpoint-blog-jsbetti/Joseph_Midpoint_Blog.html"
+      "/studentBlogs/joseph/student-introductions/Betti_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/blake.html",
     "items": [
-      "/studentBlogs/blake/student-midpoint-blog-blakeunderwood/Blake_Midpoint_Blog.html",
       "/studentBlogs/blake/student-introductions/Blake_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/alister.html",
     "items": [
-      "/studentBlogs/alister/student-midpoint-blog-Alister03USA/Alister_Midpoint_Blog.html",
       "/studentBlogs/alister/student-introductions/Alister_Introduction.html"
     ]
   },
   {
     "listing": "/allBlogs.html",
     "items": [
+      "/blogs2024/Final_Present_Loop/dspg_introduction.html",
+      "/blogs2024/Final_Blogs/dspg-final-blogs-community-capitals-1/Final_Team_Blog.html",
+      "/blogs2024/Final_Blogs/dspg-final-blogs-iowa-zoning-guide/Final_Team_Blog.html",
+      "/blogs2024/Final_Blogs/dspg-final-blogs-housing-ai/Final_Team_Blog.html",
       "/blogs2024/Team_Blog_Five/dspg-weekly-team-blog-five-community-capitals-1/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_Five/dspg-weekly-team-blog-five-iowa-zoning-guide/Weekly_Team_Blog.html",
       "/blogs2024/Team_Blog_Five/dspg-weekly-team-blog-five-housing-ai/Weekly_Team_Blog.html",
@@ -77,7 +75,6 @@
   {
     "listing": "/studentBlogs/cael.html",
     "items": [
-      "/studentBlogs/cael/student-midpoint-blog-caelliastate/Cael_Midpoint_Blog.html",
       "/studentBlogs/cael/student-introductions/Cael_Introduction.html"
     ]
   },
@@ -89,22 +86,20 @@
     ]
   },
   {
-    "listing": "/studentBlogs/karthik.html",
+    "listing": "/studentBlogs/manjul.html",
     "items": [
-      "/studentBlogs/karthik/student-introductions/Karthik.html"
+      "/studentBlogs/manjul/student-introductions/Manjul_Introduction.html"
     ]
   },
   {
-    "listing": "/studentBlogs/lily.html",
+    "listing": "/studentBlogs/naomi.html",
     "items": [
-      "/studentBlogs/lily/student-midpoint-blog-lilychristenson/Lily's_Midpoint_Blog.html",
-      "/studentBlogs/lily/student-introductions/Lily_Introduction.html"
+      "/studentBlogs/naomi/student-introductions/NaomiMauss_Introduction.html"
     ]
   },
   {
     "listing": "/studentBlogs/neha.html",
     "items": [
-      "/studentBlogs/neha/student-midpoint-blog-NehaTiru/Neha_Midpoint_Blog.html",
       "/studentBlogs/neha/student-introductions/Neha_Introduction.html"
     ]
   }
